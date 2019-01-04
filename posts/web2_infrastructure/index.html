@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<meta name="description" content="Call me Sam, a theme for Hugo.">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="/">
+
+<meta name="twitter:image" content="/tn.png">
+<meta name="twitter:title" property="og:title" itemprop="title name" content="Sam">
+<meta name="twitter:description" property="og:description" itemprop="description" content="Call me Sam, a theme for Hugo.">
+<meta name="og:type" content="website">
+<meta name="og:url" content="/">
+<meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
+
+<link rel="shortcut icon" href="../../sam.ico" id="favicon">
+<link rel="stylesheet" href="../../css/style.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        web2.0推动的互联网基础技术变革
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">web2.0推动的互联网基础技术变革</div>
+
+        
+<div class="section" id="content">
+    Sun Aug 26, 2007 &#183;
+    
+    <div class="tag-container">
+        
+        <span class="tag">
+            <a href="../../tags/blog">
+                blog
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/tech">
+                tech
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/internet">
+                internet
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/programming">
+                programming
+            </a>
+        </span>
+        
+    </div>
+    
+    <hr/>
+    <p>胡狼发来 <a href="http://tech.51cto.com/art/200703/42476.htm">http://tech.51cto.com/art/200703/42476.htm</a> 给我看。</p>
+
+<p>这篇文章最有趣的地方是说到了web2.0公司更加善于不重复发明轮子。而在这个领域最成功的案例是amazon的S3和EC2服务。amazon和google是我们一直关注的两个公司，某种程度上他们代表了互联网的未来和方向性。这事情值得讨论一番。</p>
+
+<p>行业的变化</p>
+
+<p>其实整个行业的变化早就在不经意间发生，就算是看起来最稳定的领域。很多人认为unix世界是稳定的，windows世界是快速变化的，其实正好相反。unix世界每分钟都在变化。同样，在互联网最基础的层面，变化也在时刻发生。</p>
+
+<p>互联网基础的基础，是带宽和服务器。95年的时候，建网站一般是自己拉一根专线到办公室，接在“服务器”上。其实直到现在，很多企业还在自建机房。比如我过去工作过的税务报社，比如过去我们的兄弟单位经济日报社，都是自己的机房。这些都是有钱，且更在乎信息安全的单位，算特例。</p>
+
+<p>IDC的产生我认为是通过集中管理带宽来产生效益的方法。机器放在IDC托管，比自己建机房便宜，投入小，而IDC还能赚到钱。这是规模效应产生的利润。 IDC满足了99%的网站。除了刚才说的那种国企和机关。</p>
+
+<p>更特殊的是google和amazon。他们对带宽的要求，对成本的控制，整体的规模要求，已经没有idc能够承担了。于是也只好自己建机房。不仅建造机房，为了支撑自己的服务，他们还要开发很强的软件用于管理。比如google的gfs和bigtable用于存储(在修改过得linux文件系统上面的一层)，gws用于负载平衡和web 服务。按照机器数量和带宽数量来衡量的话，google是世界上最大的IDC了。</p>
+
+<p>amazon做得更有趣一些。除了自己建立了大型的分布的机房，完成了各种软件应用，还把空闲的资源分割开出租。这就是AWS(aws.amazon.com)。AWS应用最成功的服务是存储服务S3（Simple Storage Service）和运算服务EC2(Amazon Elastic Compute Cloud)。这东西价格便宜到不可想象的地步，核算一下成本就会发现，任何规模小点的公司自己建立存储，都不如采用S3划算和安全，小公司的带宽投入价格甚至会超过购买同样带宽的S3。而且不需要投入开发人员，直接用就行了。</p>
+
+<p>这仍然是“规模效应产生利润”。前面说了，IDC完成了“带宽”这个基础的规模效应。同样拥有大量带宽的amazon，同时又具有强大的软件系统，这种基础将可以进行规模效应的产品向上推了一层。不再是硬的带宽和服务器，而是软的存储技术。这就是我称之为互联网基础技术的东西。</p>
+
+<p>amazon在规模效应上远高于IDC。首先，带宽采购量更大，价格更便宜。其次，服务器和存储设备统一采购，价格更便宜。然后，自己开发的软件进行统一管理，大大降低管理成本。后面两个层次是IDC所不具备的。这是软件的力量。</p>
+
+<p>新一代网站与基础技术渴望</p>
+
+<p>与其叫他们web 2.0，我更愿意叫他们新一代网站。他们有几个特点：</p>
+
+<p>1 目标更收缩集中。相册能作成一个大网站(flickr.com)，书签能作成一个大网站(delicio.us)，甚至唧唧歪歪的留言也可以(twitter.com)&hellip;&hellip;任何一个独立的领域都有可能成为一个单独的服务被拿出来。
+2 公司规模更小。比起传统的互联网企业，新一代的网站工作人员数量变得很少。不再需要那么多编辑，不再需要那么多销售&hellip;
+3 传统行业大量涌入。大量的传统行业者利用现有资源，突击互联网。他们的特点是行业资源强，盈利能力强，技术能力差。
+4 网站的架构变得更加简单。因为目标收缩集中了，网站的架构也就简单了。
+5 内容量快速增加。用户创造内容并非空话，新的网站中内容增加的速度远远高于过去。
+6 网站之间因为api的缘故，互相连通更加容易。</p>
+
+<p>目标更加集中，导致架构简单，而强大的互动特性导致了用户贡献内容，使得公司规模更小，更追求低成本。应用层技术要求下降，基础技术要求提高。比如：应用层就一个bbs，但是这个bbs有了5000万个帖子。这时候需要的是存储技术，而不是简单改改bbs程序就能解决的。过去复杂的网站架构已经变成了简单应用+高稳定+大负载+高容量的简单架构。架构简单了，但是难度反而提高了。作一套复杂的论坛程序还是简单的，但是做一个高稳定+大负载+高容量的存储服务，就很困难了。</p>
+
+<p>我们急切的需要抹平这个技术鸿沟。现在做一个网站有很多可选组件了。比如，论坛有的是开源程序，图片可以通过flickr api放在flickr，需要地图可以用google map api 或是51ditu api，至于facebook api提供的功能就更多了。有了这些东西，做出一个想象中的应用就变得简单多了。而，在应用之下的技术基础服务，却仍然不够丰富。只有amazon算是前瞻的走出了一步。</p>
+
+<p>我们做咨询的过程中，发现大量网站因为基础技术问题而导致不稳定。这问题在一年后会变的更为突出。这一年所累积的内容和数据会令很多网站不强大的技术基础彻底崩溃。</p>
+
+<p>基础技术服务</p>
+
+<p>以我看来，基础技术分为几类，存储算一方面，搜索算一方面，负载算一方面。tiny早有名言说：每一个网站都应该有反向代理缓存，每一个网站都应该有搜索技术。至于存储，不是每个网站都需要，至少也是大部分网站都需要。</p>
+
+<p>所有公司都习惯租办公室而不是买楼，租比买好。按照新一代网站的实际情况和务实性，他们也应该更喜欢租用这些服务。amazon S3在美国的火爆充分证明了这一点。我们开始尝试的对外出租搜索技术的目前看来情况也不错。</p>
+
+<p>而最好的服务模式，我觉得是以机房为单位，在一个机房内网范围内提供基础技术服务，这样速度有保障，且不产生外网流量，非常理想。一个网站可以用这些东西拼拼搭搭，完成自己的服务，把精力放在自己特定的业务和客户上，他们不可能因为技术垄断而产生竞争壁垒，也就没必要为了技术投入太多资源。</p>
+
+<p>在还没有amazon的中国，这个服务恐怕需要几个角色合作完成了。</p>
+
+<p>事实上，互联网的特征是，一个东西一旦普及到一定程度，就应该免费。然后通过在此之上的增值服务赚钱。这也是必然的趋势。</p>
+
+<p>胡狼说了个很好的比喻:&ldquo;带宽和合适的软件的结合，就好像intel+ms的联盟一样&rdquo;。窃以为然。</p>
+
+</div>
+
+
+        
+<div class="section bottom-menu">
+    
+<hr />
+<p>
+
+
+    
+        <a href="../../posts">back</a>
+        
+            &#183;
+        
+    
+
+    
+        
+            <a href="../../posts">
+                Blog
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="../../about">
+                About
+            </a>
+        
+    
+    &#183; 
+    <a href="../../">
+        
+    </a>
+
+</p>
+</div>
+
+
+        <div class="section footer"></div>
+    </div>
+</body>
+
+</html>

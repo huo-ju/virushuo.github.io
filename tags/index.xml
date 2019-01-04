@@ -5,10 +5,28 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 31 Dec 2018 07:19:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2011 17:10:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apple</title>
+      <link>/tags/apple/</link>
+      <pubDate>Fri, 07 Oct 2011 17:10:00 +0800</pubDate>
+      
+      <guid>/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baidu</title>
+      <link>/tags/baidu/</link>
+      <pubDate>Sat, 26 Mar 2011 12:03:00 +0800</pubDate>
+      
+      <guid>/tags/baidu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -16,6 +34,87 @@
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
       <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>/tags/book/</link>
+      <pubDate>Sat, 08 Aug 2009 00:08:00 +0800</pubDate>
+      
+      <guid>/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada</title>
+      <link>/tags/canada/</link>
+      <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
+      
+      <guid>/tags/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coderstory</title>
+      <link>/tags/coderstory/</link>
+      <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
+      
+      <guid>/tags/coderstory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crypto</title>
+      <link>/tags/crypto/</link>
+      <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
+      
+      <guid>/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>/tags/google/</link>
+      <pubDate>Sun, 24 Jan 2010 12:01:00 +0800</pubDate>
+      
+      <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sun, 26 Aug 2007 21:08:00 +0800</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipad</title>
+      <link>/tags/ipad/</link>
+      <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
+      
+      <guid>/tags/ipad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Sun, 27 Dec 2009 18:12:00 +0800</pubDate>
+      
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/tags/search/</link>
+      <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
+      
+      <guid>/tags/search/</guid>
       <description></description>
     </item>
     

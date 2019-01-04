@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<meta name="description" content="Call me Sam, a theme for Hugo.">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="/">
+
+<meta name="twitter:image" content="/tn.png">
+<meta name="twitter:title" property="og:title" itemprop="title name" content="Sam">
+<meta name="twitter:description" property="og:description" itemprop="description" content="Call me Sam, a theme for Hugo.">
+<meta name="og:type" content="website">
+<meta name="og:url" content="/">
+<meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
+
+<link rel="shortcut icon" href="../../sam.ico" id="favicon">
+<link rel="stylesheet" href="../../css/style.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        使用php,js来对内容做rsa加密
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">使用php,js来对内容做rsa加密</div>
+
+        
+<div class="section" id="content">
+    Sun Dec 27, 2009 &#183;
+    
+    <div class="tag-container">
+        
+        <span class="tag">
+            <a href="../../tags/blog">
+                blog
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/tech">
+                tech
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/crypto">
+                crypto
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="../../tags/programming">
+                programming
+            </a>
+        </span>
+        
+    </div>
+    
+    <hr/>
+    <p><a href="http://code.google.com/p/phpjsrsa/">http://code.google.com/p/phpjsrsa/</a></p>
+
+<p>这是一个用于文本加密的库，主要用于http协议下的防窃听。一般来说，如果应用https协议可以有效的避免窃听。但有几种情况必须考虑。</p>
+
+<p>(1) 主机同时有https和http协议，部分用户通过https协议访问，获得了保护。但也有用户通过http访问，这部分用户会遭到窃听。除非关闭http请求，全面转向https。
+(2) 主机并没有https支持。</p>
+
+<p>很多情况下，我们需要保证主机安全，最好的办法是将其混入数字森林中。即：这台主机输出的内容没有人能看得懂的，只由无意义的代码和数字组成。用户浏览这台主机，不会触发任何关键词扫描。甚至该主机连https协议都不使用，更凸显其低调本色。</p>
+
+<p>换言之，一个网站如果把自己的内容都变成字母和数字的组合，且不使用https协议，那么他就是数字森林中的一片树叶，丝毫不引人注意。</p>
+
+<p>我们的目标应该是传输过程中不引人注意，并非绝对的不可破解的安全。</p>
+
+<p>因此这个库的工作流程是：</p>
+
+<ol>
+<li>php对&rdquo;内容&rdquo;做rsa加密-&gt;将加密结果输出到页面上。</li>
+<li>用户浏览页面，html代码中的&rdquo;内容&rdquo;被加密成数字形态。私钥可以直接输出在页面代码中，也可由用户输入一次，保存在cookie中。使用cookie会降低密钥泄露的危险，更加有效。</li>
+<li>通过javascript在用户浏览器上将这些数字解密为内容。</li>
+<li>通过javascript dom来把内容写回到页面上。用户即可浏览。</li>
+</ol>
+
+<p>利用javascript解密，可以把运算负担分散到客户端上。窃听者如要窃听每一个页面的内容，则必须要 1 获得密钥 2 用密钥解密内容</p>
+
+<p>在已知密钥情况下，如客户端的每个页面运算负担为 1 ，页面数量n ，那么窃听者获得密钥之后的运算负担为 1*n。</p>
+
+<p>为了运算效率，使用小质数作为rsa的p,q，理论上窃听者可以通过因数分解算出密钥，其运算负载为k，注意k 远远大于1。</p>
+
+<p>如果每个站点使用不同的密钥，共计m个站点，窃听者的运算负担为 m*k+1*n，且负载集中。</p>
+
+<p>而，如果采用双向可逆加密方法，在得知算法的情况下，窃听者运算负载极小。如果在通过变换算法来增加难度，又无法做到通用，给用户正常浏览造成困难。使用rsa方法，算法是标准的，用户使用成本很低，窃听成本很高。</p>
+
+<p>在项目代码中，我已经实现了这一目标。但仍然有效率问题。</p>
+
+<p>目前问题：</p>
+
+<p>1 在没有bcmath和gnumath函数的php主机上，php加密内容的运算效率很低。和bcmath差距几十倍。好在大部分情况下，主机都是有bcmath函数的。这个问题不严重。
+2 JS的bigint运算效率很低，主要是powmod的效率低，而这是rsa解密最频繁的操作。</p>
+
+<p>希望有兴趣的朋友加入这个项目。效率问题解决后，还需要port在一系列常用软件上。比如dabr或twitese等。</p>
+
+<p>另外，需要的质数可以在 <a href="http://www.prime-numbers.org">http://www.prime-numbers.org</a> 找。</p>
+
+<p>update: 使用了 <a href="http://www-cs-students.stanford.edu/~tjw/jsbn/">http://www-cs-students.stanford.edu/~tjw/jsbn/</a> 的大数运算库，效率提高很多。</p>
+
+<p>2010/01/01 Ariagle has released a <a href="http://blog.lolily.com/wordpress-plugin-wp-no-keyword.html'&gt;wordpress">http://blog.lolily.com/wordpress-plugin-wp-no-keyword.html'&gt;wordpress</a> plugin , It encodes keyword into digitals by phpjsrsa :)</p>
+
+</div>
+
+
+        
+<div class="section bottom-menu">
+    
+<hr />
+<p>
+
+
+    
+        <a href="../../posts">back</a>
+        
+            &#183;
+        
+    
+
+    
+        
+            <a href="../../posts">
+                Blog
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="../../about">
+                About
+            </a>
+        
+    
+    &#183; 
+    <a href="../../">
+        
+    </a>
+
+</p>
+</div>
+
+
+        <div class="section footer"></div>
+    </div>
+</body>
+
+</html>

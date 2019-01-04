@@ -13,8 +13,95 @@
   </url>
   
   <url>
+    <loc>/posts/the_guide_of_punish_canada/</loc>
+    <lastmod>2018-12-15T22:45:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/comic_4years/</loc>
+    <lastmod>2013-06-30T11:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/think_different_be_yourself/</loc>
+    <lastmod>2011-10-07T17:10:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bitcoin/</loc>
+    <lastmod>2011-05-23T15:05:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/digital_copyright/</loc>
+    <lastmod>2011-04-01T12:04:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/baidu_wenku_author/</loc>
+    <lastmod>2011-03-26T12:03:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ipad_coming/</loc>
+    <lastmod>2010-04-05T21:04:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/two_search_engine/</loc>
+    <lastmod>2010-01-24T12:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/google_baidu/</loc>
+    <lastmod>2010-01-14T22:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/phpjsrsa/</loc>
+    <lastmod>2009-12-27T18:12:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/the_pragmatic_programmer/</loc>
+    <lastmod>2009-08-08T00:08:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lvba/</loc>
+    <lastmod>2009-06-15T20:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dic_comment/</loc>
+    <lastmod>2008-06-03T11:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/web2_infrastructure/</loc>
+    <lastmod>2007-08-26T21:08:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/googlebigtable/</loc>
+    <lastmod>2006-09-25T15:09:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-01-01T19:13:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/apple/</loc>
+    <lastmod>2011-10-07T17:10:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/baidu/</loc>
+    <lastmod>2011-03-26T12:03:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +112,49 @@
   </url>
   
   <url>
+    <loc>/tags/book/</loc>
+    <lastmod>2009-08-08T00:08:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/canada/</loc>
+    <lastmod>2018-12-15T22:45:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coderstory/</loc>
+    <lastmod>2013-06-30T11:06:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/crypto/</loc>
+    <lastmod>2011-05-23T15:05:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/google/</loc>
+    <lastmod>2010-01-24T12:01:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2007-08-26T21:08:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ipad/</loc>
+    <lastmod>2010-04-05T21:04:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +165,20 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/programming/</loc>
+    <lastmod>2009-12-27T18:12:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/search/</loc>
     <lastmod>2018-12-31T07:19:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2011-10-07T17:10:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   

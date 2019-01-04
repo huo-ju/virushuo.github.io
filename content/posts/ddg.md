@@ -3,7 +3,7 @@ title: "穿越寒冬的独行者"
 date: 2018-12-31T07:19:00-05:00
 showDate: true
 draft: false
-tags: ["blog","tech"]
+tags: ["blog","tech", "search"]
 ---
 
 2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。
