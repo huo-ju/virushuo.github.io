@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>谈谈《程序员修炼之道》 - HuoJu&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Huo Ju" /><meta name="description" content="学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更" /><meta name="keywords" content="Tech, Internet" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54-DEV with even 4.0.0" />
+
+
+<link rel="canonical" href="../../post/the_pragmatic_programmer/" />
+<link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+<link rel="manifest" href="../../manifest.json">
+<link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link href="../../dist/even.41a9573e.min.css" rel="stylesheet">
+<link href="../../lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
+
+
+<meta property="og:title" content="谈谈《程序员修炼之道》" />
+<meta property="og:description" content="学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/the_pragmatic_programmer/" /><meta property="article:published_time" content="2009-08-08T00:08:00&#43;08:00"/>
+<meta property="article:modified_time" content="2009-08-08T00:08:00&#43;08:00"/>
+
+<meta itemprop="name" content="谈谈《程序员修炼之道》">
+<meta itemprop="description" content="学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更">
+
+
+<meta itemprop="datePublished" content="2009-08-08T00:08:00&#43;08:00" />
+<meta itemprop="dateModified" content="2009-08-08T00:08:00&#43;08:00" />
+<meta itemprop="wordCount" content="1557">
+
+
+
+<meta itemprop="keywords" content="blog,programming,book," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="谈谈《程序员修炼之道》"/>
+<meta name="twitter:description" content="学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="../../" class="logo">HuoJu&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="../../">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="../../post/">
+        <li class="mobile-menu-item">Archives</li>
+      </a><a href="../../tags/">
+        <li class="mobile-menu-item">Tags</li>
+      </a><a href="../../categories/">
+        <li class="mobile-menu-item">Categories</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="../../" class="logo">HuoJu&#39;s blog</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="../../">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../post/">Archives</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../tags/">Tags</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../categories/">Categories</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">谈谈《程序员修炼之道》</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2009-08-08 </span>
+        
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">Contents</h2>
+  <div class="post-toc-content always-active">
+    
+  </div>
+</div>
+    <div class="post-content">
+      <p>学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更高的级别，不是件容易的事，这个跳跃过程总需要一些东西的辅助。诚然，如果要成为一个好人，那么只要做好在幼儿园中学到的一切就足够。如果要成为一个好程序员，所需要的道理也不太多，只不过，当水平不够的时候，永远不能认识到那些朴素道理的重要。而当水平达到的时候，这些道理自然会明白。所以一本帮助程序员进阶的书，很容易落到低手觉得是废话，高手也觉得是废话的悲惨境地。</p>
+
+<p>很多年以前，有人和我推荐过这本《程序员修炼之道》，甚至专门买了一本送到我家。而当年的我，不知道是由于无知，自负，浮躁，或是其他，只草草翻了一下，就下了个&rdquo;烂书&rdquo;的定义，扔在书架一角。后来有朋友在我书架上发现，如获至宝，说已经买不到了。我当然乐得送了人情。在我心目中，最好的入门书永远是《代码大全》，那也是对我影响最深的一部书。</p>
+
+<p>过了很多年之后，再来谈这本书，发现很多人的评价比我高的多，自知不妙，赶快找来重读，这才知道错过了什么。在一个滥俗的译名之下，在一个看起来不知所云的目录之后，在一些读起来拗口的句子之中，隐藏的竟然是相当伟大的思想，朴素而真挚，简单而有效。这时候我突然明白，这是一本不逊于《代码大全》的伟大著作，后者一直被我誉为&rdquo;新手圣经&rdquo;。</p>
+
+<p>经验这个东西，往往并不能告诉我们什么一定对，但是可以告诉我们什么一定不对。这本书完全是经验凝成，没有大道理，没有新观念。这些朴素的道理就是创造一个合格软件和作一个好程序员所必须了解的。比如 &ldquo;提示44 不要靠巧合编程&rdquo;，这句话表达的意思是&rdquo;不要预设立场&rdquo;。听起来简单，但是只要随手翻翻你最新写过的一段程序，通常都会发现代码中做了大量的&rdquo;假设&rdquo;。书中用一道习题，假设了用户使用命令行环境，假设用户懂英语&hellip;.都可能导致问题。怕了吧？幸好还有&rdquo;提示30 你不可能写出完美的软件&rdquo;，这可不是帮你开脱责任，而是在讲如何控制需求，这正是能顺利完成一个项目的根本前提，可惜事实上往往到了项目失败的时候，人们才想起来需求出了问题。</p>
+
+<p>这本书涉猎的范围相当广，如何设计架构，如何思考问题，如何测试，如何编码，如何处理文档&hellip;如果细心琢磨，构建软件的所有主干和细微枝节都有所涉及。和很多人的看法不同，我不认为这是一本可以轻松读完的书。一方面，这本书涉及的内容太多，虽然已经尽量讲述，但所有话题都可以继续引申出无限的内容，如果用心，还可以配合附录中所提到的各种论文和资源继续学习。习题也需要仔细思考。这绝不是一本小说。另一方面，作者用了大量的隐喻，导致读起来有一定难度。开始我认为是翻译质量有问题，不过慢慢发现美国的读者读起来也未必容易。原因还是涉及到的范围过大。我特意模仿这种风格写了本文的第一段。虽然是中文，读起来也不容易吧。</p>
+
+<p>相信以上的两点会阻挡一部分人阅读这本书。我也算是曾经受阻的人之一。 不过，好书并不会随着时间的推移和平台变化而消亡，好书只会成为经典。无论是《人月神话》，还是《代码大全》，都在时间的长河中沉淀下来，传颂至今。这本书，虽然历史只有10年，不过现在再来翻看，不仅毫不落伍，甚至感觉穿透了时间，看到了这些年中不少自己犯过的错误，我相信这也是一本能经的起时间沉淀的书，只不过需要多点耐心。因此，我郑重的写下这篇书评，希望再能读到这本书的人多一点耐心，越过语言的障碍，直入本质，直至跃向更高级别。这个希望，不仅仅是对新手说的，其实也包括我自己。如本书开头所说：注重实效的程序员应该不断学习。我们都应该不断的学习下去。</p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">Huo Ju</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">2009-08-08</span>
+  </p>
+  
+  
+</div><footer class="post-footer">
+      <div class="post-tags">
+          <a href="../../tags/blog/">blog</a>
+          <a href="../../tags/programming/">programming</a>
+          <a href="../../tags/book/">book</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="../../post/phpjsrsa/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">使用php,js来对内容做rsa加密</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        <a class="next" href="../../post/lvba/">
+            <span class="next-text nav-default">绿坝的技术错误及其可能导致的后果</span>
+            <span class="next-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        <div id="gitalk-container"></div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      var gitalk = new Gitalk({
+        id: '2009-08-08 00:08:00 \x2b0800 \x2b0800',
+        title: '谈谈《程序员修炼之道》',
+        clientID: '561dd511bb112f9f56f5',
+        clientSecret: '0d936072832208e6929b71a52bd73c2639751482',
+        repo: 'virushuo.github.io',
+        owner: 'virushuo',
+        admin: ['virushuo'],
+        body: decodeURI(location.href)
+      });
+      gitalk.render('gitalk-container');
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://github.com/virushuo/" class="iconfont icon-github" title="github"></a>
+  <a href="../../index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2017 - 
+    2019
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">Huo Ju</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  <script type="text/javascript" src="../../lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="../../lib/slideout/slideout-1.0.1.min.js"></script>
+  <script type="text/javascript" src="../../lib/fancybox/jquery.fancybox-3.1.20.min.js"></script>
+<script type="text/javascript" src="../../dist/even.069327e0.min.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

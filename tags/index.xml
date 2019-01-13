@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on HuoJu&#39;s blog</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on HuoJu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Oct 2011 17:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2010 21:04:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,14 +13,23 @@
     <item>
       <title>Apple</title>
       <link>/tags/apple/</link>
-      <pubDate>Fri, 07 Oct 2011 17:10:00 +0800</pubDate>
+      <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
       
       <guid>/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Baidu</title>
+      <title>apple</title>
+      <link>/tags/apple/</link>
+      <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
+      
+      <guid>/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baidu</title>
       <link>/tags/baidu/</link>
       <pubDate>Sat, 26 Mar 2011 12:03:00 +0800</pubDate>
       
@@ -29,7 +38,7 @@
     </item>
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>/tags/blog/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
@@ -38,7 +47,7 @@
     </item>
     
     <item>
-      <title>Book</title>
+      <title>book</title>
       <link>/tags/book/</link>
       <pubDate>Sat, 08 Aug 2009 00:08:00 +0800</pubDate>
       
@@ -47,7 +56,7 @@
     </item>
     
     <item>
-      <title>Canada</title>
+      <title>canada</title>
       <link>/tags/canada/</link>
       <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
       
@@ -56,7 +65,7 @@
     </item>
     
     <item>
-      <title>Coderstory</title>
+      <title>coderstory</title>
       <link>/tags/coderstory/</link>
       <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
       
@@ -65,7 +74,7 @@
     </item>
     
     <item>
-      <title>Crypto</title>
+      <title>crypto</title>
       <link>/tags/crypto/</link>
       <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
       
@@ -74,7 +83,7 @@
     </item>
     
     <item>
-      <title>Google</title>
+      <title>google</title>
       <link>/tags/google/</link>
       <pubDate>Sun, 24 Jan 2010 12:01:00 +0800</pubDate>
       
@@ -83,16 +92,7 @@
     </item>
     
     <item>
-      <title>Internet</title>
-      <link>/tags/internet/</link>
-      <pubDate>Sun, 26 Aug 2007 21:08:00 +0800</pubDate>
-      
-      <guid>/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipad</title>
+      <title>iPad</title>
       <link>/tags/ipad/</link>
       <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
       
@@ -101,7 +101,16 @@
     </item>
     
     <item>
-      <title>Programming</title>
+      <title>internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sun, 26 Aug 2007 21:08:00 +0800</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
       <link>/tags/programming/</link>
       <pubDate>Sun, 27 Dec 2009 18:12:00 +0800</pubDate>
       
@@ -110,7 +119,7 @@
     </item>
     
     <item>
-      <title>Search</title>
+      <title>search</title>
       <link>/tags/search/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
@@ -119,7 +128,7 @@
     </item>
     
     <item>
-      <title>Tech</title>
+      <title>tech</title>
       <link>/tags/tech/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
