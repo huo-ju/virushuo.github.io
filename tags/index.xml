@@ -20,6 +20,24 @@
     </item>
     
     <item>
+      <title>US</title>
+      <link>/tags/us/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ai</title>
+      <link>/tags/ai/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>apple</title>
       <link>/tags/apple/</link>
       <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
@@ -101,11 +119,38 @@
     </item>
     
     <item>
+      <title>im</title>
+      <link>/tags/im/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/im/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>internet</title>
       <link>/tags/internet/</link>
-      <pubDate>Sun, 26 Aug 2007 21:08:00 +0800</pubDate>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
       
       <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>/tags/opensource/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>/tags/politics/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/politics/</guid>
       <description></description>
     </item>
     
@@ -119,6 +164,15 @@
     </item>
     
     <item>
+      <title>sci-fi</title>
+      <link>/tags/sci-fi/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/sci-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>search</title>
       <link>/tags/search/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
@@ -128,11 +182,38 @@
     </item>
     
     <item>
+      <title>shanda</title>
+      <link>/tags/shanda/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/shanda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tech</title>
       <link>/tags/tech/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
       <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telegram</title>
+      <link>/tags/telegram/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weixin</title>
+      <link>/tags/weixin/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/weixin/</guid>
       <description></description>
     </item>
     

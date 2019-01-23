@@ -29,6 +29,105 @@
     </item>
     
     <item>
+      <title>内容电商毁掉了内容</title>
+      <link>/post/content_with_eshopping/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/content_with_eshopping/</guid>
+      <description>微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一</description>
+    </item>
+    
+    <item>
+      <title>Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋</title>
+      <link>/post/telegram_russian_hacker/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/telegram_russian_hacker/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/telegram_russian_hacker/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;说了很久要写Telegram的故事，一直拖延没有写。在我拖延的这段时间里面，Telegarm继续快速增长，前几天，在旧金山的TechCrunch Disrupt活动上，创始人Durov说现在Telegram每天发送的消息数已经达到了120亿条，而今年2月的时候只有10亿条，是时候写完这个故事了。不过，随着它的出名，在中国也毫无悬念的变得难以访问，所以，如果你看完下载了它，又觉得不好连上，程序崩溃什么的，这并不是Telegram的错。&lt;/p&gt;
+
+&lt;p&gt;每天120亿条消息是什么概念呢？我能找到的Whatsapp最新一次公布这个数字是今年4月，每天640亿条，这可是Facebook以190亿美金代价重金收购的App，并且被当作Facebook在移动平台上最好的投资之一。出生在最大的互联网市场美国，并且有Facebook的全力支持，也只是几倍于Telegram的规模而已。如果不出意外，未来的某个时候，Telegram会超过Whatsapp。&lt;/p&gt;
+
+&lt;p&gt;消息数量和月活跃用户上，Telegram显然比Whatsapp和微信还有很大差距。但这是一个只有2年历史的新工具，并且他是一个完全私人拥有的公司，没有其他股东，没有投资人，号称永远不会出售，并且，它有着一支人数极少又战斗力极强的团队…这一切都让这个产品显得与众不同。如果要说这个时代的传奇，Telegram和它的创始人甚至团队，都完全可以入选。它和人们所知道的各种创业故事、商业传奇完全不一样，但又具有传奇故事的一切要素：黑客高手、政治、极权、阴谋…富豪，一应俱全。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>墙、感染、信任和欺骗</title>
+      <link>/post/wall_infection_trust_cheating/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/wall_infection_trust_cheating/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/wall_infection_trust_cheating/Ken_Thompson_and_Dennis_Ritchie_at_PDP-11.jpg&#34; alt=&#34;Ken Thompson (sitting) and Dennis Ritchie &#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最近XcodeGhost导致的严重安全问题，相信大家已经从各个渠道知道了。简单概括一下，有人在中国网盘和论坛上传播了一个修改过的Xcode，这个版本的Xcode会在编译出来的App上面加一些可以被远程控制的代码，并且发送数据到某个服务器上。这是iOS出现以来，未越狱系统遭遇的最大安全威胁，在此之前苹果的Sandbox模式几乎没遇到过挑战，iPhone用户甚至大量iOS开发者都认为系统固若金汤，不可能遇到问题。&lt;/p&gt;
+
+&lt;p&gt;在XcodeGhost开始被媒体报道的时，很多人大大低估了它的风险。我在乌云报道这个问题的当天，在朋友圈上建议大家先把中招的app都删掉，并且立刻修改iCloud密码，开两步验证。甚至遭到了不少人反对，还有好几位iOS开发者告诉我这件事没什么大问题，因为iOS有Sandbox，不会造成什么伤害。当时网易也发了一个关于云音乐被感染的说明，也是类似不痛不痒的口气。这些说法当然都是大错特错的，会有这种想法，是因为只会站在程序员角度看问题，如果对安全问题稍微有一点敏感性，就会立刻意识到这是极严重的威胁，稍微发挥一些想象力就会被吓着。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>从神的手里取回自己</title>
+      <link>/post/us_same_sex_marriage_legal/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/us_same_sex_marriage_legal/</guid>
+      <description>&lt;p&gt;前天（6月26日），我在朋友圈发了一条消息“今天，美国终于和他的北方邻居在文明上到达了一样的高度。”，这件事指的是美国最高法院关于同性婚姻判决，北方邻居是加拿大。当天晚上，在Twitter看到了好多保守派美国人发推说“美国完蛋了，是时候移民加拿大了。”，而事实上，加拿大10年前已经联邦范围内同性婚姻合法了，这是北美以及整个美洲，第一个同性婚姻完全合法的国家，也是世界第四个合法的国家。这只是一个小小的例子，说明了有多少人对世界真实情况以及整件事的背景一无所知，偏见通常是无知造成的。&lt;/p&gt;
+
+&lt;p&gt;同性婚姻是一个混合了法律、社会和宗教的复杂问题，很难三言两语完全厘清。美国最高法院的判决是一个里程碑，但又是整个平权运动的一小部分。相对于种族平权走过的漫长历史时期，同性婚姻的支持率在最近10年突飞猛进，最终得到了这个判决，速度已经相当快。现在人们可能很难想像，仅仅是10年前，小布什竞选美国总统时，反同性恋还是有力的口号。2011年，据美国民意调查，对同性婚姻支持和反对比例越过了关键节点，从此反转，支持同性婚姻的美国人超过反对方，并且在之后的几年仍然快速增长。这个反转是很多原因导致的，但我相信互联网在这个过程中发挥了重大作用，2011年是移动互联网爆发的节点，从而让更多人得以接入互联网，获得更平等的信息和教育，使得更多人容易作出符合普世价值的判断。另外，除了互联网本身，硅谷的互联网公司也在其中发挥了巨大作用，这一些都让这个话题变得不仅仅是简单的社会和政治话题，也不仅仅是同性恋群体应该关心的话题。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>烧脑定律</title>
+      <link>/post/braincells_law/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/braincells_law/</guid>
+      <description>&lt;p&gt;By 霍炬&amp;amp;西乔&lt;/p&gt;
+
+&lt;p&gt;现在“高频打败低频”这句话已经成了创业者和投资人的标配，大家都用这个来分析问题甚至当作论据。然而，王兴说这句话的时候，是特指在消费领域的。更确切说是特指美团的扩张模式。这句话放在别的领域适合不适合，就难说了。&lt;/p&gt;
+
+&lt;p&gt;我和西乔讨论这几年热门产品时，想到了不能有一个稍微准确点的方法，用来量化产品和商业模式，而不是在任何领域随便定义高频或者低频这样先射箭再画靶子。后来我们得到了一个还很粗糙的办法，命名为“烧脑定律”。&lt;/p&gt;
+
+&lt;p&gt;既然叫做定律，就要先做一些定义和解释。首先，我们通过计量大脑消耗的能量来分析人类的活动。常见的脑力活动，比如学习、阅读、聊天、看电影，都依靠大脑工作并消耗能量。即使是一些看起来主要是依靠体力的活动，比如打字、操作鼠标、把自己移动到餐馆或者在超市结帐，也都需要消耗不同程度的脑力，同时伴随疲劳感。如果有合适的仪器，应该有办法准确的衡量不同人、在不同类型的活动中消耗能量的多少。但我也不是写论文，就不做实验了，咱们就大致想一下，有个大致比例就够了。用这种办法，可以将打一局游戏、或者赚到一万块钱人民币这类复杂的活动，通过合适的换算方式，完全转化成大脑工作时所消耗的能量。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>盛大创新院往事</title>
+      <link>/post/shanda_innovations/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/shanda_innovations/</guid>
+      <description>看到新闻说“盛大游戏完成控股权出售”。有点感慨，去年前同事圈子就在风传，如果价钱合适，桥哥也可以把盛大游戏卖掉，到今天终于成真，盛大已经彻底</description>
+    </item>
+    
+    <item>
+      <title>无论强人工智能能否出现，人类的未来注定灰暗</title>
+      <link>/post/ai_bad_future_of_humanity/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/ai_bad_future_of_humanity/</guid>
+      <description>最近，无论中文还是英文，关于人工智能的讨论都突然变多，对于人工智能到底会不会危害人类也成了一个热点话题。很多讨论集中在所谓强人工智能出现之后</description>
+    </item>
+    
+    <item>
+      <title>回应破破的桥《针对OpenSSL捐助的讨论》</title>
+      <link>/post/openssl_and_opensource_reply/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/openssl_and_opensource_reply/</guid>
+      <description>前文： 到底谁才是真正的隐形战友 看到了朋友转来的破破的桥先生&amp;rdquo;针对OpenSSL捐助的讨论&amp;rdquo;一文，我也做个简单回应。因</description>
+    </item>
+    
+    <item>
+      <title>到底谁才是真正的隐形战友—开源软件和OpenSSL的真实故事</title>
+      <link>/post/openssl_and_opensource/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/openssl_and_opensource/</guid>
+      <description>前几天，在朋友圈看到转来的原发于“界面”关于OpenSSL和开源项目的“隐形战友”一文。开始觉得不过是炒冷饭，“心脏出血”这个OpenSSL</description>
+    </item>
+    
+    <item>
       <title>《神秘的程序员》漫画四周年</title>
       <link>/post/comic_4years/</link>
       <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
@@ -47,7 +146,7 @@
     </item>
     
     <item>
-      <title>关于bitcoin若干问题我的看法</title>
+      <title>从神的手里取回自己</title>
       <link>/post/bitcoin/</link>
       <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
       
