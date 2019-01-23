@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/post/code_defined_world/</loc>
+    <lastmod>2015-12-21T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/wexin_transparent/</loc>
     <lastmod>2015-12-06T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -360,7 +367,7 @@
   
   <url>
     <loc>/tags/programming/</loc>
-    <lastmod>2009-12-27T18:12:00+08:00</lastmod>
+    <lastmod>2015-12-21T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
