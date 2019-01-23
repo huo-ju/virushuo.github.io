@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on HuoJu&#39;s BLOG</title>
+    <link>/tags/privacy/</link>
+    <description>Recent content in privacy on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Oct 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你正在为互联网上的“免费”付出什么？</title>
+      <link>/post/internet_free_privacy/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/internet_free_privacy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;
+
+&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;
+
+&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

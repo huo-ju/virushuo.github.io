@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/post/internet_free_privacy/</loc>
+    <lastmod>2015-10-26T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/chaping_washing_articles/</loc>
     <lastmod>2015-10-12T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,7 +325,7 @@
   
   <url>
     <loc>/tags/internet/</loc>
-    <lastmod>2015-10-12T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-31T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -333,6 +340,13 @@
   <url>
     <loc>/tags/politics/</loc>
     <lastmod>2015-06-29T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/privacy/</loc>
+    <lastmod>2015-10-26T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

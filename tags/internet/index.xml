@@ -5,10 +5,40 @@
     <link>/tags/internet/</link>
     <description>Recent content in internet on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Oct 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 07:19:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>穿越寒冬的独行者</title>
+      <link>/post/ddg/</link>
+      <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
+      
+      <guid>/post/ddg/</guid>
+      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;
+
+&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>你正在为互联网上的“免费”付出什么？</title>
+      <link>/post/internet_free_privacy/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/internet_free_privacy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;
+
+&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;
+
+&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>不需要无限只猴子的创新抄袭</title>
