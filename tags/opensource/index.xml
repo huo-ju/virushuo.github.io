@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on HuoJu&#39;s BLOG</title>
+    <link>/tags/opensource/</link>
+    <description>Recent content in opensource on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Feb 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>回应破破的桥《针对OpenSSL捐助的讨论》</title>
+      <link>/post/openssl_and_opensource_reply/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/openssl_and_opensource_reply/</guid>
+      <description>前文： 到底谁才是真正的隐形战友 看到了朋友转来的破破的桥先生&amp;rdquo;针对OpenSSL捐助的讨论&amp;rdquo;一文，我也做个简单回应。因</description>
+    </item>
+    
+    <item>
+      <title>到底谁才是真正的隐形战友—开源软件和OpenSSL的真实故事</title>
+      <link>/post/openssl_and_opensource/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/post/openssl_and_opensource/</guid>
+      <description>前几天，在朋友圈看到转来的原发于“界面”关于OpenSSL和开源项目的“隐形战友”一文。开始觉得不过是炒冷饭，“心脏出血”这个OpenSSL</description>
+    </item>
+    
+  </channel>
+</rss>

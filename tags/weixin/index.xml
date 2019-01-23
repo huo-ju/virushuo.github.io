@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weixin on HuoJu&#39;s BLOG</title>
+    <link>/tags/weixin/</link>
+    <description>Recent content in weixin on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/weixin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>内容电商毁掉了内容</title>
+      <link>/post/content_with_eshopping/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/content_with_eshopping/</guid>
+      <description>微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一</description>
+    </item>
+    
+  </channel>
+</rss>
