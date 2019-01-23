@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/post/wexin_transparent/</loc>
+    <lastmod>2015-12-06T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/internet_free_privacy/</loc>
     <lastmod>2015-10-26T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -389,6 +396,13 @@
   <url>
     <loc>/tags/telegram/</loc>
     <lastmod>2015-09-29T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transparent/</loc>
+    <lastmod>2015-12-06T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
