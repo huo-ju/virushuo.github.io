@@ -5,10 +5,21 @@
     <link>/tags/us/</link>
     <description>Recent content in US on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Jun 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 May 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/us/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>创新、历史和新泽西风格 - 贝尔实验室参观记</title>
+      <link>/post/bell_labs_showcase_tour/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/post/bell_labs_showcase_tour/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/bell_labs_showcase_tour/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Google I/O马上就要开始了，很快你的朋友圈就会被关于IO的消息以及一堆在Google/Facebook/斯坦福拍的游客照刷满。但在此之前，我想聊聊前几天去Bell Labs的观后感，在今天这个互联网已经高度发达的时代，回头看看这段历史会有很多新感受。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>从神的手里取回自己</title>

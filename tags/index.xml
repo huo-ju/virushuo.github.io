@@ -22,7 +22,7 @@
     <item>
       <title>US</title>
       <link>/tags/us/</link>
-      <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/us/</guid>
       <description></description>
@@ -49,9 +49,18 @@
     <item>
       <title>baidu</title>
       <link>/tags/baidu/</link>
-      <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/baidu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>betacat</title>
+      <link>/tags/betacat/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/betacat/</guid>
       <description></description>
     </item>
     
@@ -83,6 +92,15 @@
     </item>
     
     <item>
+      <title>code2048</title>
+      <link>/tags/code2048/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/code2048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>coderstory</title>
       <link>/tags/coderstory/</link>
       <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
@@ -94,7 +112,7 @@
     <item>
       <title>copyright</title>
       <link>/tags/copyright/</link>
-      <pubDate>Mon, 12 Oct 2015 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 21 May 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/copyright/</guid>
       <description></description>
@@ -103,7 +121,7 @@
     <item>
       <title>crypto</title>
       <link>/tags/crypto/</link>
-      <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/crypto/</guid>
       <description></description>
@@ -115,6 +133,15 @@
       <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/tags/history/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/history/</guid>
       <description></description>
     </item>
     
@@ -148,7 +175,7 @@
     <item>
       <title>law</title>
       <link>/tags/law/</link>
-      <pubDate>Sat, 09 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 21 May 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/law/</guid>
       <description></description>
@@ -175,7 +202,7 @@
     <item>
       <title>privacy</title>
       <link>/tags/privacy/</link>
-      <pubDate>Mon, 26 Oct 2015 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/privacy/</guid>
       <description></description>
@@ -193,7 +220,7 @@
     <item>
       <title>sci-fi</title>
       <link>/tags/sci-fi/</link>
-      <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/sci-fi/</guid>
       <description></description>
@@ -241,6 +268,15 @@
       <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
       
       <guid>/tags/transparent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/tags/travel/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     

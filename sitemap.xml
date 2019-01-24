@@ -31,6 +31,48 @@
   </url>
   
   <url>
+    <loc>/post/suing_for_1/</loc>
+    <lastmod>2016-05-21T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/bell_labs_showcase_tour/</loc>
+    <lastmod>2016-05-18T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/bd_wolf_humility/</loc>
+    <lastmod>2016-05-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/betacat_introduction/</loc>
+    <lastmod>2016-04-22T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/315_baidu/</loc>
+    <lastmod>2016-03-15T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/apple_fbi/</loc>
+    <lastmod>2016-02-27T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/anti_baidu/</loc>
     <lastmod>2016-01-11T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,7 +304,7 @@
   
   <url>
     <loc>/tags/us/</loc>
-    <lastmod>2015-06-29T00:00:00-05:00</lastmod>
+    <lastmod>2016-05-18T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -283,7 +325,14 @@
   
   <url>
     <loc>/tags/baidu/</loc>
-    <lastmod>2016-01-11T00:00:00-05:00</lastmod>
+    <lastmod>2016-05-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/betacat/</loc>
+    <lastmod>2016-04-22T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -310,6 +359,13 @@
   </url>
   
   <url>
+    <loc>/tags/code2048/</loc>
+    <lastmod>2016-04-22T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/coderstory/</loc>
     <lastmod>2013-06-30T11:06:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,14 +374,14 @@
   
   <url>
     <loc>/tags/copyright/</loc>
-    <lastmod>2015-10-12T00:00:00-05:00</lastmod>
+    <lastmod>2016-05-21T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/crypto/</loc>
-    <lastmod>2011-05-23T15:05:00+08:00</lastmod>
+    <lastmod>2016-02-27T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -333,6 +389,13 @@
   <url>
     <loc>/tags/google/</loc>
     <lastmod>2016-01-11T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/history/</loc>
+    <lastmod>2016-05-18T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -360,7 +423,7 @@
   
   <url>
     <loc>/tags/law/</loc>
-    <lastmod>2016-01-09T00:00:00-05:00</lastmod>
+    <lastmod>2016-05-21T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -381,7 +444,7 @@
   
   <url>
     <loc>/tags/privacy/</loc>
-    <lastmod>2015-10-26T00:00:00-05:00</lastmod>
+    <lastmod>2016-02-27T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -395,7 +458,7 @@
   
   <url>
     <loc>/tags/sci-fi/</loc>
-    <lastmod>2015-09-20T00:00:00-05:00</lastmod>
+    <lastmod>2016-04-22T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -431,6 +494,13 @@
   <url>
     <loc>/tags/transparent/</loc>
     <lastmod>2015-12-06T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/travel/</loc>
+    <lastmod>2016-05-18T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
