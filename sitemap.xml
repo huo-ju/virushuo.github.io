@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/post/reddit_place/</loc>
+    <lastmod>2017-04-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/my_news_receipts/</loc>
     <lastmod>2019-01-26T02:10:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -479,7 +486,7 @@
   
   <url>
     <loc>/tags/game/</loc>
-    <lastmod>2016-12-30T00:00:00-05:00</lastmod>
+    <lastmod>2017-04-02T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -571,6 +578,13 @@
   <url>
     <loc>/tags/reading/</loc>
     <lastmod>2019-01-26T02:10:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reddit/</loc>
+    <lastmod>2017-04-02T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

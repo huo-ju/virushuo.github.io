@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reddit on HuoJu&#39;s BLOG</title>
+    <link>/tags/reddit/</link>
+    <description>Recent content in reddit on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>参与这场线上大战之后，我觉得人类未来还是有希望的</title>
+      <link>/post/reddit_place/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/post/reddit_place/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/reddit_place/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
