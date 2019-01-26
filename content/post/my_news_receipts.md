@@ -1,6 +1,7 @@
 ---
 title: "“假新闻”时代，我是如何阅读新闻和媒体的"
 date: 2017-03-20T00:00:00-05:00
+Lastmod: 2019-01-26T02:10:00-05:00
 showDate: true
 draft: false
 tags: ["blog","news", "internet", "reading"]
