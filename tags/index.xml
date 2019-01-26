@@ -200,6 +200,15 @@
     </item>
     
     <item>
+      <title>news</title>
+      <link>/tags/news/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>opensource</title>
       <link>/tags/opensource/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
@@ -241,6 +250,15 @@
       <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
       
       <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>/tags/reading/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/reading/</guid>
       <description></description>
     </item>
     
