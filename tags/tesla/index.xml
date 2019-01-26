@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tesla on HuoJu&#39;s BLOG</title>
+    <link>/tags/tesla/</link>
+    <description>Recent content in tesla on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Jul 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/tesla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>特斯拉把机枪送给了猴子</title>
+      <link>/post/tesla_autopilot/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/post/tesla_autopilot/</guid>
+      <description>&lt;p&gt;5月份特斯拉的“自动驾驶“系统导致的车主死亡事件，因为6月30日美国国家公路交通安全管理局（NHTSA）调查而不得不被披露出来，这起事故终于成了全球新闻热点。我相信大家都在各处看到了事故介绍和一些技术问题，这里不重复各种媒体已经报道过的事情。只想说说我对这件事的看法，这个事故并不是只涉及一家公司和一项技术，它还涉及了科技和人的关系，以及企业和社会责任。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

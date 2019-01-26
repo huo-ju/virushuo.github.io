@@ -3,7 +3,7 @@ title: "软件如何定义现实世界"
 date: 2015-12-21T00:00:00-05:00
 showDate: true
 draft: false
-tags: ["blog","tech", "programming"]
+tags: ["blog","tech", "programmer", "programming"]
 ---
 
 ![](/images/code_defined_world/title.jpeg)

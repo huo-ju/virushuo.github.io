@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alibaba on HuoJu&#39;s BLOG</title>
+    <link>/tags/alibaba/</link>
+    <description>Recent content in alibaba on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Sep 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/alibaba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>程序员爱写脚本是种病</title>
+      <link>/post/why_programmer_love_script/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/post/why_programmer_love_script/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/why_programmer_love_script/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你就是程序员，或者你熟悉程序员这个群体，有时候你会发现他们在干一些奇怪的事情。比如说，他们跟你说在写一个脚本，你问他写脚本干嘛？他告诉你，这事情重复做太无聊，写个脚本以后就不用老让我重复操作了。听起来很有道理吧？但如果对比一下时间，你会惊讶的发现，他们重复做200次这件事大概总共只需要花一个小时的时间。但写这个脚本反而得写5个小时。以这个职业之外的人看来，这绝对是有病，完全不可理解，让你重复几次能死人吗？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -31,6 +31,62 @@
   </url>
   
   <url>
+    <loc>/post/sued_by_a_programmer_s1_final/</loc>
+    <lastmod>2017-02-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/hotline_miami/</loc>
+    <lastmod>2016-12-30T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/internet_goodnews_badnews/</loc>
+    <lastmod>2016-12-21T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/why_we_should_thank_programmer/</loc>
+    <lastmod>2016-10-24T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/why_programmer_love_script/</loc>
+    <lastmod>2016-09-15T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/folding_beijing/</loc>
+    <lastmod>2016-08-05T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/startup_and_promise/</loc>
+    <lastmod>2016-07-22T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/tesla_autopilot/</loc>
+    <lastmod>2019-01-25T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/orlando_nightclub_shooting/</loc>
     <lastmod>2016-06-14T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -60,7 +116,7 @@
   
   <url>
     <loc>/post/bd_wolf_humility/</loc>
-    <lastmod>2016-05-02T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-26T00:10:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,6 +138,13 @@
   <url>
     <loc>/post/apple_fbi/</loc>
     <lastmod>2016-02-27T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/baidu_kpi_and_a_example/</loc>
+    <lastmod>2019-01-26T00:09:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -331,6 +394,13 @@
   </url>
   
   <url>
+    <loc>/tags/alibaba/</loc>
+    <lastmod>2016-09-15T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/apple/</loc>
     <lastmod>2010-04-05T21:04:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,7 +409,7 @@
   
   <url>
     <loc>/tags/baidu/</loc>
-    <lastmod>2016-05-02T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-26T00:10:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -388,7 +458,7 @@
   
   <url>
     <loc>/tags/copyright/</loc>
-    <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+    <lastmod>2017-02-02T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -396,6 +466,13 @@
   <url>
     <loc>/tags/crypto/</loc>
     <lastmod>2016-02-27T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/game/</loc>
+    <lastmod>2016-12-30T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -437,7 +514,7 @@
   
   <url>
     <loc>/tags/law/</loc>
-    <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+    <lastmod>2017-02-02T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -458,7 +535,14 @@
   
   <url>
     <loc>/tags/privacy/</loc>
-    <lastmod>2016-02-27T00:00:00-05:00</lastmod>
+    <lastmod>2016-12-21T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/programmer/</loc>
+    <lastmod>2016-10-24T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -472,7 +556,7 @@
   
   <url>
     <loc>/tags/sci-fi/</loc>
-    <lastmod>2016-04-22T00:00:00-05:00</lastmod>
+    <lastmod>2016-08-05T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -492,6 +576,13 @@
   </url>
   
   <url>
+    <loc>/tags/startup/</loc>
+    <lastmod>2016-07-22T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/tech/</loc>
     <lastmod>2018-12-31T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -501,6 +592,13 @@
   <url>
     <loc>/tags/telegram/</loc>
     <lastmod>2015-09-29T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tesla/</loc>
+    <lastmod>2019-01-25T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

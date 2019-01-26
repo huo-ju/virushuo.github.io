@@ -1,6 +1,7 @@
 ---
 title: "狼性多了，人性就少了"
 date: 2016-05-02T00:00:00-05:00
+Lastmod: 2019-01-26T00:10:00-05:00
 showDate: true
 draft: false
 tags: ["blog","tech", "internet", "search", "baidu"]
@@ -53,9 +54,10 @@ tags: ["blog","tech", "internet", "search", "baidu"]
 
 参考备注：以前我写过的关于这家公司的文章：
 
+* 标题图  Engraving depicting the beast of Gévaudan (1764)  来自 wikipedia "Wolf attacks on humans" 条目
 * [我是如何坚持10多年站在反某家公司第一线的](../anti_baidu/)
+* [再谈百度：KPI、无人机，以及一个必须给父母看的案例](../baidu_kpi_and_a_example/)
 * [3.15，今天我被一家公司投诉了](../315_baidu/)
 * [写给和百度作战的文艺工作者们](../baidu_wenku_author/)
 * [Google百度和谷歌的那些事](../google_baidu/)
-* 标题图  Engraving depicting the beast of Gévaudan (1764)  来自 wikipedia "Wolf attacks on humans" 条目
 * [魏则西父母致电财新网 发独家声明](http://china.caixin.com/2016-05-01/100938851.html)

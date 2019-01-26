@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>alibaba</title>
+      <link>/tags/alibaba/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/alibaba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>apple</title>
       <link>/tags/apple/</link>
       <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
@@ -112,7 +121,7 @@
     <item>
       <title>copyright</title>
       <link>/tags/copyright/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
       
       <guid>/tags/copyright/</guid>
       <description></description>
@@ -124,6 +133,15 @@
       <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>/tags/game/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/game/</guid>
       <description></description>
     </item>
     
@@ -175,7 +193,7 @@
     <item>
       <title>law</title>
       <link>/tags/law/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
       
       <guid>/tags/law/</guid>
       <description></description>
@@ -202,9 +220,18 @@
     <item>
       <title>privacy</title>
       <link>/tags/privacy/</link>
-      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programmer</title>
+      <link>/tags/programmer/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/programmer/</guid>
       <description></description>
     </item>
     
@@ -220,7 +247,7 @@
     <item>
       <title>sci-fi</title>
       <link>/tags/sci-fi/</link>
-      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/sci-fi/</guid>
       <description></description>
@@ -245,6 +272,15 @@
     </item>
     
     <item>
+      <title>startup</title>
+      <link>/tags/startup/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tech</title>
       <link>/tags/tech/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
@@ -259,6 +295,15 @@
       <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
       
       <guid>/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tesla</title>
+      <link>/tags/tesla/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/tesla/</guid>
       <description></description>
     </item>
     
