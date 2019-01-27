@@ -31,6 +31,62 @@
   </url>
   
   <url>
+    <loc>/post/sued_by_a_programmer_3yrs/</loc>
+    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/facebook_privacy/</loc>
+    <lastmod>2018-04-01T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/bitcoin_2018/</loc>
+    <lastmod>2018-03-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/the_darknet/</loc>
+    <lastmod>2017-12-03T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/lixiaolai/</loc>
+    <lastmod>2017-09-09T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/the_old_internet_is_end/</loc>
+    <lastmod>2017-08-03T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/sued_by_a_programmer_opensource/</loc>
+    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/no_more_apple/</loc>
+    <lastmod>2019-01-26T21:48:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/reddit_place_final/</loc>
     <lastmod>2017-04-06T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -367,13 +423,6 @@
   </url>
   
   <url>
-    <loc>/tags/apple/</loc>
-    <lastmod>2010-04-05T21:04:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -395,7 +444,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2010-04-05T21:04:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -423,7 +471,7 @@
   
   <url>
     <loc>/tags/apple/</loc>
-    <lastmod>2010-04-05T21:04:00+08:00</lastmod>
+    <lastmod>2018-04-01T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -479,14 +527,35 @@
   
   <url>
     <loc>/tags/copyright/</loc>
-    <lastmod>2017-02-02T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/crypto/</loc>
-    <lastmod>2016-02-27T00:00:00-05:00</lastmod>
+    <lastmod>2018-03-02T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/decentralization/</loc>
+    <lastmod>2017-12-03T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/facebook/</loc>
+    <lastmod>2018-04-01T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/friend/</loc>
+    <lastmod>2017-09-09T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -535,7 +604,7 @@
   
   <url>
     <loc>/tags/law/</loc>
-    <lastmod>2017-02-02T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -555,6 +624,13 @@
   </url>
   
   <url>
+    <loc>/tags/p2p/</loc>
+    <lastmod>2017-12-03T00:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/politics/</loc>
     <lastmod>2016-06-14T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -563,7 +639,7 @@
   
   <url>
     <loc>/tags/privacy/</loc>
-    <lastmod>2016-12-21T00:00:00-05:00</lastmod>
+    <lastmod>2018-04-01T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

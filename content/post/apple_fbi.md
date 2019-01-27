@@ -3,7 +3,7 @@ title: "苹果、FBI以及你的全部生活"
 date: 2016-02-27T00:00:00-05:00
 showDate: true
 draft: false
-tags: ["blog","apple", "crypto", "privacy"]
+tags: ["blog", "apple", "crypto", "privacy"]
 ---
 
 ![](/images/apple_fbi/title.jpeg)

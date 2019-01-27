@@ -5,10 +5,34 @@
     <link>/tags/copyright/</link>
     <description>Recent content in copyright on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/copyright/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>三年多过去了，我钉下的这跟钉子还在</title>
+      <link>/post/sued_by_a_programmer_3yrs/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/sued_by_a_programmer_3yrs/</guid>
+      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;
+
+&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>请伸出你的小圆手</title>
+      <link>/post/sued_by_a_programmer_opensource/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/post/sued_by_a_programmer_opensource/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;
+
+&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>和程序员打官司的第一季结束，第二季即将开始</title>
@@ -58,6 +82,15 @@
 &lt;p&gt;让一只猴子在打字机上随机地按键打字无限次时，必然能够产生任何可能的文章，甚至是全套的莎士比亚。但在互联网时代，内行而精明的媒体人可以神奇地使用了一种创新抄袭模式，解放了猴子们的生产力。&lt;/p&gt;
 
 &lt;p&gt;前一段，我写了一篇关于Telegram以及其创始人Pavel Durov的传奇故事。随后一直有朋友和读者给我转来一篇神奇的文章，告诉我那篇文章被抄了。非常感谢各位读者和朋友的关心，但之所以用神奇这个词来形容，是因为这篇被大家认为是抄袭的文章去微信举报是没用的，它很创新。确切的说，他不是抄，而是把我的原文缩减和改写，并且换了一部分图片。比如我用了Pavel Durov的半身照片，他们找到了那张照片的全身原照，把我的半身照片换掉了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>写给和百度作战的文艺工作者们</title>
+      <link>/post/baidu_wenku_author/</link>
+      <pubDate>Sat, 26 Mar 2011 12:03:00 +0800</pubDate>
+      
+      <guid>/post/baidu_wenku_author/</guid>
+      <description>我是一个靠写代码生活的人，我觉得我们这个行业，和创造文艺产品的人——比如写书的作家——是非常一致的，盗版问题同样影响着我们，只不过我们用的是</description>
     </item>
     
   </channel>

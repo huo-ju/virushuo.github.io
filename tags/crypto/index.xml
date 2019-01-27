@@ -5,10 +5,28 @@
     <link>/tags/crypto/</link>
     <description>Recent content in crypto on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Feb 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</title>
+      <link>/post/bitcoin_2018/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/bitcoin_2018/</guid>
+      <description>&lt;p&gt;写过上一篇&lt;a href=&#34;../the_darknet/&#34;&gt;暗网的文章&lt;/a&gt;之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如&lt;a href=&#34;../the_old_internet_is_end/&#34;&gt;互联网中心化偏离了最早的预期&lt;/a&gt;，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>李笑来，那个一顿饭点8条鲈鱼的人</title>
+      <link>/post/lixiaolai/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/post/lixiaolai/</guid>
+      <description>&lt;p&gt;我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>苹果、FBI以及你的全部生活</title>
@@ -22,7 +40,7 @@
     </item>
     
     <item>
-      <title>从神的手里取回自己</title>
+      <title>关于bitcoin若干问题我的看法</title>
       <link>/post/bitcoin/</link>
       <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
       

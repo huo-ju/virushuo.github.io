@@ -3,7 +3,7 @@ title: "写在ipad即将到来的时候"
 date: 2010-04-05T21:04:00+08:00
 showDate: true
 draft: false
-tags: ["blog","tech","Apple","iPad"]
+tags: ["blog","tech","apple","iPad"]
 ---
 
 我的朋友jack，这几天恰好在夏威夷，于是我就非常幸运的拜他所赐，买到了一个ipad。这可能是国内比较早的一批ipad吧。很多人难以理解Apple到底是什么东西，很多人嘲讽ipad是个无用的产品，很多人对苹果的印象是贵，样子好看等等，不幸的是，他们不了解这个公司，也不了解这个产品。似乎一个好的产品总是拥有完全相反的两方意见。

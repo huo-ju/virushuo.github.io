@@ -5,19 +5,9 @@
     <link>/tags/</link>
     <description>Recent content in Tags on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Apr 2010 21:04:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Apple</title>
-      <link>/tags/apple/</link>
-      <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
-      
-      <guid>/tags/apple/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>US</title>
@@ -49,7 +39,7 @@
     <item>
       <title>apple</title>
       <link>/tags/apple/</link>
-      <pubDate>Mon, 05 Apr 2010 21:04:00 +0800</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/apple/</guid>
       <description></description>
@@ -121,7 +111,7 @@
     <item>
       <title>copyright</title>
       <link>/tags/copyright/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/copyright/</guid>
       <description></description>
@@ -130,9 +120,36 @@
     <item>
       <title>crypto</title>
       <link>/tags/crypto/</link>
-      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decentralization</title>
+      <link>/tags/decentralization/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/decentralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>/tags/facebook/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friend</title>
+      <link>/tags/friend/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/friend/</guid>
       <description></description>
     </item>
     
@@ -193,7 +210,7 @@
     <item>
       <title>law</title>
       <link>/tags/law/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/law/</guid>
       <description></description>
@@ -218,6 +235,15 @@
     </item>
     
     <item>
+      <title>p2p</title>
+      <link>/tags/p2p/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/p2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>politics</title>
       <link>/tags/politics/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 -0500</pubDate>
@@ -229,7 +255,7 @@
     <item>
       <title>privacy</title>
       <link>/tags/privacy/</link>
-      <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/privacy/</guid>
       <description></description>

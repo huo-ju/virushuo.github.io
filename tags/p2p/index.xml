@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p2p on HuoJu&#39;s BLOG</title>
+    <link>/tags/p2p/</link>
+    <description>Recent content in p2p on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>凶险、罪恶还是自由？暗网到底是什么？</title>
+      <link>/post/the_darknet/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/post/the_darknet/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_darknet/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

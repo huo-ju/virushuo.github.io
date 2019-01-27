@@ -1,5 +1,5 @@
 ---
-title: "从神的手里取回自己"
+title: "关于bitcoin若干问题我的看法"
 date: 2011-05-23T15:05:00+08:00
 showDate: true
 draft: false
