@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/post/talk_with_jade_aaron/</loc>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/ddg/</loc>
     <lastmod>2018-12-31T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -431,7 +438,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-12-31T07:19:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -486,7 +493,7 @@
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2018-12-31T07:19:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -528,7 +535,7 @@
   
   <url>
     <loc>/tags/crypto/</loc>
-    <lastmod>2018-03-02T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -570,7 +577,7 @@
   
   <url>
     <loc>/tags/history/</loc>
-    <lastmod>2016-05-18T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -591,7 +598,7 @@
   
   <url>
     <loc>/tags/internet/</loc>
-    <lastmod>2018-12-31T07:19:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -633,7 +640,7 @@
   
   <url>
     <loc>/tags/privacy/</loc>
-    <lastmod>2018-04-01T00:00:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -696,7 +703,7 @@
   
   <url>
     <loc>/tags/tech/</loc>
-    <lastmod>2018-12-31T07:19:00-05:00</lastmod>
+    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
