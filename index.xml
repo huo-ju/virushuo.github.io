@@ -16,11 +16,10 @@
       <pubDate>Tue, 01 Jan 2019 19:13:08 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>这里将来会有一些介绍。但是现在什么都还没有。 /ipns/QmV8eS1TWFaiWVTFhMtchcNrGrU1tZ85MzxNrwBuBbuo1J/</description>
-      <content type="html"><![CDATA[ <p>这里将来会有一些介绍。但是现在什么都还没有。</p>
+      <description type="html"><![CDATA[ <p>这里将来会有一些介绍。但是现在什么都还没有。</p>
 
 <p>/ipns/QmV8eS1TWFaiWVTFhMtchcNrGrU1tZ85MzxNrwBuBbuo1J/</p>
- ]]></content>
+ ]]></description>
     </item>
     
     <item>
@@ -29,10 +28,7 @@
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
       
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>首发于： <a href="https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ">https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ</a></p>
+      <description type="html"><![CDATA[ <p>首发于： <a href="https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ">https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ</a></p>
 
 <p>Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。</p>
 
@@ -359,7 +355,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 
 <p><em>Life is wonderful. Life goes full circle.</em><br /></p>
 
-</div> ]]></content>
+</div> ]]></description>
     </item>
     
     <item>
@@ -368,14 +364,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
       
       <guid>/post/ddg/</guid>
-      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;
-
-&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。</p>
+      <description type="html"><![CDATA[ <p>2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。</p>
 
 <p><img src="/images/ddg/01.png" alt="duckduckgo homepage" /></p>
 
@@ -443,7 +432,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 
 <hr />
 
-<p>说到这种小而有用，可以养活自己生存下去的搜索引擎，连一百万人口的塞浦路斯都有，中文区竟然没有这类产品，有点遗憾。我有<a href="http://dbanotes.net">一位朋友</a>曾经想做一个中国的医疗搜索引擎。大家都抱怨医疗信息没有可靠的搜索，这显然是个需求。但是前司用竞业禁止官司拖住了这件事，从而使得这个项目长期没法真正开展。希望他2019年能摆脱这些麻烦，真正把这个产品做出来。</p> ]]></content>
+<p>说到这种小而有用，可以养活自己生存下去的搜索引擎，连一百万人口的塞浦路斯都有，中文区竟然没有这类产品，有点遗憾。我有<a href="http://dbanotes.net">一位朋友</a>曾经想做一个中国的医疗搜索引擎。大家都抱怨医疗信息没有可靠的搜索，这显然是个需求。但是前司用竞业禁止官司拖住了这件事，从而使得这个项目长期没法真正开展。希望他2019年能摆脱这些麻烦，真正把这个产品做出来。</p> ]]></description>
     </item>
     
     <item>
@@ -452,12 +441,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
       
       <guid>/post/the_guide_of_punish_canada/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/the_guide_of_punish_canada/title.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我在加拿大生活了不少年，最近一系列的事情让很多人开始注意到了加拿大。于是我收到了来自朋友们的各种问题，从如何抵制加拿大，到加拿大为什么这么傻。诸如此类。挨个答复比较麻烦，干脆写一篇文章。&lt;/p&gt;
-
-&lt;p&gt;通常我更愿意写科技相关话题，不写社会和历史话题，一方面是我不是这个领域的专业人员，很多东西未必准确，另外一方面，跟科技不同，这类话题难以保证足够客观，必定带有个人视角，从而引起更多争议。所以我尽量保持拿事实和数据说话，少发表个人看法，但是个人看法必然无法避免，所以还请批判阅读。以上是正文开始之前的一点点声明。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/the_guide_of_punish_canada/title.jpg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/the_guide_of_punish_canada/title.jpg" alt="" /></p>
 
 <p>我在加拿大生活了不少年，最近一系列的事情让很多人开始注意到了加拿大。于是我收到了来自朋友们的各种问题，从如何抵制加拿大，到加拿大为什么这么傻。诸如此类。挨个答复比较麻烦，干脆写一篇文章。</p>
 
@@ -591,7 +575,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 
 <p>最后一个问题是中国扣押了两个加拿大人，会对加拿大引渡决定有影响吗？历史上没有什么新鲜事，2014年同样发生在温哥华的中国商人苏斌引渡案，中国一样扣押了两个加拿大人。结果没有任何变化，苏斌一样被引渡到美国认罪。加拿大反复强调，法律就是法律，和政治无关。世界上至少有一多半的国家不会相信这句话，但在加拿大，这句话是认真的，甚至比邻居美国还认真的多。</p>
 
-<p>标题图：jessica borutski 的漫画。河狸和加拿大鹅是加拿大标志性的动物，加拿大人非常喜欢这张漫画，甚至有人纹在身上。</p> ]]></content>
+<p>标题图：jessica borutski 的漫画。河狸和加拿大鹅是加拿大标志性的动物，加拿大人非常喜欢这张漫画，甚至有人纹在身上。</p> ]]></description>
     </item>
     
     <item>
@@ -600,12 +584,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/post/content_with_eshopping/</guid>
-      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;
-
-&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;
-
-&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？</p>
+      <description type="html"><![CDATA[ <p>微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？</p>
 
 <p>我对这个问题的回答就是本文标题：内容电商毁掉了内容</p>
 
@@ -638,7 +617,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <hr />
 
 <p>这篇文章的 PRESS.one 签名：
-<a href="https://press.one/file/v?s=6b513d98fa51fb828ce84352eeaef9c472deb38c9249868734768353d0fa051e307cf3fcf996ebca3404566a3c9473cb982c53bfcc6503f8c38dda86385bb2450&amp;h=ec2dac2a10ae648a15b04fe601554e8533703ac244d49c24d0f38c7b20e4fb37&amp;a=becd34540fefeab83730ffb479e98ee12fa1337e&amp;f=P1&amp;v=2">https://press.one/file/v?s=6b513d98fa51fb828ce84352eeaef9c472deb38c9249868734768353d0fa051e307cf3fcf996ebca3404566a3c9473cb982c53bfcc6503f8c38dda86385bb2450&amp;h=ec2dac2a10ae648a15b04fe601554e8533703ac244d49c24d0f38c7b20e4fb37&amp;a=becd34540fefeab83730ffb479e98ee12fa1337e&amp;f=P1&amp;v=2</a></p> ]]></content>
+<a href="https://press.one/file/v?s=6b513d98fa51fb828ce84352eeaef9c472deb38c9249868734768353d0fa051e307cf3fcf996ebca3404566a3c9473cb982c53bfcc6503f8c38dda86385bb2450&amp;h=ec2dac2a10ae648a15b04fe601554e8533703ac244d49c24d0f38c7b20e4fb37&amp;a=becd34540fefeab83730ffb479e98ee12fa1337e&amp;f=P1&amp;v=2">https://press.one/file/v?s=6b513d98fa51fb828ce84352eeaef9c472deb38c9249868734768353d0fa051e307cf3fcf996ebca3404566a3c9473cb982c53bfcc6503f8c38dda86385bb2450&amp;h=ec2dac2a10ae648a15b04fe601554e8533703ac244d49c24d0f38c7b20e4fb37&amp;a=becd34540fefeab83730ffb479e98ee12fa1337e&amp;f=P1&amp;v=2</a></p> ]]></description>
     </item>
     
     <item>
@@ -647,10 +626,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
       
       <guid>/post/sued_by_a_programmer_3yrs/</guid>
-      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;
-
-&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。</p>
+      <description type="html"><![CDATA[ <p>2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。</p>
 
 <p>本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。</p>
 
@@ -710,7 +686,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li><a href="../sued_by_a_programmer/">和程序员打官司是一种怎样的体验</a></li>
 <li><a href="https://mp.weixin.qq.com/s?__biz=MzI1ODIyMjAwMA==&amp;mid=2247485073&amp;idx=1&amp;sn=6f54d61eab72df418058b22b64d83e4e&amp;chksm=ea0a344edd7dbd58ba824353fdf20c93c1fd26fed71298b2c5a4df2cf4ea78188e10d6811dd2&amp;scene=21&amp;token=1049201415&amp;lang=zh_CN#wechat_redirect">给腾讯一个差评</a></li>
 <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NTU0NTgyMg==&amp;mid=2650405250&amp;idx=1&amp;sn=57455ea7034dc8b9c911048d22124b4a&amp;chksm=befb8e33898c0725c87f1cae8e25c7ec55c246da20ee883ae49a76a8735d85fc3372eb55254f&amp;scene=21&amp;token=1049201415&amp;lang=zh_CN#wechat_redirect">腾讯大如藏獒，说到底还是狗</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -719,12 +695,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
       
       <guid>/post/facebook_privacy/</guid>
-      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/facebook_privacy/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。</p>
+      <description type="html"><![CDATA[ <p>我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。</p>
 
 <p><img src="/images/facebook_privacy/title.png" alt="" /></p>
 
@@ -816,7 +787,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li><a href="../internet_free_privacy/">你正在为互联网上的“免费”付出什么？</a></li>
 <li><a href="../the_old_internet_is_end/">互联网完蛋了，已经。</a></li>
 <li><a href="../the_darknet/">凶险、罪恶还是自由？暗网到底是什么？</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -825,8 +796,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
       
       <guid>/post/bitcoin_2018/</guid>
-      <description>&lt;p&gt;写过上一篇&lt;a href=&#34;../the_darknet/&#34;&gt;暗网的文章&lt;/a&gt;之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如&lt;a href=&#34;../the_old_internet_is_end/&#34;&gt;互联网中心化偏离了最早的预期&lt;/a&gt;，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>写过上一篇<a href="../the_darknet/">暗网的文章</a>之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如<a href="../the_old_internet_is_end/">互联网中心化偏离了最早的预期</a>，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。</p>
+      <description type="html"><![CDATA[ <p>写过上一篇<a href="../the_darknet/">暗网的文章</a>之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如<a href="../the_old_internet_is_end/">互联网中心化偏离了最早的预期</a>，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。</p>
 
 <p>去年年底开始，区块链热潮席卷世界，几乎每个人都在谈论它。但很少有人真正说清楚它，我看很多人写的文章用各种奇怪的东西来描述它，用一些更复杂，人们更不熟悉的概念来描述一个相对简单的概念，那当然越说越糊涂。区块链是非常有意义的发明，但是它的本质是简单的。除了少数关于数学证明和纯技术的话题有一定复杂性，要理解它是什么，进而理解它如何影响社会，没有那么困难。所有其他试图把它讲的非常复杂的人，要么自己不懂，要么就是故意让别人看不懂。</p>
 
@@ -870,7 +840,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 
 <p>ps，我的Profile页面的feeds，是json feeds格式，它可以被理解成新时代优化过的RSS，所以如果找到合适的订阅器，是可以订阅我的Feeds的。如果找不到，没关系，等Press.one的App吧。</p>
 
-<p>区块链是个好话题，以后我还会再写的。如果你有问题，也可以留言告诉我，我将来一起写。</p> ]]></content>
+<p>区块链是个好话题，以后我还会再写的。如果你有问题，也可以留言告诉我，我将来一起写。</p> ]]></description>
     </item>
     
     <item>
@@ -879,10 +849,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/the_darknet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/the_darknet/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/the_darknet/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/the_darknet/title.jpeg" alt="" /></p>
 
 <p>提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。</p>
 
@@ -1000,7 +967,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li><a href="../the_old_internet_is_end/">互联网完蛋了，已经。</a> 这是和本文关联的，我写的上一篇。</li>
 <li><a href="../internet_goodnews_badnews/">互联网的好消息，互联网的坏消息</a> 也是我写的，除了回忆对抗SOPA法案的历史，还预测了美国最终会废除网络中立。</li>
 <li>如果你装有zeronet的话就可以访问我的备份站点  <a href="http://127.0.0.1:43110/huoju.bit/">http://127.0.0.1:43110/huoju.bit/</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1009,8 +976,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/post/lixiaolai/</guid>
-      <description>&lt;p&gt;我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p>我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。</p>
+      <description type="html"><![CDATA[ <p>我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。</p>
 
 <p>李笑来有太多想法和行为是不合常理的，我非常理解他会被人们误会。从我认识他的第一天，就明白了他肯定是个有争议的人物。我们第一次见面是在一家川菜馆吃饭，那顿饭至今难忘，因为桌上有个人点菜的方式太奇怪了。我们一共4个人，这家伙点了8份豆干，4盘回锅肉，正常人哪有这么点菜的？他的逻辑倒是很简单，既然这个好吃，为什么不多点几份？全然不顾普通人点菜的习惯是不会点重复的菜。这个人就是李笑来。我想了想他的逻辑，觉得确实是合理的。但是大多数人未必会接受这种逻辑，更不会仔细考虑是不是他这样做有道理，只会觉得他太不正常了，更别说之后几年他展现了更奇怪的点菜法：请8个人在“美炉村”吃饭，直接点了8条纸包鲈鱼，每人一条，其他什么菜都没点。</p>
 
@@ -1074,7 +1040,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li>标题图：Image used under Standard license from Shutterstock.com （这张图是我们付费购买的，转载也可直接使用，不用换掉它）</li>
 <li>我以前写文章提到过的布总，也写了一篇《<a href="http://www.jianshu.com/p/2a39a82bc3c5">我有一个朋友，叫李笑来</a>》我放在阅读原文。他回忆了很多往事，除了关于笑来，你还可以看到比特币出现时候，我们是如何讨论它的。</li>
 <li><a href="../the_old_internet_is_end/">互联网完蛋了，已经。</a> 这是我的上一篇文章，这里面也提到了现在互联网的问题，明白了这个前提，就更容易理解为什么笑来相信区块链是在重建互联网。</li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1083,12 +1049,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/the_old_internet_is_end/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;
-
-&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/the_old_internet_is_end/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/the_old_internet_is_end/title.jpeg" alt="" /></p>
 
 <p>最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。</p>
 
@@ -1132,7 +1093,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li>标题图：Image used under Standard license from Shutterstock.com （这张图是我们付费购买的，转载也可直接使用，不用换掉它）</li>
 <li><a href="../internet_free_privacy/">你正在为互联网上的“免费”付出什么？</a></li>
 <li><a href="../internet_goodnews_badnews/">互联网的好消息，互联网的坏消息</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1141,12 +1102,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sat, 06 May 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/sued_by_a_programmer_opensource/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;
-
-&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/sued_by_a_programmer_opensource/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/sued_by_a_programmer_opensource/title.jpeg" alt="" /></p>
 
 <p>最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。</p>
 
@@ -1314,7 +1270,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li>对开源社区的组织形式和经验有兴趣？如果你能访问github的话，他们有一篇相当不错的文章，浅显易懂，推荐阅读： <a href="https://ocselected.github.io/open-source-guide/how-to-contribute/">https://ocselected.github.io/open-source-guide/how-to-contribute/</a></li>
 <li>自助起诉工具“今天我要起诉你！” <a href="http://www.kbanquan.com/self">http://www.kbanquan.com/self</a> 也可以点阅读原文到达。</li>
 <li>我起诉差评的全部资料在这里下载，是一个11M的压缩包： <a href="http://cdn.jjldbk.com/docs/virushuo.zip">http://cdn.jjldbk.com/docs/virushuo.zip</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1323,10 +1279,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/no_more_apple/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/no_more_apple/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/no_more_apple/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/no_more_apple/title.jpeg" alt="" /></p>
 
 <p>昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。</p>
 
@@ -1362,7 +1315,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li>2011年 <a href="../think_different_be_yourself/">Think different &amp; be yourself 缅怀乔布斯</a></li>
 <li>2010年 <a href="../ipad_coming/">写在ipad即将到来的时候</a></li>
 <li>2016年 <a href="../apple_fbi/">苹果、FBI以及你的全部生活</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1371,10 +1324,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/reddit_place_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/reddit_place_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/reddit_place_final/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/reddit_place_final/title.jpeg" alt="" /></p>
 
 <p>我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。</p>
 
@@ -1484,7 +1434,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <li>想看完整视频的话，文中提到的工具在这里： <a href="http://spacescience.tech/place/">http://spacescience.tech/place/</a> （发这篇文章的时候这个网站挂了，但估计很快会恢复的）</li>
 <li>Reddit Wiki <a href="https://www.erwinolie.nl/place/doku.php">https://www.erwinolie.nl/place/doku.php</a></li>
 <li>本文的上一篇在这里： <a href="../reddit_place/">参与这场线上大战之后，我觉得人类未来还是有希望的</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1493,10 +1443,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/reddit_place/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/reddit_place/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/reddit_place/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/reddit_place/title.jpeg" alt="" /></p>
 
 <p>4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。</p>
 
@@ -1591,7 +1538,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
 <ul>
 <li>标题图和里面所有图，都是 从 <a href="https://www.reddit.com/r/place/">https://www.reddit.com/r/place/</a> 找到或者截图得到的。著作权不知道，应该算大家共有吧。</li>
 <li>想看完整视频的话，文中提到的工具在这里： <a href="http://spacescience.tech/place/">http://spacescience.tech/place/</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1600,10 +1547,7 @@ Github 吧，它不应该只限于程序员，应该所有人都去试着用它�
       <pubDate>Mon, 20 Mar 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/my_news_receipts/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/my_news_receipts/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近关于付费阅读，内容创业，新闻和媒体我有不少想法，打算逐渐写出来。恰好上周《&lt;a href=&#34;http://newslab.info&#34;&gt;新闻实验室&lt;/a&gt;》创始人方可成邀请写写我的媒体食谱（新闻实验室的一个项目，邀请大家来分享如何阅读新闻和获取信息）。这篇文章首先发布在新闻实验室，但是版本略有区别，发在我自己帐号的这篇会更详细一点，也会加入一些个人感受。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/my_news_receipts/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/my_news_receipts/title.jpeg" alt="" /></p>
 
 <p>最近关于付费阅读，内容创业，新闻和媒体我有不少想法，打算逐渐写出来。恰好上周《<a href="http://newslab.info">新闻实验室</a>》创始人方可成邀请写写我的媒体食谱（新闻实验室的一个项目，邀请大家来分享如何阅读新闻和获取信息）。这篇文章首先发布在新闻实验室，但是版本略有区别，发在我自己帐号的这篇会更详细一点，也会加入一些个人感受。</p>
 
@@ -1666,7 +1610,7 @@ A
 
 <p>另外，互联网和软件行业的程序员也不太一样，互联网本身就是信息服务的一部分，从事这个行业的人对信息也更渴求，关注的也会更多。很多程序员不仅关心社会，还对技术改变社会充满了巨大的热情，很多程序员考虑过设计让信息传输更自由的工具，大部分程序员会着迷于去中心的架构。这些想法可能没有特别强的人文社科基础，但信息行业的发展让他们通常具有这种“朴素信息正义感”。</p>
 
-<p>如果不说中国的特殊情况，世界范围看推动信息自由的程序员非常多，比如Aaron Swartz，Reddit联合创始人，或者wordpress创始人Matt Mullenweg，这套blog系统的完成和开源对新闻和媒体的贡献怎么夸张都不为过，还有Phil Zimmermann，他冒着被美国政府起诉的风险发布了免费的加密算法……以及比特币的发明人中本聪（我们至今不知道他的真正职业，到底是不是职业程序员，不过至少程序应该是他写的），以太坊发明者Vitalik Buterin……我们今天使用的各种隐私保护工具，P2P系统等等的提供者都是程序员们。除此之外，很多技术从业者本身也是新闻爱好者。我觉得我并不是程序员里的例外，而是更接近自由世界的程序员和Geek。</p> ]]></content>
+<p>如果不说中国的特殊情况，世界范围看推动信息自由的程序员非常多，比如Aaron Swartz，Reddit联合创始人，或者wordpress创始人Matt Mullenweg，这套blog系统的完成和开源对新闻和媒体的贡献怎么夸张都不为过，还有Phil Zimmermann，他冒着被美国政府起诉的风险发布了免费的加密算法……以及比特币的发明人中本聪（我们至今不知道他的真正职业，到底是不是职业程序员，不过至少程序应该是他写的），以太坊发明者Vitalik Buterin……我们今天使用的各种隐私保护工具，P2P系统等等的提供者都是程序员们。除此之外，很多技术从业者本身也是新闻爱好者。我觉得我并不是程序员里的例外，而是更接近自由世界的程序员和Geek。</p> ]]></description>
     </item>
     
     <item>
@@ -1675,10 +1619,7 @@ A
       <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
       
       <guid>/post/sued_by_a_programmer_s1_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/sued_by_a_programmer_s1_final/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/sued_by_a_programmer_s1_final/title.jpeg" alt="" /></p>
 
 <p>我之前写过一篇文章，“<a href="../sued_by_a_programmer/">和程序员打官司是一种怎样的体验</a>”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。</p>
 
@@ -1734,7 +1675,7 @@ A
 <li><a href="../sued_by_a_programmer/">和程序员打官司是一种怎样的体验</a> 这篇文章讲了我为什么要打这个官司</li>
 <li>原始文章：<a href="../telegram_russian_hacker/">Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋…</a></li>
 <li>做为法律爱好者，我写的快播案文章：<a href="../kuaibo_trial/">快播案：程序正义、盗版和色情</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1743,12 +1684,7 @@ A
       <pubDate>Fri, 30 Dec 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/hotline_miami/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/hotline_miami/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最后一天，不想写年终总结了。2016是特殊的一年，要总结的太多以至于没什么值得总结的。我想最后一天不如写点平时不写的内容。比如，我们今天聊聊游戏。&lt;/p&gt;
-
-&lt;p&gt;做为一个买游戏不少，玩游戏很少的人，2016年只有一个游戏让我真正受到了震撼，它叫《迈阿密热线》。这种震撼来自很多角度，从艺术风格到游戏形式，从内容到开发者，每一项都给了我足够的震撼。我不是职业玩家也不是职业游戏评论人，这个游戏是2015年的，也不是2016的新游戏。但我还是想写写我的感受。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/hotline_miami/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/hotline_miami/title.jpeg" alt="" /></p>
 
 <p>最后一天，不想写年终总结了。2016是特殊的一年，要总结的太多以至于没什么值得总结的。我想最后一天不如写点平时不写的内容。比如，我们今天聊聊游戏。</p>
 
@@ -1803,7 +1739,7 @@ A
 <li>游戏1+2在steam的地址 <a href="http://store.steampowered.com/sub/56930/">http://store.steampowered.com/sub/56930/</a></li>
 <li>官方漫画是免费的： <a href="http://store.steampowered.com/app/341190/">http://store.steampowered.com/app/341190/</a></li>
 <li>游戏截图基本都是从steam抓出来的。</li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1812,10 +1748,7 @@ A
       <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/internet_goodnews_badnews/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/internet_goodnews_badnews/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/internet_goodnews_badnews/title.jpeg" alt="" /></p>
 
 <p>互联网开始了下半场，是最近比较热的话题。Keso写了一篇<a href="http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg">相当不错的文章</a>，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。</p>
 
@@ -1875,7 +1808,7 @@ A
 <li>我以前写的关于互联网隐私和各国法律差异的文章  <a href="../internet_free_privacy/">你正在为互联网上的“免费”付出什么？</a></li>
 <li>关于Telegram的故事 <a href="../telegram_russian_hacker/">Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋…</a></li>
 <li>标题图：Image used under Standard license from Shutterstock.com （这张图是我们付费购买的，转载也可直接使用，不用换掉它）</li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
     <item>
@@ -1884,10 +1817,7 @@ A
       <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/why_we_should_thank_programmer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/why_we_should_thank_programmer/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上一篇讲了&lt;a href=&#34;../why_programmer_love_script/&#34;&gt;程序员为什么喜欢写脚本&lt;/a&gt;，为什么喜欢分享自己写的脚本，最终如何通过这些开源代码逐渐构建出更大的项目的过程。反馈很强烈，对这个话题有兴趣的人很多，这次继续说这个话题。&lt;/p&gt;</description>
-      <content type="html"><![CDATA[ <p><img src="/images/why_we_should_thank_programmer/title.jpeg" alt="" /></p>
+      <description type="html"><![CDATA[ <p><img src="/images/why_we_should_thank_programmer/title.jpeg" alt="" /></p>
 
 <p>上一篇讲了<a href="../why_programmer_love_script/">程序员为什么喜欢写脚本</a>，为什么喜欢分享自己写的脚本，最终如何通过这些开源代码逐渐构建出更大的项目的过程。反馈很强烈，对这个话题有兴趣的人很多，这次继续说这个话题。</p>
 
@@ -1918,7 +1848,7 @@ A
 <ul>
 <li>标题图：Image used under Standard license from Shutterstock.com （这张图是我们付费购买的，符合我要求的转载可直接使用它）</li>
 <li>10 Reasons Python Rocks for Research <a href="https://www.stat.washington.edu/~hoytak/blog/whypython.html">https://www.stat.washington.edu/~hoytak/blog/whypython.html</a></li>
-</ul> ]]></content>
+</ul> ]]></description>
     </item>
     
   </channel>
