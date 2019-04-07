@@ -10,6 +10,20 @@
   </url>
   
   <url>
+    <loc>/lists/aliments-du-quebec/</loc>
+    <lastmod>2019-04-06T21:11:32-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/mylists/</loc>
+    <lastmod>2019-04-06T21:08:24-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/talk_with_jade_aaron/</loc>
     <lastmod>2019-01-29T19:47:35-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -432,6 +446,13 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-01-01T19:13:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/lists/</loc>
+    <lastmod>2019-04-06T21:11:32-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on HuoJu&#39;s BLOG</title>
+    <link>/lists/</link>
+    <description>Recent content in Lists on HuoJu&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 06 Apr 2019 21:11:32 -0400</lastBuildDate>
+    
+	<atom:link href="/lists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的列表: Quebec出产的包装食品</title>
+      <link>/lists/aliments-du-quebec/</link>
+      <pubDate>Sat, 06 Apr 2019 21:11:32 -0400</pubDate>
+      
+      <guid>/lists/aliments-du-quebec/</guid>
+      <description>魁北克是加拿大的法语省。很多人印象中认为加拿大和美国差不多，没啥好吃的东西。但实际上因为有魁北克的存在，加拿大有很多好吃的。以下是一些我经常</description>
+    </item>
+    
+  </channel>
+</rss>
