@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/post/stock_and_image_license/</loc>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/lists/aliments-du-quebec/</loc>
     <lastmod>2019-04-06T21:11:32-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -459,7 +466,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -513,8 +520,15 @@
   </url>
   
   <url>
+    <loc>/tags/blockchain/</loc>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -549,7 +563,7 @@
   
   <url>
     <loc>/tags/copyright/</loc>
-    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -619,14 +633,14 @@
   
   <url>
     <loc>/tags/internet/</loc>
-    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/law/</loc>
-    <lastmod>2019-01-26T22:29:00-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -724,7 +738,7 @@
   
   <url>
     <loc>/tags/tech/</loc>
-    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

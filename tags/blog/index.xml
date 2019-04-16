@@ -5,10 +5,19 @@
     <link>/tags/blog/</link>
     <description>Recent content in blog on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Jan 2019 19:47:35 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 07:19:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>别闹，买图片根本不贵，但前提…</title>
+      <link>/post/stock_and_image_license/</link>
+      <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
+      
+      <guid>/post/stock_and_image_license/</guid>
+      <description>&lt;p&gt;买图片根本不贵，只是现在这阶段在中国买有一些困难而已。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
@@ -229,17 +238,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;../../images/why_we_should_thank_programmer/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上一篇讲了&lt;a href=&#34;../why_programmer_love_script/&#34;&gt;程序员为什么喜欢写脚本&lt;/a&gt;，为什么喜欢分享自己写的脚本，最终如何通过这些开源代码逐渐构建出更大的项目的过程。反馈很强烈，对这个话题有兴趣的人很多，这次继续说这个话题。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>程序员爱写脚本是种病</title>
-      <link>/post/why_programmer_love_script/</link>
-      <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/post/why_programmer_love_script/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/why_programmer_love_script/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;如果你就是程序员，或者你熟悉程序员这个群体，有时候你会发现他们在干一些奇怪的事情。比如说，他们跟你说在写一个脚本，你问他写脚本干嘛？他告诉你，这事情重复做太无聊，写个脚本以后就不用老让我重复操作了。听起来很有道理吧？但如果对比一下时间，你会惊讶的发现，他们重复做200次这件事大概总共只需要花一个小时的时间。但写这个脚本反而得写5个小时。以这个职业之外的人看来，这绝对是有病，完全不可理解，让你重复几次能死人吗？&lt;/p&gt;</description>
     </item>
     
   </channel>
