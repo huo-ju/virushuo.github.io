@@ -5,10 +5,19 @@
     <link>/tags/blog/</link>
     <description>Recent content in blog on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Apr 2019 07:19:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 21:22:19 -0400</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是自由的，永远</title>
+      <link>/post/opensource_freedom_forever/</link>
+      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      
+      <guid>/post/opensource_freedom_forever/</guid>
+      <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>别闹，买图片根本不贵，但前提…</title>
@@ -227,17 +236,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>为什么人们应该感谢程序员</title>
-      <link>/post/why_we_should_thank_programmer/</link>
-      <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/post/why_we_should_thank_programmer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/why_we_should_thank_programmer/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上一篇讲了&lt;a href=&#34;../why_programmer_love_script/&#34;&gt;程序员为什么喜欢写脚本&lt;/a&gt;，为什么喜欢分享自己写的脚本，最终如何通过这些开源代码逐渐构建出更大的项目的过程。反馈很强烈，对这个话题有兴趣的人很多，这次继续说这个话题。&lt;/p&gt;</description>
     </item>
     
   </channel>

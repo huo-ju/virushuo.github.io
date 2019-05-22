@@ -5,10 +5,19 @@
     <link>/tags/opensource/</link>
     <description>Recent content in opensource on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Feb 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 21:22:19 -0400</lastBuildDate>
     
 	<atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是自由的，永远</title>
+      <link>/post/opensource_freedom_forever/</link>
+      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      
+      <guid>/post/opensource_freedom_forever/</guid>
+      <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>回应破破的桥《针对OpenSSL捐助的讨论》</title>

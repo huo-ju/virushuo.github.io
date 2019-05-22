@@ -5,10 +5,19 @@
     <link>/tags/internet/</link>
     <description>Recent content in internet on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Apr 2019 07:19:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 21:22:19 -0400</lastBuildDate>
     
 	<atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>开源是自由的，永远</title>
+      <link>/post/opensource_freedom_forever/</link>
+      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      
+      <guid>/post/opensource_freedom_forever/</guid>
+      <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>别闹，买图片根本不贵，但前提…</title>
@@ -241,21 +250,6 @@
 &lt;p&gt;让一只猴子在打字机上随机地按键打字无限次时，必然能够产生任何可能的文章，甚至是全套的莎士比亚。但在互联网时代，内行而精明的媒体人可以神奇地使用了一种创新抄袭模式，解放了猴子们的生产力。&lt;/p&gt;
 
 &lt;p&gt;前一段，我写了一篇关于Telegram以及其创始人Pavel Durov的传奇故事。随后一直有朋友和读者给我转来一篇神奇的文章，告诉我那篇文章被抄了。非常感谢各位读者和朋友的关心，但之所以用神奇这个词来形容，是因为这篇被大家认为是抄袭的文章去微信举报是没用的，它很创新。确切的说，他不是抄，而是把我的原文缩减和改写，并且换了一部分图片。比如我用了Pavel Durov的半身照片，他们找到了那张照片的全身原照，把我的半身照片换掉了。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋</title>
-      <link>/post/telegram_russian_hacker/</link>
-      <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
-      
-      <guid>/post/telegram_russian_hacker/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/telegram_russian_hacker/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;说了很久要写Telegram的故事，一直拖延没有写。在我拖延的这段时间里面，Telegarm继续快速增长，前几天，在旧金山的TechCrunch Disrupt活动上，创始人Durov说现在Telegram每天发送的消息数已经达到了120亿条，而今年2月的时候只有10亿条，是时候写完这个故事了。不过，随着它的出名，在中国也毫无悬念的变得难以访问，所以，如果你看完下载了它，又觉得不好连上，程序崩溃什么的，这并不是Telegram的错。&lt;/p&gt;
-
-&lt;p&gt;每天120亿条消息是什么概念呢？我能找到的Whatsapp最新一次公布这个数字是今年4月，每天640亿条，这可是Facebook以190亿美金代价重金收购的App，并且被当作Facebook在移动平台上最好的投资之一。出生在最大的互联网市场美国，并且有Facebook的全力支持，也只是几倍于Telegram的规模而已。如果不出意外，未来的某个时候，Telegram会超过Whatsapp。&lt;/p&gt;
-
-&lt;p&gt;消息数量和月活跃用户上，Telegram显然比Whatsapp和微信还有很大差距。但这是一个只有2年历史的新工具，并且他是一个完全私人拥有的公司，没有其他股东，没有投资人，号称永远不会出售，并且，它有着一支人数极少又战斗力极强的团队…这一切都让这个产品显得与众不同。如果要说这个时代的传奇，Telegram和它的创始人甚至团队，都完全可以入选。它和人们所知道的各种创业故事、商业传奇完全不一样，但又具有传奇故事的一切要素：黑客高手、政治、极权、阴谋…富豪，一应俱全。&lt;/p&gt;</description>
     </item>
     
   </channel>
