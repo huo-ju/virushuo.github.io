@@ -5,9 +5,19 @@
     <link>/tags/</link>
     <description>Recent content in Tags on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Jun 2019 23:32:04 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Wed, 19 Jun 2019 23:32:04 -0400</pubDate>
+      
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>US</title>
@@ -66,7 +76,7 @@
     <item>
       <title>blockchain</title>
       <link>/tags/blockchain/</link>
-      <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
+      <pubDate>Wed, 19 Jun 2019 23:32:04 -0400</pubDate>
       
       <guid>/tags/blockchain/</guid>
       <description></description>
@@ -75,7 +85,7 @@
     <item>
       <title>blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      <pubDate>Wed, 19 Jun 2019 23:32:04 -0400</pubDate>
       
       <guid>/tags/blog/</guid>
       <description></description>
@@ -177,15 +187,6 @@
       <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>history</title>
-      <link>/tags/history/</link>
-      <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
-      <guid>/tags/history/</guid>
       <description></description>
     </item>
     
