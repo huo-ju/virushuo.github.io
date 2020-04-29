@@ -118,40 +118,34 @@
           <section id="posts" class="posts">
     <article class="post">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="./post/real_fake_blockchain/">AI时代，真实已经是易碎品了</a></h1>
+    <h1 class="post-title"><a class="post-link" href="./post/ocsp-stapling-letsencrypt/">Ocsp Stapling 和iOS界面卡顿问题</a></h1>
     <div class="post-meta">
-      <span class="post-time"> 2019-06-19 </span>
+      <span class="post-time"> 2020-04-29 </span>
       
     </div>
   </header>
   
   <div class="post-content">
     <div class="post-summary">
-      <p>这几天，科技新闻的头条大事是：Facebook发布了名为Libra的加密货币白皮书，这是一套基于加密货币理念设计的，且Facebook不能完全控制的数字货币。当然，它仍然是几家巨头控制的中心化较强的货币，而不是真正的去中心加密货币。这不是Facebook第一次尝试这个方向，这一次它的准备比以往的方案完善很多。虽然和真正的“区块链去中心货币”还有很多区别，但是好歹巨头们总算冲进了这个市场。</p>
+      <p>这个问题成功的吸引了我的注意。</p>
 
-<p>所以，即使Facebook的目的达不到，对于整个行业仍然意义重大。不过我这篇文章并不是专门讨论FB的加密货币，区块链和加密货币这两个东西紧密关联，有的项目看重链多一些，有的看重币多一些，Facebook的Libra是看重币多一些，更着重强调它的支付功能，和更低成本的跨国支付结算。而非常巧合的是，同样在这几天，<a href="https://blog.stephenwolfram.com/2019/06/a-few-thoughts-about-deep-fakes/">Stephen Wolfram也写了一篇关于区块链的文章</a>，这篇文章讲到了区块链的一个重要应用，但是在FB发币新闻的热潮下，它获得关注少了很多。但在我看来，这篇文章讨论了的东西更值得思考。</p>
+<p>起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。</p>
+
+<p>开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。</p>
+
+<p>在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。</p>
+
+<p>但是仍然有两个问题没有解释：</p>
+
+<ol>
+<li>为什么Android没问题，iOS有问题</li>
+<li>为什么有时候可以重现，有时候不可以重现</li>
+</ol>
+
+<p>为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。</p>
     </div>
     <div class="read-more">
-      <a href="./post/real_fake_blockchain/" class="read-more-link">Read more..</a>
-    </div>
-  </div>
-</article>
-
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="./post/opensource_freedom_forever/">开源是自由的，永远</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2019-05-21 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      <p>开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。</p>
-    </div>
-    <div class="read-more">
-      <a href="./post/opensource_freedom_forever/" class="read-more-link">Read more..</a>
+      <a href="./post/ocsp-stapling-letsencrypt/" class="read-more-link">Read more..</a>
     </div>
   </div>
 </article>
@@ -221,6 +215,29 @@
   </div>
 </article>
 
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="./post/the_guide_of_punish_canada/">惩罚加拿大完整指南</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2018-12-15 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <p><img src="./images/the_guide_of_punish_canada/title.jpg" alt="" /></p>
+
+<p>我在加拿大生活了不少年，最近一系列的事情让很多人开始注意到了加拿大。于是我收到了来自朋友们的各种问题，从如何抵制加拿大，到加拿大为什么这么傻。诸如此类。挨个答复比较麻烦，干脆写一篇文章。</p>
+
+<p>通常我更愿意写科技相关话题，不写社会和历史话题，一方面是我不是这个领域的专业人员，很多东西未必准确，另外一方面，跟科技不同，这类话题难以保证足够客观，必定带有个人视角，从而引起更多争议。所以我尽量保持拿事实和数据说话，少发表个人看法，但是个人看法必然无法避免，所以还请批判阅读。以上是正文开始之前的一点点声明。</p>
+    </div>
+    <div class="read-more">
+      <a href="./post/the_guide_of_punish_canada/" class="read-more-link">Read more..</a>
+    </div>
+  </div>
+</article>
+
     </section>
   
   <nav class="pagination">
@@ -257,7 +274,7 @@
   <span class="copyright-year">
     &copy; 
     2006 - 
-    2019
+    2020
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>

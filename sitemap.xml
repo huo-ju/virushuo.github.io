@@ -10,15 +10,8 @@
   </url>
   
   <url>
-    <loc>/post/real_fake_blockchain/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/opensource_freedom_forever/</loc>
-    <lastmod>2019-05-21T21:22:19-04:00</lastmod>
+    <loc>/post/ocsp-stapling-letsencrypt/</loc>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,6 +25,13 @@
   
   <url>
     <loc>/lists/aliments-du-quebec/</loc>
+    <lastmod>2019-04-06T21:11:32-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/lists/maritime/</loc>
     <lastmod>2019-04-06T21:11:32-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -465,13 +465,6 @@
   </url>
   
   <url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2019-01-01T19:13:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -487,14 +480,13 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -543,14 +535,14 @@
   
   <url>
     <loc>/tags/blockchain/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -640,6 +632,13 @@
   </url>
   
   <url>
+    <loc>/tags/https/</loc>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/ipad/</loc>
     <lastmod>2010-04-05T21:04:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -655,7 +654,7 @@
   
   <url>
     <loc>/tags/internet/</loc>
-    <lastmod>2019-05-21T21:22:19-04:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -675,8 +674,22 @@
   </url>
   
   <url>
+    <loc>/tags/nginx/</loc>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ocsp/</loc>
+    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/opensource/</loc>
-    <lastmod>2019-05-21T21:22:19-04:00</lastmod>
+    <lastmod>2015-02-10T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -760,7 +773,7 @@
   
   <url>
     <loc>/tags/tech/</loc>
-    <lastmod>2019-06-19T23:32:04-04:00</lastmod>
+    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

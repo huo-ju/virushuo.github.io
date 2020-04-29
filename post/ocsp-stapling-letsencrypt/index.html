@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Ocsp Stapling 和iOS界面卡顿问题 - HuoJu&#39;s BLOG</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Huo Ju" /><meta name="description" content="这个问题成功的吸引了我的注意。
+起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。
+开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。
+在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。
+但是仍然有两个问题没有解释：
+ 为什么Android没问题，iOS有问题 为什么有时候可以重现，有时候不可以重现  为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。
+" /><meta name="keywords" content="Tech, Internet" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54-DEV with even 4.0.0" />
+
+
+<link rel="canonical" href="../../post/ocsp-stapling-letsencrypt/" />
+<link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+<link rel="manifest" href="../../manifest.json">
+<link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+
+
+<link href="../../dist/even.9902d234.min.css" rel="stylesheet">
+<link href="../../lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
+
+
+<meta property="og:title" content="Ocsp Stapling 和iOS界面卡顿问题" />
+<meta property="og:description" content="这个问题成功的吸引了我的注意。
+
+起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。
+
+开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。
+
+在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。
+
+但是仍然有两个问题没有解释：
+
+
+为什么Android没问题，iOS有问题
+为什么有时候可以重现，有时候不可以重现
+
+
+为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/ocsp-stapling-letsencrypt/" /><meta property="article:published_time" content="2020-04-29T17:25:42-04:00"/>
+<meta property="article:modified_time" content="2020-04-29T17:25:42-04:00"/>
+
+<meta itemprop="name" content="Ocsp Stapling 和iOS界面卡顿问题">
+<meta itemprop="description" content="这个问题成功的吸引了我的注意。
+
+起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。
+
+开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。
+
+在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。
+
+但是仍然有两个问题没有解释：
+
+
+为什么Android没问题，iOS有问题
+为什么有时候可以重现，有时候不可以重现
+
+
+为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。">
+
+
+<meta itemprop="datePublished" content="2020-04-29T17:25:42-04:00" />
+<meta itemprop="dateModified" content="2020-04-29T17:25:42-04:00" />
+<meta itemprop="wordCount" content="1604">
+
+
+
+<meta itemprop="keywords" content="blog,https,ocsp,nginx," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ocsp Stapling 和iOS界面卡顿问题"/>
+<meta name="twitter:description" content="这个问题成功的吸引了我的注意。
+
+起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。
+
+开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。
+
+在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。
+
+但是仍然有两个问题没有解释：
+
+
+为什么Android没问题，iOS有问题
+为什么有时候可以重现，有时候不可以重现
+
+
+为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="../../" class="logo">HuoJu&#39;s BLOG</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="../../">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="../../post/">
+        <li class="mobile-menu-item">Archives</li>
+      </a><a href="../../tags/">
+        <li class="mobile-menu-item">Tags</li>
+      </a><a href="../../mylists/">
+        <li class="mobile-menu-item">Lists</li>
+      </a><a href="../../about/">
+        <li class="mobile-menu-item">About</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="../../" class="logo">HuoJu&#39;s BLOG</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="../../">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../post/">Archives</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../tags/">Tags</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../mylists/">Lists</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="../../about/">About</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Ocsp Stapling 和iOS界面卡顿问题</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2020-04-29 </span>
+        
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">Contents</h2>
+  <div class="post-toc-content always-active">
+    
+  </div>
+</div>
+    <div class="post-content">
+      <p>这个问题成功的吸引了我的注意。</p>
+
+<p>起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。</p>
+
+<p>开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。</p>
+
+<p>在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。</p>
+
+<p>但是仍然有两个问题没有解释：</p>
+
+<ol>
+<li>为什么Android没问题，iOS有问题</li>
+<li>为什么有时候可以重现，有时候不可以重现</li>
+</ol>
+
+<p>为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。</p>
+
+<ol>
+<li>Android没有问题的原因是，<a href="https://blog.wirelessmoves.com/2015/03/ocsp-stapling-and-android-that-doesnt-care.html">Google不满意ocsp这个解决方案</a>，所以所有google的产品，无论是android还是chrome都不进行ocsp检查。</li>
+</ol>
+
+<p>ocsp作用是检查证书状态，尤其是是否吊销，Google认为检查证书状态并不能增加安全性，并且导致https请求时间变长，并且ocsp服务器本身也可能会出问题，这不是一个可靠的方案。Google通过分发一个列表到本地来解决证书检查问题。当然有人提出争议说分发列表这个过程会因为升级服务器被屏蔽而失效，Google认为如果能屏蔽我们的升级服务器，那么屏蔽ocsp服务器岂不是更容易？所以从2012年开始，Google就逐步取消了ocsp检查。</p>
+
+<ol>
+<li>为什么有时候可以，有时候不可以</li>
+</ol>
+
+<p><a href="https://github.com/nginx/nginx/blob/c17bc31d41a0372002115899a2c64e89aeca7e7d/src/event/ngx_event_openssl_stapling.c#L554">读nginx代码</a>，发现nginx会把ocsp请求结果放在内存里面，直到过期之前才会再次请求ocsp服务器更新状态。但是如果重启了nginx，内存里面的结果就丢掉了，下一次就会直接请求ocsp服务器。</p>
+
+<p>letsencrypt使用akamai cdn分发ocsp状态，实际上遭到DNS污染的似乎是akamai.net的某一部分节点，应该还有少量没被污染。所以有时候还能取得正确的结果，一旦取得正确的结果之后，在下次nginx重启/ocsp过期之前就会变得一切正常。这使得重现它更加困难。</p>
+
+<p>代码读完之后，也就知道了解决方案：</p>
+
+<ul>
+<li>使用 ssl_stapling_file 配置，从一个外部文件获取ocsp信息 ngx_ssl_stapling_file</li>
+<li>使用 <a href="https://github.com/nginx/nginx/blob/c17bc31d41a0372002115899a2c64e89aeca7e7d/src/event/ngx_event_openssl_stapling.c#L382">ssl_stapling_responder</a>配置，nginx会用这个设置覆盖证书里面的Authority Information Access信息，使得请求ocsp被发送到设置的服务器</li>
+</ul>
+
+<p>两者之间我更倾向后者，后者灵活的多，也省去了跨机器更新文件的麻烦，顺便还能解决以后其它麻烦。</p>
+
+<p>我首先想按照ocsp协议写一个简单的responder，不过搜索之后发现有人很多年前写过一段非常简单的<a href="https://github.com/dlecorfec/ocsp-proxy">转发代码</a>，直接把请求转发给指定的服务器。虽然必须要设置一个固定的转发服务器（因为原始的Authority Information Access信息被nginx覆盖了）。我想更好的解决方案是修改一下nginx的代码，在这个http请求中把原始的AIA放到header里面一起发给代理，不过考虑到大部分人都会把所有证书集中在一个供应商，设置一个转发地址完全能解决问题。而且避免每次升级给nginx重新打补丁的麻烦。所以就不改了。</p>
+
+<p>我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： <a href="https://github.com/virushuo/ocsp-proxy">https://github.com/virushuo/ocsp-proxy</a></p>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">Huo Ju</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">2020-04-29</span>
+  </p>
+  
+  
+</div><footer class="post-footer">
+      <div class="post-tags">
+          <a href="../../tags/blog/">blog</a>
+          <a href="../../tags/https/">https</a>
+          <a href="../../tags/ocsp/">ocsp</a>
+          <a href="../../tags/nginx/">nginx</a>
+          </div>
+      <nav class="post-nav">
+        
+        <a class="next" href="../../post/stock_and_image_license/">
+            <span class="next-text nav-default">别闹，买图片根本不贵，但前提…</span>
+            <span class="next-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        <div id="gitalk-container"></div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      var gitalk = new Gitalk({
+        id: '2020-04-29 17:25:42 -0400 EDT',
+        title: 'Ocsp Stapling 和iOS界面卡顿问题',
+        clientID: '561dd511bb112f9f56f5',
+        clientSecret: '0d936072832208e6929b71a52bd73c2639751482',
+        repo: 'virushuo.github.io',
+        owner: 'virushuo',
+        admin: ['virushuo'],
+        body: decodeURI(location.href)
+      });
+      gitalk.render('gitalk-container');
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://github.com/virushuo/" class="iconfont icon-github" title="github"></a>
+  <a href="../../index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2006 - 
+    2020
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">Huo Ju</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  <script type="text/javascript" src="../../lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="../../lib/slideout/slideout-1.0.1.min.js"></script>
+  <script type="text/javascript" src="../../lib/fancybox/jquery.fancybox-3.1.20.min.js"></script>
+<script type="text/javascript" src="../../dist/even.069327e0.min.js"></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-133324377-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+
+
+
+
+</body>
+</html>
