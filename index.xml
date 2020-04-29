@@ -32,7 +32,7 @@
 
 <p>起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。</p>
 
-<p>开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的issue里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。</p>
+<p>开始这个问题没太引起重视，觉得是flutter的问题。但后来随着flutter的<a href="https://github.com/flutter/flutter/issues/55586">issue</a>里面报告的人逐渐多起来，看起来这个问题不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。</p>
 
 <p>在issue里面发现报告问题的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https相关问题上。最终发现问题是服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。</p>
 
