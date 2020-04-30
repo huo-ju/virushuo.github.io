@@ -14,6 +14,8 @@ tags: ["blog", "https", "ocsp", "nginx"]
 
 在issue里面发现报告的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https上。最终发现服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。
 
+在服务器开启OCSP Stapling对于提升速度[帮助很大](https://blog.cloudflare.com/ocsp-stapling-how-cloudflare-just-made-ssl-30/)。所以无论如何也是应该开启的。
+
 但是仍然有两个问题没有解释：
 
 1. 为什么Android没问题，iOS有问题
@@ -44,4 +46,11 @@ letsencrypt使用akamai cdn分发ocsp状态，实际上遭到DNS污染的似乎�
 
 我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： https://github.com/virushuo/ocsp-proxy
 
+部署好了之后在nginx.conf里面增加配置:
 
+```
+ssl_stapling on;
+ssl_stapling_verify on;
+ssl_trusted_certificate /etc/ssl/ca-certs.pem;
+ssl_stapling_responder http://YOUR_PROXY_IP:8080/; 
+```

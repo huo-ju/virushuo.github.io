@@ -36,6 +36,8 @@
 
 <p>在issue里面发现报告的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https上。最终发现服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。</p>
 
+<p>在服务器开启OCSP Stapling对于提升速度<a href="https://blog.cloudflare.com/ocsp-stapling-how-cloudflare-just-made-ssl-30/">帮助很大</a>。所以无论如何也是应该开启的。</p>
+
 <p>但是仍然有两个问题没有解释：</p>
 
 <ol>
@@ -66,7 +68,23 @@
 
 <p>我首先想按照ocsp协议写一个简单的responder，不过搜索之后发现有人很多年前写过一段非常简单的<a href="https://github.com/dlecorfec/ocsp-proxy">转发代码</a>，直接把请求转发给指定的服务器。虽然必须要设置一个固定的转发服务器（因为原始的Authority Information Access信息被nginx覆盖了）。我想更好的解决方案是修改一下nginx的代码，在这个http请求中把原始的AIA放到header里面一起发给代理，不过考虑到大部分人都会把所有证书集中在一个供应商，设置一个转发地址完全能解决问题。而且避免每次升级给nginx重新打补丁的麻烦。所以就不改了。</p>
 
-<p>我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： <a href="https://github.com/virushuo/ocsp-proxy">https://github.com/virushuo/ocsp-proxy</a></p> ]]></description>
+<p>我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： <a href="https://github.com/virushuo/ocsp-proxy">https://github.com/virushuo/ocsp-proxy</a></p>
+
+<p>部署好了之后在nginx.conf里面增加配置:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">ssl_stapling on;
+ssl_stapling_verify on;
+ssl_trusted_certificate /etc/ssl/ca-certs.pem;
+ssl_stapling_responder http://YOUR_PROXY_IP:8080/; </pre></td></tr></table>
+</div>
+</div> ]]></description>
     </item>
     
     <item>
