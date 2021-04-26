@@ -13,7 +13,7 @@ tags: ["blog","tech", "internet", "history", "Free software"]
 
 因为美国的社会现实，这类讨论在SNS上变得困难，这次事件中大量讨论发生在IRC/mail-list，很多文章使用[gemini](https://gemini.circumlunar.space/)协议发布（一个现代版本的类Gopher协议），这些系统的门槛天生排斥了非核心成员，使得讨论得以顺利进行，但另外一方面又使大部分人们无法获知全景，这是我想写这篇文章的初衷。
 
-整个事件涉及到几十年的历史，无数社会运动的片段，实在太难说清，这里也只能选出少量我认为有关联的部分，即使这样篇幅也会非常长…我和老朋友、前同事[庄表伟](http://www.zhuangbiaowei.com/blog/)一直在讨论相关话题，最后我们约定各自写一篇文章，他的文章前半部分已经发布：[自由、开源及其敌人 —— RMS事件簿](https://mp.weixin.qq.com/s/Q3DDYYiGbJJREii7ZPBuMg)
+整个事件涉及到几十年的历史，无数社会运动的片段，实在太难说清，这里也只能选出少量我认为有关联的部分，即使这样篇幅也会非常长…我和老朋友、前同事[庄表伟](https://zhuangbiaowei.github.io/)一直在讨论相关话题，最后我们约定各自写一篇文章，他的文章前半部分已经发布：[自由、开源及其敌人 —— RMS事件簿](https://mp.weixin.qq.com/s/Q3DDYYiGbJJREii7ZPBuMg)
 
 另外要感谢[和菜头点名了我](https://mp.weixin.qq.com/s/wuRfk14m4lgs4bdIWnICDw)，不然可能我拖着拖着就拖过去…这也在关键时刻让我能更新一篇文章，没变成“2年更帐号”
 
