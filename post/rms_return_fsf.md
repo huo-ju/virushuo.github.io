@@ -15,7 +15,7 @@ tags: ["blog","tech", "internet", "history", "Free software"]
 
 整个事件涉及到几十年的历史，无数社会运动的片段，实在太难说清，这里也只能选出少量我认为有关联的部分，即使这样篇幅也会非常长…我和老朋友、前同事[庄表伟](http://www.zhuangbiaowei.com/blog/)一直在讨论相关话题，最后我们约定各自写一篇文章，他的文章前半部分已经发布：[自由、开源及其敌人 —— RMS事件簿](https://mp.weixin.qq.com/s/Q3DDYYiGbJJREii7ZPBuMg)
 
-另外要感谢[和菜头点名了我](https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652784888&idx=1&sn=cf71c1238765487fc723c29f58ee461b&chksm=bd4683378a310a21eadcbcb6ae238c36ee9800c29efad3b66bb2ba462e1b241e4530583aea0d&scene=21&token=86795725&lang=zh_CN#wechat_redirect)，不然可能我拖着拖着就拖过去…这也在关键时刻让我能更新一篇文章，没变成“2年更帐号”
+另外要感谢[和菜头点名了我](https://mp.weixin.qq.com/s/wuRfk14m4lgs4bdIWnICDw)，不然可能我拖着拖着就拖过去…这也在关键时刻让我能更新一篇文章，没变成“2年更帐号”
 
 
 ### 反对方 vs 支持方
