@@ -32,7 +32,7 @@ FSF是自治型组织，旗下各种项目也都是社区不同人维护，这�
 
 先看“[反对rms](https://rms-open-letter.github.io/)”的签名和”[支持rms](https://rms-support-letter.github.io/)“签名历史对比图：
 
-![](/images/rms_return_fsf/rmsvotes.png)
+![https://sigterm.cc/rmsvotes.png](/images/rms_return_fsf/rmsvotes.png)
 
 从图上很容易看到，支持rms签名在几天之后就超过了反对方，这个对比是以往类似的“取消文化(cancel culture)”行动中没出现过的。
 
@@ -106,7 +106,7 @@ Cancel Culture有用还是有害，争论已经进行了好几年。如果读了
 
 据其它知情者讲述，后面的”hot ladies“字样是别人加上去的，RMS本人发现后，把铭牌上的纸剪掉了后半截重新放了回去。
 
-支持RMS的人试图寻找这件事的证据，最后在一部法国纪录片《[互联网和共享革命](https://wiki.huihoo.com/wiki/Donate_to_huihoo)》中找到了证据，导演在2017年采访RMS的时候，恰好拍摄到了他的办公室铭牌，其中可以清晰看到，铭牌尾部的”hot ladies“字样已经被剪掉了。
+支持RMS的人试图寻找这件事的证据，最后在一部法国纪录片《[互联网和共享革命](https://fr.wikipedia.org/wiki/Internet_ou_la_r%C3%A9volution_du_partage)》中找到了证据，导演在2017年采访RMS的时候，恰好拍摄到了他的办公室铭牌，其中可以清晰看到，铭牌尾部的”hot ladies“字样已经被剪掉了。
 
 我把两张铭牌照片合并在一起放在这里供对比。
 
