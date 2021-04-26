@@ -32,7 +32,9 @@ FSF是自治型组织，旗下各种项目也都是社区不同人维护，这�
 
 先看“[反对rms](https://rms-open-letter.github.io/)”的签名和”[支持rms](https://rms-support-letter.github.io/)“签名历史对比图：
 
-![https://sigterm.cc/rmsvotes.png](/images/rms_return_fsf/rmsvotes.png)
+![](/images/rms_return_fsf/rmsvotes.png)
+
+[对比图来自这个repo](https://gitlab.com/Kezi/open-rms-letter-chart-generator)
 
 从图上很容易看到，支持rms签名在几天之后就超过了反对方，这个对比是以往类似的“取消文化(cancel culture)”行动中没出现过的。
 
