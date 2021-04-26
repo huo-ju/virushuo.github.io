@@ -5,10 +5,21 @@
     <link>/tags/blog/</link>
     <description>Recent content in blog on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Apr 2020 17:25:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>围绕RMS、开源、自由软件的两场“战争”</title>
+      <link>/post/rms_return_fsf/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      
+      <guid>/post/rms_return_fsf/</guid>
+      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;
+
+&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Ocsp Stapling 和iOS界面卡顿问题</title>
@@ -34,6 +45,15 @@
 &lt;/ol&gt;
 
 &lt;p&gt;为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>开源是自由的，永远</title>
+      <link>/post/opensource_freedom_forever/</link>
+      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      
+      <guid>/post/opensource_freedom_forever/</guid>
+      <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -229,30 +249,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>热线迈阿密玩后感</title>
-      <link>/post/hotline_miami/</link>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/post/hotline_miami/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/hotline_miami/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最后一天，不想写年终总结了。2016是特殊的一年，要总结的太多以至于没什么值得总结的。我想最后一天不如写点平时不写的内容。比如，我们今天聊聊游戏。&lt;/p&gt;
-
-&lt;p&gt;做为一个买游戏不少，玩游戏很少的人，2016年只有一个游戏让我真正受到了震撼，它叫《迈阿密热线》。这种震撼来自很多角度，从艺术风格到游戏形式，从内容到开发者，每一项都给了我足够的震撼。我不是职业玩家也不是职业游戏评论人，这个游戏是2015年的，也不是2016的新游戏。但我还是想写写我的感受。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>互联网的好消息，互联网的坏消息</title>
-      <link>/post/internet_goodnews_badnews/</link>
-      <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/post/internet_goodnews_badnews/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
     </item>
     
   </channel>

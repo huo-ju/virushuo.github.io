@@ -5,10 +5,21 @@
     <link>/tags/history/</link>
     <description>Recent content in history on HuoJu&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Jan 2019 19:47:35 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>围绕RMS、开源、自由软件的两场“战争”</title>
+      <link>/post/rms_return_fsf/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      
+      <guid>/post/rms_return_fsf/</guid>
+      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;
+
+&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>

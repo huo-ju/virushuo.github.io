@@ -10,8 +10,22 @@
   </url>
   
   <url>
+    <loc>/post/rms_return_fsf/</loc>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/ocsp-stapling-letsencrypt/</loc>
     <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/opensource_freedom_forever/</loc>
+    <lastmod>2019-05-21T21:22:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -465,6 +479,13 @@
   </url>
   
   <url>
+    <loc>/tags/free-software/</loc>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-01-01T19:13:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -480,13 +501,14 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -542,7 +564,7 @@
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2020-04-29T17:25:42-04:00</lastmod>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -626,7 +648,7 @@
   
   <url>
     <loc>/tags/history/</loc>
-    <lastmod>2019-01-29T19:47:35-05:00</lastmod>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -654,7 +676,7 @@
   
   <url>
     <loc>/tags/internet/</loc>
-    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -689,7 +711,7 @@
   
   <url>
     <loc>/tags/opensource/</loc>
-    <lastmod>2015-02-10T00:00:00-05:00</lastmod>
+    <lastmod>2019-05-21T21:22:19-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -773,7 +795,7 @@
   
   <url>
     <loc>/tags/tech/</loc>
-    <lastmod>2019-04-15T07:19:00-05:00</lastmod>
+    <lastmod>2021-04-25T18:03:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
