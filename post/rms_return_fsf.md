@@ -146,9 +146,10 @@ Cancel Culture有用还是有害，争论已经进行了好几年。如果读了
 
 2021年4月12日，和FSF宣布RMS回归同一天，RMS也发表了[对自由软件社区的致辞](https://www.fsf.org/news/rms-addresses-the-free-software-community)，以这段话开头：
 
->    在我十几岁的时候，我感觉有一层薄膜把我和其它同龄人隔开。
->    我能理解他们交谈的词语，但是我无法领会为什么他们要那么说或者那么做。
->    更久之后，我才意识到我无法理解其它人回复中的隐晦暗示。
+> 在我十几岁的时候，我感觉有一层薄膜把我和其它同龄人隔开。
+> 我能理解他们交谈的词语，但是我无法领会为什么他们要那么说或者那么做。
+> 更久之后，我才意识到我无法理解其它人回复中的隐晦暗示。
+> [https://www.fsf.org/news/rms-addresses-the-free-software-community](https://www.fsf.org/news/rms-addresses-the-free-software-community)
 
 （此处是我的翻译，原文请见链接）
 
