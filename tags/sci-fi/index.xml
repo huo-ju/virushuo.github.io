@@ -1,60 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sci-fi on HuoJu&#39;s BLOG</title>
+    <title>Sci-Fi on HuoJu&#39;s BLOG</title>
     <link>/tags/sci-fi/</link>
-    <description>Recent content in sci-fi on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Sci-Fi on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 05 Aug 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>折叠处已狂啸无声</title>
       <link>/post/folding_beijing/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/folding_beijing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/folding_beijing/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;科幻小说《折叠北京》获得了雨果奖。这个消息应该大家都知道了。做为读了不少科幻小说也写过一些的爱好者，我认为这部小说非常出色。当然，它有若干弱点，比如人物形象过于程式化，前因后果不清楚，剧情转折不够…等等，但这些都是表面上的技术问题，不重要。如果非说技术上的弱点，《三体》也好不到哪里去，我看三体的时候看到未来竟然还有政委这个职位，未来还需要思想政治工作的时候，觉得无比荒唐，差点把书扔了。幸亏书是一个朋友借给我的，这才让我忍着不适读完它。在文字、人物、女性刻画…等等问题上有问题的科幻小说太多了，但这些并不妨碍其中一部分成为传世之作。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/folding_beijing/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;科幻小说《折叠北京》获得了雨果奖。这个消息应该大家都知道了。做为读了不少科幻小说也写过一些的爱好者，我认为这部小说非常出色。当然，它有若干弱点，比如人物形象过于程式化，前因后果不清楚，剧情转折不够…等等，但这些都是表面上的技术问题，不重要。如果非说技术上的弱点，《三体》也好不到哪里去，我看三体的时候看到未来竟然还有政委这个职位，未来还需要思想政治工作的时候，觉得无比荒唐，差点把书扔了。幸亏书是一个朋友借给我的，这才让我忍着不适读完它。在文字、人物、女性刻画…等等问题上有问题的科幻小说太多了，但这些并不妨碍其中一部分成为传世之作。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>BetaCat 的前生后世</title>
       <link>/post/betacat_introduction/</link>
       <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/betacat_introduction/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/betacat_introduction/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;可能有一部分读者知道，我除了写这个帐号，同时也是《神秘的程序员们》系列漫画的共同创始人。最近一段时间，我们一直在写一个科幻的连载故事。在《神秘的程序员们》上漫画已经连载了四期，告一段落。之后我为这个漫画写了一篇总结，说是总结，但其实主要是我关于人工智能和科幻小说的看法。&lt;/p&gt;
-
-&lt;p&gt;如果你是程序员漫画的读者，并且也在那边看过这篇文章了，非常感谢对我们的支持，抱歉打扰。如果还没看过，可以先用下面的二维码去这4期科幻漫画的列表页面，当然，看完文章再去看也没问题。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/betacat_introduction/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;可能有一部分读者知道，我除了写这个帐号，同时也是《神秘的程序员们》系列漫画的共同创始人。最近一段时间，我们一直在写一个科幻的连载故事。在《神秘的程序员们》上漫画已经连载了四期，告一段落。之后我为这个漫画写了一篇总结，说是总结，但其实主要是我关于人工智能和科幻小说的看法。&lt;/p&gt;&#xA;&lt;p&gt;如果你是程序员漫画的读者，并且也在那边看过这篇文章了，非常感谢对我们的支持，抱歉打扰。如果还没看过，可以先用下面的二维码去这4期科幻漫画的列表页面，当然，看完文章再去看也没问题。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>墙、感染、信任和欺骗</title>
       <link>/post/wall_infection_trust_cheating/</link>
       <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/wall_infection_trust_cheating/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/wall_infection_trust_cheating/Ken_Thompson_and_Dennis_Ritchie_at_PDP-11.jpg&#34; alt=&#34;Ken Thompson (sitting) and Dennis Ritchie &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近XcodeGhost导致的严重安全问题，相信大家已经从各个渠道知道了。简单概括一下，有人在中国网盘和论坛上传播了一个修改过的Xcode，这个版本的Xcode会在编译出来的App上面加一些可以被远程控制的代码，并且发送数据到某个服务器上。这是iOS出现以来，未越狱系统遭遇的最大安全威胁，在此之前苹果的Sandbox模式几乎没遇到过挑战，iPhone用户甚至大量iOS开发者都认为系统固若金汤，不可能遇到问题。&lt;/p&gt;
-
-&lt;p&gt;在XcodeGhost开始被媒体报道的时，很多人大大低估了它的风险。我在乌云报道这个问题的当天，在朋友圈上建议大家先把中招的app都删掉，并且立刻修改iCloud密码，开两步验证。甚至遭到了不少人反对，还有好几位iOS开发者告诉我这件事没什么大问题，因为iOS有Sandbox，不会造成什么伤害。当时网易也发了一个关于云音乐被感染的说明，也是类似不痛不痒的口气。这些说法当然都是大错特错的，会有这种想法，是因为只会站在程序员角度看问题，如果对安全问题稍微有一点敏感性，就会立刻意识到这是极严重的威胁，稍微发挥一些想象力就会被吓着。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/wall_infection_trust_cheating/Ken_Thompson_and_Dennis_Ritchie_at_PDP-11.jpg&#34; alt=&#34;Ken Thompson (sitting) and Dennis Ritchie &#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近XcodeGhost导致的严重安全问题，相信大家已经从各个渠道知道了。简单概括一下，有人在中国网盘和论坛上传播了一个修改过的Xcode，这个版本的Xcode会在编译出来的App上面加一些可以被远程控制的代码，并且发送数据到某个服务器上。这是iOS出现以来，未越狱系统遭遇的最大安全威胁，在此之前苹果的Sandbox模式几乎没遇到过挑战，iPhone用户甚至大量iOS开发者都认为系统固若金汤，不可能遇到问题。&lt;/p&gt;&#xA;&lt;p&gt;在XcodeGhost开始被媒体报道的时，很多人大大低估了它的风险。我在乌云报道这个问题的当天，在朋友圈上建议大家先把中招的app都删掉，并且立刻修改iCloud密码，开两步验证。甚至遭到了不少人反对，还有好几位iOS开发者告诉我这件事没什么大问题，因为iOS有Sandbox，不会造成什么伤害。当时网易也发了一个关于云音乐被感染的说明，也是类似不痛不痒的口气。这些说法当然都是大错特错的，会有这种想法，是因为只会站在程序员角度看问题，如果对安全问题稍微有一点敏感性，就会立刻意识到这是极严重的威胁，稍微发挥一些想象力就会被吓着。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>无论强人工智能能否出现，人类的未来注定灰暗</title>
       <link>/post/ai_bad_future_of_humanity/</link>
       <pubDate>Thu, 05 Mar 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/ai_bad_future_of_humanity/</guid>
-      <description>最近，无论中文还是英文，关于人工智能的讨论都突然变多，对于人工智能到底会不会危害人类也成了一个热点话题。很多讨论集中在所谓强人工智能出现之后</description>
+      <description>&lt;p&gt;最近，无论中文还是英文，关于人工智能的讨论都突然变多，对于人工智能到底会不会危害人类也成了一个热点话题。很多讨论集中在所谓强人工智能出现之后的可能性，在这些来自未来学家的讨论中，远超人类智能的“强人工智能”会在我们有生之年出现，到那时候人类的命运会变成什么样。我觉得人们想的太远了。在强人工智能出现之前，人类已经命运已经注定灰暗了。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

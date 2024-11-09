@@ -1,106 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>copyright on HuoJu&#39;s BLOG</title>
+    <title>Copyright on HuoJu&#39;s BLOG</title>
     <link>/tags/copyright/</link>
-    <description>Recent content in copyright on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Copyright on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 15 Apr 2019 07:19:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/copyright/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/copyright/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>别闹，买图片根本不贵，但前提…</title>
       <link>/post/stock_and_image_license/</link>
       <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
-      
       <guid>/post/stock_and_image_license/</guid>
       <description>&lt;p&gt;买图片根本不贵，只是现在这阶段在中国买有一些困难而已。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>三年多过去了，我钉下的这跟钉子还在</title>
       <link>/post/sued_by_a_programmer_3yrs/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_3yrs/</guid>
-      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;
-
-&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
+      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;&#xA;&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>请伸出你的小圆手</title>
       <link>/post/sued_by_a_programmer_opensource/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_opensource/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;
-
-&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;&#xA;&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>和程序员打官司的第一季结束，第二季即将开始</title>
       <link>/post/sued_by_a_programmer_s1_final/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_s1_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>和程序员打官司是一种怎样的体验</title>
       <link>/post/sued_by_a_programmer/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;前述起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案5月23日在杭州第一次开庭审理结束，当场未能作出判决，审判长宣布择日开庭再申。需要再次开庭也说明了这个案件有一定复杂性，可见我之前说的没错，这是一个有趣的案子。&lt;/p&gt;
-
-&lt;p&gt;第一次开庭审理完成，该公开的东西也基本都公开了。我就可以来说说为什么要打这场官司，以及在这场公司里面我们有什么样的创新了，因为这些创新，它成了一个值得原创作者、媒体人、法律届和计算机技术行业共同关注的案子。&lt;/p&gt;
-
-&lt;p&gt;很多人好奇打这个官司的目的是什么。通常看到索赔标的1块钱的案子，大家都明白，它的目的一定不是赔偿本身。据说被告方项目的投资人在朋友圈破口大骂，说我是炒作。看到这种奇怪的事情只能想到炒作这一个目的，这恐怕是个境界问题。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/sued_by_a_programmer/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;前述起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案5月23日在杭州第一次开庭审理结束，当场未能作出判决，审判长宣布择日开庭再申。需要再次开庭也说明了这个案件有一定复杂性，可见我之前说的没错，这是一个有趣的案子。&lt;/p&gt;&#xA;&lt;p&gt;第一次开庭审理完成，该公开的东西也基本都公开了。我就可以来说说为什么要打这场官司，以及在这场公司里面我们有什么样的创新了，因为这些创新，它成了一个值得原创作者、媒体人、法律届和计算机技术行业共同关注的案子。&lt;/p&gt;&#xA;&lt;p&gt;很多人好奇打这个官司的目的是什么。通常看到索赔标的1块钱的案子，大家都明白，它的目的一定不是赔偿本身。据说被告方项目的投资人在朋友圈破口大骂，说我是炒作。看到这种奇怪的事情只能想到炒作这一个目的，这恐怕是个境界问题。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>一场索赔1块钱的官司</title>
       <link>/post/suing_for_1/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/suing_for_1/</guid>
-      <description>&lt;p&gt;我公众号的老读者，应该还记得我写过一篇“&lt;a href=&#34;../chaping_washing_articles/&#34;&gt;不需要无限只猴子的创新抄袭&lt;/a&gt;”的文章，那篇文章写了我认为某公众号通过巧妙的方式洗稿抄了我关于Telegram的文章“&lt;a href=&#34;../telegram_russian_hacker/&#34;&gt;Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋…&lt;/a&gt;”的事，可惜对方并不承认。众所周知，微信的原创保护只能对付完全直接复制文章的侵权方式，其他情况暂时无能为力。的确，这种事情只靠腾讯一家企业也很难周全，最后还是得回到法律上来。&lt;/p&gt;
-
-&lt;p&gt;所以，我发起了一次诉讼，不为别的，就是想试试看，这种事情到底有没有办法分个对错。所以这个案子索赔的金额只有1块钱。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我公众号的老读者，应该还记得我写过一篇“&lt;a href=&#34;../chaping_washing_articles/&#34;&gt;不需要无限只猴子的创新抄袭&lt;/a&gt;”的文章，那篇文章写了我认为某公众号通过巧妙的方式洗稿抄了我关于Telegram的文章“&lt;a href=&#34;../telegram_russian_hacker/&#34;&gt;Telegram传奇：俄罗斯富豪、黑客高手、极权和阴谋…&lt;/a&gt;”的事，可惜对方并不承认。众所周知，微信的原创保护只能对付完全直接复制文章的侵权方式，其他情况暂时无能为力。的确，这种事情只靠腾讯一家企业也很难周全，最后还是得回到法律上来。&lt;/p&gt;&#xA;&lt;p&gt;所以，我发起了一次诉讼，不为别的，就是想试试看，这种事情到底有没有办法分个对错。所以这个案子索赔的金额只有1块钱。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>不需要无限只猴子的创新抄袭</title>
       <link>/post/chaping_washing_articles/</link>
       <pubDate>Mon, 12 Oct 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/chaping_washing_articles/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/chaping_washing_articles/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;让一只猴子在打字机上随机地按键打字无限次时，必然能够产生任何可能的文章，甚至是全套的莎士比亚。但在互联网时代，内行而精明的媒体人可以神奇地使用了一种创新抄袭模式，解放了猴子们的生产力。&lt;/p&gt;
-
-&lt;p&gt;前一段，我写了一篇关于Telegram以及其创始人Pavel Durov的传奇故事。随后一直有朋友和读者给我转来一篇神奇的文章，告诉我那篇文章被抄了。非常感谢各位读者和朋友的关心，但之所以用神奇这个词来形容，是因为这篇被大家认为是抄袭的文章去微信举报是没用的，它很创新。确切的说，他不是抄，而是把我的原文缩减和改写，并且换了一部分图片。比如我用了Pavel Durov的半身照片，他们找到了那张照片的全身原照，把我的半身照片换掉了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/chaping_washing_articles/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;让一只猴子在打字机上随机地按键打字无限次时，必然能够产生任何可能的文章，甚至是全套的莎士比亚。但在互联网时代，内行而精明的媒体人可以神奇地使用了一种创新抄袭模式，解放了猴子们的生产力。&lt;/p&gt;&#xA;&lt;p&gt;前一段，我写了一篇关于Telegram以及其创始人Pavel Durov的传奇故事。随后一直有朋友和读者给我转来一篇神奇的文章，告诉我那篇文章被抄了。非常感谢各位读者和朋友的关心，但之所以用神奇这个词来形容，是因为这篇被大家认为是抄袭的文章去微信举报是没用的，它很创新。确切的说，他不是抄，而是把我的原文缩减和改写，并且换了一部分图片。比如我用了Pavel Durov的半身照片，他们找到了那张照片的全身原照，把我的半身照片换掉了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>写给和百度作战的文艺工作者们</title>
       <link>/post/baidu_wenku_author/</link>
       <pubDate>Sat, 26 Mar 2011 12:03:00 +0800</pubDate>
-      
       <guid>/post/baidu_wenku_author/</guid>
-      <description>我是一个靠写代码生活的人，我觉得我们这个行业，和创造文艺产品的人——比如写书的作家——是非常一致的，盗版问题同样影响着我们，只不过我们用的是</description>
+      <description>&lt;p&gt;我是一个靠写代码生活的人，我觉得我们这个行业，和创造文艺产品的人——比如写书的作家——是非常一致的，盗版问题同样影响着我们，只不过我们用的是和作家不一样的语言来创造产品。比作家们幸运的是，我们可以完全脱离中国市场，去做英文的德文的日文的法文的软件，而且特别不要做中文的软件，这样才能让自己的作品在一个正常市场内销售并获得应有的收益。我们认为中国的问题无解，于是我们放弃了。我们不再愿意创造中国人普遍可用的工具，因为赚不到钱。作家们比我们悲哀一些，因为文化和语言是有民族性的，你们不能把中文的作品卖给其他国家的人，也很难快速学会用其他文字写作。于是，你们只能死磕。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

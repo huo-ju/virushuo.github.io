@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>startup on HuoJu&#39;s BLOG</title>
+    <title>Startup on HuoJu&#39;s BLOG</title>
     <link>/tags/startup/</link>
-    <description>Recent content in startup on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Startup on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 22 Jul 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创业、承诺以及技术人的困境</title>
       <link>/post/startup_and_promise/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/startup_and_promise/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/startup_and_promise/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2004或是2005年的某一天，我的gtalk上冒出一个“切.格瓦拉“的头像，跟我说，我也写blog，我们交换个链接吧？我说好的，随后把一个叫做 &lt;a href=&#34;https://dbanotes.net&#34;&gt;dbanotes.net&lt;/a&gt; 的链接链到了我的blog上。这个人叫冯大辉。&lt;/p&gt;
-
-&lt;p&gt;转眼之间，已经认识了10年多了。我们生活在不同的城市，后来生活在不同的国家，除了偶尔线上聊几句和在某些会议上遇到，我们在真实世界的交往很少。没怎么一起吃过饭，没喝过酒，没共事过，但是彼此还是认为是可信任的朋友。除了对于锤子科技的看法，我们在大部分事情上看法类似，这点小分歧也不算什么。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/startup_and_promise/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;2004或是2005年的某一天，我的gtalk上冒出一个“切.格瓦拉“的头像，跟我说，我也写blog，我们交换个链接吧？我说好的，随后把一个叫做 &lt;a href=&#34;https://dbanotes.net&#34;&gt;dbanotes.net&lt;/a&gt; 的链接链到了我的blog上。这个人叫冯大辉。&lt;/p&gt;&#xA;&lt;p&gt;转眼之间，已经认识了10年多了。我们生活在不同的城市，后来生活在不同的国家，除了偶尔线上聊几句和在某些会议上遇到，我们在真实世界的交往很少。没怎么一起吃过饭，没喝过酒，没共事过，但是彼此还是认为是可信任的朋友。除了对于锤子科技的看法，我们在大部分事情上看法类似，这点小分歧也不算什么。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

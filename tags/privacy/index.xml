@@ -1,99 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>privacy on HuoJu&#39;s BLOG</title>
+    <title>Privacy on HuoJu&#39;s BLOG</title>
     <link>/tags/privacy/</link>
-    <description>Recent content in privacy on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Privacy on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 29 Jan 2019 19:47:35 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
       <link>/post/talk_with_jade_aaron/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
+      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Facebook、隐私、监听广告以及我们如何失去自由的互联网的</title>
       <link>/post/facebook_privacy/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/facebook_privacy/</guid>
-      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/facebook_privacy/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/facebook_privacy/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>凶险、罪恶还是自由？暗网到底是什么？</title>
       <link>/post/the_darknet/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_darknet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_darknet/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_darknet/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网完蛋了，已经。</title>
       <link>/post/the_old_internet_is_end/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_old_internet_is_end/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;
-
-&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;&#xA;&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网的好消息，互联网的坏消息</title>
       <link>/post/internet_goodnews_badnews/</link>
       <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/internet_goodnews_badnews/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>苹果、FBI以及你的全部生活</title>
       <link>/post/apple_fbi/</link>
       <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/apple_fbi/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/apple_fbi/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近大家应该都知道了苹果公司和FBI在手机加密上的冲突。前几天苹果提交了一份长达65页的文档，是给法庭关于这个案子的答辩状，除了公司相关负责人的证词，里面还列举了相关的案例，苹果对于法律、案例以及技术的看法。非常精彩，信息相当全面。在讨论苹果和FBI以及法庭具体的冲突和观点之前，我觉得更值得讨论的问题是：“为什么人们需要加密”。对于大部分人，恐怕是认为加密是可有可无的，这种观点不仅在中国相当有市场，在美国竟然也有不少人支持。忙着竞选总统的希拉里也曾经说过，应该限制科技企业对于加密技术的使用，因为这会给警方工作带来困难。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/apple_fbi/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近大家应该都知道了苹果公司和FBI在手机加密上的冲突。前几天苹果提交了一份长达65页的文档，是给法庭关于这个案子的答辩状，除了公司相关负责人的证词，里面还列举了相关的案例，苹果对于法律、案例以及技术的看法。非常精彩，信息相当全面。在讨论苹果和FBI以及法庭具体的冲突和观点之前，我觉得更值得讨论的问题是：“为什么人们需要加密”。对于大部分人，恐怕是认为加密是可有可无的，这种观点不仅在中国相当有市场，在美国竟然也有不少人支持。忙着竞选总统的希拉里也曾经说过，应该限制科技企业对于加密技术的使用，因为这会给警方工作带来困难。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>你正在为互联网上的“免费”付出什么？</title>
       <link>/post/internet_free_privacy/</link>
       <pubDate>Mon, 26 Oct 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/internet_free_privacy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;
-
-&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;
-
-&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;&#xA;&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;&#xA;&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

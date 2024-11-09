@@ -1,254 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on HuoJu&#39;s BLOG</title>
+    <title>Tech on HuoJu&#39;s BLOG</title>
     <link>/tags/tech/</link>
-    <description>Recent content in tech on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tech on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
-    
-	<atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>围绕RMS、开源、自由软件的两场“战争”</title>
       <link>/post/rms_return_fsf/</link>
       <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
-      
       <guid>/post/rms_return_fsf/</guid>
-      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;
-
-&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;&#xA;&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>开源是自由的，永远</title>
       <link>/post/opensource_freedom_forever/</link>
       <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
-      
       <guid>/post/opensource_freedom_forever/</guid>
       <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>别闹，买图片根本不贵，但前提…</title>
       <link>/post/stock_and_image_license/</link>
       <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
-      
       <guid>/post/stock_and_image_license/</guid>
       <description>&lt;p&gt;买图片根本不贵，只是现在这阶段在中国买有一些困难而已。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
       <link>/post/talk_with_jade_aaron/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
+      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>穿越寒冬的独行者</title>
       <link>/post/ddg/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
-      
       <guid>/post/ddg/</guid>
-      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;
-
-&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
+      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;&#xA;&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>内容电商毁掉了内容</title>
       <link>/post/content_with_eshopping/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/content_with_eshopping/</guid>
-      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;
-
-&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;
-
-&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
+      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;&#xA;&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;&#xA;&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Facebook、隐私、监听广告以及我们如何失去自由的互联网的</title>
       <link>/post/facebook_privacy/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/facebook_privacy/</guid>
-      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/facebook_privacy/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/facebook_privacy/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</title>
       <link>/post/bitcoin_2018/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/bitcoin_2018/</guid>
       <description>&lt;p&gt;写过上一篇&lt;a href=&#34;../the_darknet/&#34;&gt;暗网的文章&lt;/a&gt;之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如&lt;a href=&#34;../the_old_internet_is_end/&#34;&gt;互联网中心化偏离了最早的预期&lt;/a&gt;，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>凶险、罪恶还是自由？暗网到底是什么？</title>
       <link>/post/the_darknet/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_darknet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_darknet/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_darknet/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网完蛋了，已经。</title>
       <link>/post/the_old_internet_is_end/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_old_internet_is_end/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;
-
-&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;&#xA;&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网的好消息，互联网的坏消息</title>
       <link>/post/internet_goodnews_badnews/</link>
       <pubDate>Wed, 21 Dec 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/internet_goodnews_badnews/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_goodnews_badnews/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;互联网开始了下半场，是最近比较热的话题。Keso写了一篇&lt;a href=&#34;http://mp.weixin.qq.com/s/iN4qCm1YTJlDW-228VJnEg&#34;&gt;相当不错的文章&lt;/a&gt;，我不认为互联网到了下半场，但是的确有很多必须注意的坏消息，这些坏消息会对互联网的未来有巨大的影响。当然，好消息也还是有的。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>特斯拉把机枪送给了猴子</title>
       <link>/post/tesla_autopilot/</link>
       <pubDate>Sun, 03 Jul 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/tesla_autopilot/</guid>
       <description>&lt;p&gt;5月份特斯拉的“自动驾驶“系统导致的车主死亡事件，因为6月30日美国国家公路交通安全管理局（NHTSA）调查而不得不被披露出来，这起事故终于成了全球新闻热点。我相信大家都在各处看到了事故介绍和一些技术问题，这里不重复各种媒体已经报道过的事情。只想说说我对这件事的看法，这个事故并不是只涉及一家公司和一项技术，它还涉及了科技和人的关系，以及企业和社会责任。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>创新、历史和新泽西风格 - 贝尔实验室参观记</title>
       <link>/post/bell_labs_showcase_tour/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/bell_labs_showcase_tour/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/bell_labs_showcase_tour/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Google I/O马上就要开始了，很快你的朋友圈就会被关于IO的消息以及一堆在Google/Facebook/斯坦福拍的游客照刷满。但在此之前，我想聊聊前几天去Bell Labs的观后感，在今天这个互联网已经高度发达的时代，回头看看这段历史会有很多新感受。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/bell_labs_showcase_tour/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google I/O马上就要开始了，很快你的朋友圈就会被关于IO的消息以及一堆在Google/Facebook/斯坦福拍的游客照刷满。但在此之前，我想聊聊前几天去Bell Labs的观后感，在今天这个互联网已经高度发达的时代，回头看看这段历史会有很多新感受。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>狼性多了，人性就少了</title>
       <link>/post/bd_wolf_humility/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/bd_wolf_humility/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/bd_wolf_humility/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;为避免被投诉侵犯商誉，本文并没有出现这家公司的名称，请大家自行脑补。虽然我完全没认为他们有商誉存在。&lt;/p&gt;
-
-&lt;p&gt;这几天，那家著名的懂中文公司又出事了，史称“魏则西“事件，相信到现在已经没人不知道这件事的详情了，我也无需在这里重复一次了。很多人问我，你要不要写一篇？起初我是不想写的，因为关于这家公司的观点，我之前写过好几篇，道理和逻辑已经说的足够清楚了，例子也举的足够多了，无论再怎么说，也没什么新东西了。&lt;/p&gt;
-
-&lt;p&gt;但是这几天看了这家公司找来的各路有意无意的洗地党，我还得再补充一篇。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/bd_wolf_humility/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;为避免被投诉侵犯商誉，本文并没有出现这家公司的名称，请大家自行脑补。虽然我完全没认为他们有商誉存在。&lt;/p&gt;&#xA;&lt;p&gt;这几天，那家著名的懂中文公司又出事了，史称“魏则西“事件，相信到现在已经没人不知道这件事的详情了，我也无需在这里重复一次了。很多人问我，你要不要写一篇？起初我是不想写的，因为关于这家公司的观点，我之前写过好几篇，道理和逻辑已经说的足够清楚了，例子也举的足够多了，无论再怎么说，也没什么新东西了。&lt;/p&gt;&#xA;&lt;p&gt;但是这几天看了这家公司找来的各路有意无意的洗地党，我还得再补充一篇。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3.15，今天我被一家公司投诉了</title>
       <link>/post/315_baidu/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/315_baidu/</guid>
-      <description>&lt;p&gt;昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。&lt;/p&gt;
-
-&lt;p&gt;而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《&lt;a href=&#34;../baidu_kpi_and_a_example/&#34;&gt;再谈百度：KPI、无人机，以及一个必须给父母看的案例&lt;/a&gt;》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。&lt;/p&gt;
-
-&lt;p&gt;这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。&lt;/p&gt;</description>
+      <description>&lt;p&gt;昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。&lt;/p&gt;&#xA;&lt;p&gt;而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《&lt;a href=&#34;../baidu_kpi_and_a_example/&#34;&gt;再谈百度：KPI、无人机，以及一个必须给父母看的案例&lt;/a&gt;》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。&lt;/p&gt;&#xA;&lt;p&gt;这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>再谈百度：KPI、无人机，以及一个必须给父母看的案例</title>
       <link>/post/baidu_kpi_and_a_example/</link>
       <pubDate>Thu, 14 Jan 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/baidu_kpi_and_a_example/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/baidu_kpi_and_a_example/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;没想到我之前的一篇关于百度的文章引起了这么大的反馈。很多朋友称赞我写的好，实际上并非如此。我只是往一块顺着山坡向下滚的石头上踢了一脚而已。人们对于百度早就积累了太多年的怨气，我只是替大家说出来罢了。这篇文章总共收到了将近900条评论，而且还在继续增加中。可惜微信只能放出来50条精选评论，我真的很想把所有评论都放出来，里面有各种受骗的个人经历，有对我的鼓励，也有百度员工对我的各种指责。这篇文章除了讨论这些问题，还提供了一个具体案例，如果你懒得看这些理论，直接翻到后面有图的部分看吧。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/baidu_kpi_and_a_example/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;没想到我之前的一篇关于百度的文章引起了这么大的反馈。很多朋友称赞我写的好，实际上并非如此。我只是往一块顺着山坡向下滚的石头上踢了一脚而已。人们对于百度早就积累了太多年的怨气，我只是替大家说出来罢了。这篇文章总共收到了将近900条评论，而且还在继续增加中。可惜微信只能放出来50条精选评论，我真的很想把所有评论都放出来，里面有各种受骗的个人经历，有对我的鼓励，也有百度员工对我的各种指责。这篇文章除了讨论这些问题，还提供了一个具体案例，如果你懒得看这些理论，直接翻到后面有图的部分看吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>我是如何坚持10多年站在反百度第一线的</title>
       <link>/post/anti_baidu/</link>
       <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/anti_baidu/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/anti_baidu/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是我的公众号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。&lt;/p&gt;
-
-&lt;p&gt;中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/anti_baidu/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这是我的公众号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。&lt;/p&gt;&#xA;&lt;p&gt;中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>软件如何定义现实世界</title>
       <link>/post/code_defined_world/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/code_defined_world/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/code_defined_world/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;现在已经是2015年的最后几天了。这一年里面，互联网创业从火热到“寒冷“，但有一件事全年都没有变化，就是大家都觉得招聘不到程序员。我没有确切的数字知道2015年这一年程序员的薪资增长的比例，但是我确切的知道，在2015年，一个有3~4年工作经验的年轻程序员，在北京和上海能拿到的薪水已经接近2010年盛大创新院给我的薪水了。要知道，2010年盛大为了创建创新院，给出的是业界顶级的薪水，而且那时候我已经有8年的工作经验了。这不过是5年前的事，今天，3年工作经验的程序员薪水已经到了这个水平。在中国，大概唯一增长率可以比的上北上广房产的，就是程序员的薪水了。&lt;/p&gt;
-
-&lt;p&gt;很多人人根本拒绝相信这件事，不仅仅这个行业之外的人，甚至连这个行业之内的人也觉得非常不可思议。但所有人不得不面对的一个事实是：当你需要程序员的时候，会发现根本招聘不到程序员。那个“所有都准备好了，只差一个程序员就可以开工了” 完全不是笑话，我知道无数个项目，都是真的就差一个程序员了。&lt;/p&gt;
-
-&lt;p&gt;但是，他们就是招聘不到这个急需程序员。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/code_defined_world/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;现在已经是2015年的最后几天了。这一年里面，互联网创业从火热到“寒冷“，但有一件事全年都没有变化，就是大家都觉得招聘不到程序员。我没有确切的数字知道2015年这一年程序员的薪资增长的比例，但是我确切的知道，在2015年，一个有3~4年工作经验的年轻程序员，在北京和上海能拿到的薪水已经接近2010年盛大创新院给我的薪水了。要知道，2010年盛大为了创建创新院，给出的是业界顶级的薪水，而且那时候我已经有8年的工作经验了。这不过是5年前的事，今天，3年工作经验的程序员薪水已经到了这个水平。在中国，大概唯一增长率可以比的上北上广房产的，就是程序员的薪水了。&lt;/p&gt;&#xA;&lt;p&gt;很多人人根本拒绝相信这件事，不仅仅这个行业之外的人，甚至连这个行业之内的人也觉得非常不可思议。但所有人不得不面对的一个事实是：当你需要程序员的时候，会发现根本招聘不到程序员。那个“所有都准备好了，只差一个程序员就可以开工了” 完全不是笑话，我知道无数个项目，都是真的就差一个程序员了。&lt;/p&gt;&#xA;&lt;p&gt;但是，他们就是招聘不到这个急需程序员。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>你正在为互联网上的“免费”付出什么？</title>
       <link>/post/internet_free_privacy/</link>
       <pubDate>Mon, 26 Oct 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/internet_free_privacy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;
-
-&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;
-
-&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/internet_free_privacy/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;上周，网易邮箱密码泄漏的事情让不少人吓了一跳。当时我没凑这个热闹。现在事件热点过去了，可以来聊聊除了“吓一跳”之外的事情了。&lt;/p&gt;&#xA;&lt;p&gt;记忆中，国内大规模的密码和信息泄漏的事情发生了很多次，比如4年前的CSDN密码泄漏，那一次泄漏的还是明文，再之后还有开房数据泄漏事件。每次发生这种事件，总会有人写文章说，你们这些信息是不值钱的，不用担心，都是黑产行业玩剩下才流入公众视野的。&lt;/p&gt;&#xA;&lt;p&gt;这个说法对不对？某种意义它是正确的，这些信息确实是被玩剩下的，但是用户应该不担心吗？当然不应该，用户不仅应该担心，而且应该非常担心，非常紧张。事实上，当这些数据在黑产行业（可以称之为专业领域）流传的时候，它反而对普通用户真正的伤害不大。真正能对用户造成严重伤害，是从这些数据进入日常公众领域那一刻开始的。专业人士更在乎可持续发展，不太可能真正拿用户信息做太糟糕的事情，那是自毁财富。如果不引人注意的拿用户信息去刷个注册用户数量，冲个榜之类，慢慢赚钱，可以赚很久，用户压根不知道这些事。但等到了公众领域，就有不知好歹的小朋友直接进入人家银行帐号，把钱搬空了，钱少了用户自然立马就发现了，最后新闻一报道，最后警方一介入，大家都玩不成了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>墙、感染、信任和欺骗</title>
       <link>/post/wall_infection_trust_cheating/</link>
       <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/wall_infection_trust_cheating/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/wall_infection_trust_cheating/Ken_Thompson_and_Dennis_Ritchie_at_PDP-11.jpg&#34; alt=&#34;Ken Thompson (sitting) and Dennis Ritchie &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近XcodeGhost导致的严重安全问题，相信大家已经从各个渠道知道了。简单概括一下，有人在中国网盘和论坛上传播了一个修改过的Xcode，这个版本的Xcode会在编译出来的App上面加一些可以被远程控制的代码，并且发送数据到某个服务器上。这是iOS出现以来，未越狱系统遭遇的最大安全威胁，在此之前苹果的Sandbox模式几乎没遇到过挑战，iPhone用户甚至大量iOS开发者都认为系统固若金汤，不可能遇到问题。&lt;/p&gt;
-
-&lt;p&gt;在XcodeGhost开始被媒体报道的时，很多人大大低估了它的风险。我在乌云报道这个问题的当天，在朋友圈上建议大家先把中招的app都删掉，并且立刻修改iCloud密码，开两步验证。甚至遭到了不少人反对，还有好几位iOS开发者告诉我这件事没什么大问题，因为iOS有Sandbox，不会造成什么伤害。当时网易也发了一个关于云音乐被感染的说明，也是类似不痛不痒的口气。这些说法当然都是大错特错的，会有这种想法，是因为只会站在程序员角度看问题，如果对安全问题稍微有一点敏感性，就会立刻意识到这是极严重的威胁，稍微发挥一些想象力就会被吓着。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/wall_infection_trust_cheating/Ken_Thompson_and_Dennis_Ritchie_at_PDP-11.jpg&#34; alt=&#34;Ken Thompson (sitting) and Dennis Ritchie &#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近XcodeGhost导致的严重安全问题，相信大家已经从各个渠道知道了。简单概括一下，有人在中国网盘和论坛上传播了一个修改过的Xcode，这个版本的Xcode会在编译出来的App上面加一些可以被远程控制的代码，并且发送数据到某个服务器上。这是iOS出现以来，未越狱系统遭遇的最大安全威胁，在此之前苹果的Sandbox模式几乎没遇到过挑战，iPhone用户甚至大量iOS开发者都认为系统固若金汤，不可能遇到问题。&lt;/p&gt;&#xA;&lt;p&gt;在XcodeGhost开始被媒体报道的时，很多人大大低估了它的风险。我在乌云报道这个问题的当天，在朋友圈上建议大家先把中招的app都删掉，并且立刻修改iCloud密码，开两步验证。甚至遭到了不少人反对，还有好几位iOS开发者告诉我这件事没什么大问题，因为iOS有Sandbox，不会造成什么伤害。当时网易也发了一个关于云音乐被感染的说明，也是类似不痛不痒的口气。这些说法当然都是大错特错的，会有这种想法，是因为只会站在程序员角度看问题，如果对安全问题稍微有一点敏感性，就会立刻意识到这是极严重的威胁，稍微发挥一些想象力就会被吓着。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

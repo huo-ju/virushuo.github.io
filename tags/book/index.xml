@@ -1,32 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>book on HuoJu&#39;s BLOG</title>
+    <title>Book on HuoJu&#39;s BLOG</title>
     <link>/tags/book/</link>
-    <description>Recent content in book on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Book on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 08 Aug 2009 00:08:00 +0800</lastBuildDate>
-    
-	<atom:link href="/tags/book/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>谈谈《程序员修炼之道》</title>
       <link>/post/the_pragmatic_programmer/</link>
       <pubDate>Sat, 08 Aug 2009 00:08:00 +0800</pubDate>
-      
       <guid>/post/the_pragmatic_programmer/</guid>
-      <description>学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更</description>
+      <description>&lt;p&gt;学过高中物理的人，应该会记得，原子中的电子获得能量之后，将发生能级跃迁，到达更高的能量状态。其实任何工种都是一样的，要跳出自己的水平，到达更高的级别，不是件容易的事，这个跳跃过程总需要一些东西的辅助。诚然，如果要成为一个好人，那么只要做好在幼儿园中学到的一切就足够。如果要成为一个好程序员，所需要的道理也不太多，只不过，当水平不够的时候，永远不能认识到那些朴素道理的重要。而当水平达到的时候，这些道理自然会明白。所以一本帮助程序员进阶的书，很容易落到低手觉得是废话，高手也觉得是废话的悲惨境地。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>技术改变世界以及减速慢行</title>
       <link>/post/dic_comment/</link>
       <pubDate>Tue, 03 Jun 2008 11:06:00 +0800</pubDate>
-      
       <guid>/post/dic_comment/</guid>
-      <description>《梦断代码 （Dream In Code）》 韩磊 译 ，有幸先睹，颇有所感，做书评一篇。 拿着这本刚刚出炉的《梦断代码(Dream In Code)》，似乎让我</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/3142280/&#34;&gt;《梦断代码 （Dream In Code）》&lt;/a&gt; 韩磊 译 ，有幸先睹，颇有所感，做书评一篇。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;拿着这本刚刚出炉的《梦断代码(Dream In Code)》，似乎让我回到了2004年夏天，那时候非典的恐惧刚刚散去。北京西二环边上的一座高档办公楼的施工重新开始了，这座大厦的9层，数百个工人正在各自忙碌，以期能弥补非典期间项目耽误掉的时间。看着杂乱又有序的工作场面，正在负责大厦中央集成软件系统的我不禁暗自赞叹——别说几百个人，就算是给我1/10于这个数字的程序员，恐怕都足够让我把这个软件项目搞砸了。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

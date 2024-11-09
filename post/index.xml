@@ -1,255 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HuoJu&#39;s BLOG</title>
     <link>/post/</link>
     <description>Recent content in Posts on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>围绕RMS、开源、自由软件的两场“战争”</title>
       <link>/post/rms_return_fsf/</link>
       <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
-      
       <guid>/post/rms_return_fsf/</guid>
-      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;
-
-&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;&#xA;&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ocsp Stapling 和iOS界面卡顿问题</title>
       <link>/post/ocsp-stapling-letsencrypt/</link>
       <pubDate>Wed, 29 Apr 2020 17:25:42 -0400</pubDate>
-      
       <guid>/post/ocsp-stapling-letsencrypt/</guid>
-      <description>&lt;p&gt;这个问题成功的吸引了我的注意。&lt;/p&gt;
-
-&lt;p&gt;起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。&lt;/p&gt;
-
-&lt;p&gt;开始这个问题没太引起重视，觉得是flutter的问题。但后来随着dart的&lt;a href=&#34;https://github.com/dart-lang/sdk/issues/41519&#34;&gt;issue&lt;/a&gt;里面报告的人逐渐多起来，看起来不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。&lt;/p&gt;
-
-&lt;p&gt;在issue里面发现报告的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https上。最终发现服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。&lt;/p&gt;
-
-&lt;p&gt;在服务器开启OCSP Stapling对于提升速度&lt;a href=&#34;https://blog.cloudflare.com/ocsp-stapling-how-cloudflare-just-made-ssl-30/&#34;&gt;帮助很大&lt;/a&gt;。所以无论如何也是应该开启的。&lt;/p&gt;
-
-&lt;p&gt;但是仍然有两个问题没有解释：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;为什么Android没问题，iOS有问题&lt;/li&gt;
-&lt;li&gt;为什么有时候可以重现，有时候不可以重现&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;这个问题成功的吸引了我的注意。&lt;/p&gt;&#xA;&lt;p&gt;起因：一个Flutter写的app在iOS上偶尔会发生了界面卡顿甚至冻结10多秒，但在Android正常。&lt;/p&gt;&#xA;&lt;p&gt;开始这个问题没太引起重视，觉得是flutter的问题。但后来随着dart的&lt;a href=&#34;https://github.com/dart-lang/sdk/issues/41519&#34;&gt;issue&lt;/a&gt;里面报告的人逐渐多起来，看起来不是那么简单。不过非常令人迷惑的是这个现象只在iOS偶尔出现，Android从来不出现，这种不确定性使得重现和调试非常困难。&lt;/p&gt;&#xA;&lt;p&gt;在issue里面发现报告的人大部分疑似是中国用户，之后发现有人提到更换了阿里云证书之后问题不再重现，这使得我们把问题方向放在https上。最终发现服务器的OCSP Stapling失效，造成了soft failure。之后的行为要看客户端实现，有的浏览器接受soft failure，不进行客户端检查，一切正常。但有一些客户端比如Safari会自己去检查了OCSP状态，从而造成界面无响应。检查nginx log发现ocsp.int-x3.letsencrypt.org请求超时，随后确认此域名遭到了DNS污染。&lt;/p&gt;&#xA;&lt;p&gt;在服务器开启OCSP Stapling对于提升速度&lt;a href=&#34;https://blog.cloudflare.com/ocsp-stapling-how-cloudflare-just-made-ssl-30/&#34;&gt;帮助很大&lt;/a&gt;。所以无论如何也是应该开启的。&lt;/p&gt;&#xA;&lt;p&gt;但是仍然有两个问题没有解释：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;为什么Android没问题，iOS有问题&lt;/li&gt;&#xA;&lt;li&gt;为什么有时候可以重现，有时候不可以重现&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;为了回答这几个问题，顺便找一个解决方案，我顺着读了一圈代码和协议，从nginx到openssl，从tls到ocsp。最后终于能回答这两个问题了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>开源是自由的，永远</title>
       <link>/post/opensource_freedom_forever/</link>
       <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
-      
       <guid>/post/opensource_freedom_forever/</guid>
       <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>别闹，买图片根本不贵，但前提…</title>
       <link>/post/stock_and_image_license/</link>
       <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
-      
       <guid>/post/stock_and_image_license/</guid>
       <description>&lt;p&gt;买图片根本不贵，只是现在这阶段在中国买有一些困难而已。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
       <link>/post/talk_with_jade_aaron/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
+      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>穿越寒冬的独行者</title>
       <link>/post/ddg/</link>
       <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
-      
       <guid>/post/ddg/</guid>
-      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;
-
-&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
+      <description>&lt;p&gt;2018年有很多故事可以写，但是到最后一天的时候，让我选一件事来写，我想写的是duckduckgo这个搜索引擎。选择它是有原因的，这个搜索引擎创始于2008年，正好是第10个年头。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/ddg/01.png&#34; alt=&#34;duckduckgo homepage&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;即使在今天，听说过这个搜索引擎的人也不多。上个月（2018.11），它的每日搜索量第一次超过了3000万次，很多科技媒体用非常小的版面报道过这件事。中文也有报道，基本上就是“一句话新闻”这样的待遇，没人多想什么。这不意外，每天3000万搜索听起来不小，但是放在整个搜索市场可以算的上微不足道。做为对比，Google早就不再发布每天准确的搜索量，但根据前几年发布过的数字和增长率，大致能推算出来，一般被认为是4万~8万次搜索每秒。即使用最低预测，要超过duckduckgo一整天搜索量，Google只需花750秒==12.5分钟。&lt;/p&gt;&#xA;&lt;p&gt;在搜索引擎市场上，每天3000万搜索量太小了，比被所有人都认为早就完蛋了的Yahoo搜索还少好几倍。但是这样一对比，这个在搜索引擎市场只占0.x%份额的产品竟然存活了10年，这就是一个有意思的故事。再考虑它不属于任何大公司，是个完全独立的搜索引擎，那就更有意思了。它是如何开始的，如何存活下来的，谁是它的用户？&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>惩罚加拿大完整指南</title>
       <link>/post/the_guide_of_punish_canada/</link>
       <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
-      
       <guid>/post/the_guide_of_punish_canada/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/the_guide_of_punish_canada/title.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我在加拿大生活了不少年，最近一系列的事情让很多人开始注意到了加拿大。于是我收到了来自朋友们的各种问题，从如何抵制加拿大，到加拿大为什么这么傻。诸如此类。挨个答复比较麻烦，干脆写一篇文章。&lt;/p&gt;
-
-&lt;p&gt;通常我更愿意写科技相关话题，不写社会和历史话题，一方面是我不是这个领域的专业人员，很多东西未必准确，另外一方面，跟科技不同，这类话题难以保证足够客观，必定带有个人视角，从而引起更多争议。所以我尽量保持拿事实和数据说话，少发表个人看法，但是个人看法必然无法避免，所以还请批判阅读。以上是正文开始之前的一点点声明。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/the_guide_of_punish_canada/title.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我在加拿大生活了不少年，最近一系列的事情让很多人开始注意到了加拿大。于是我收到了来自朋友们的各种问题，从如何抵制加拿大，到加拿大为什么这么傻。诸如此类。挨个答复比较麻烦，干脆写一篇文章。&lt;/p&gt;&#xA;&lt;p&gt;通常我更愿意写科技相关话题，不写社会和历史话题，一方面是我不是这个领域的专业人员，很多东西未必准确，另外一方面，跟科技不同，这类话题难以保证足够客观，必定带有个人视角，从而引起更多争议。所以我尽量保持拿事实和数据说话，少发表个人看法，但是个人看法必然无法避免，所以还请批判阅读。以上是正文开始之前的一点点声明。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>内容电商毁掉了内容</title>
       <link>/post/content_with_eshopping/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/content_with_eshopping/</guid>
-      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;
-
-&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;
-
-&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
+      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;&#xA;&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;&#xA;&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>三年多过去了，我钉下的这跟钉子还在</title>
       <link>/post/sued_by_a_programmer_3yrs/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_3yrs/</guid>
-      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;
-
-&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
+      <description>&lt;p&gt;2015年我起诉差评侵犯著作权一案，已经过去挺久了。意想不到的是现在又重新回到大家视野之内，而且比以往掀起的舆论猛烈的多。&lt;/p&gt;&#xA;&lt;p&gt;本来觉得关注的人已经足够多了，我做这件事的目的已经很大程度达到了，也不用再多说什么了。不过考虑到一些概念还是我比较清楚，为了避免另外一方胡乱解释，我还得说一说。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Facebook、隐私、监听广告以及我们如何失去自由的互联网的</title>
       <link>/post/facebook_privacy/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/facebook_privacy/</guid>
-      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/facebook_privacy/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我曾经写过好几篇和隐私相关的话题，阅读量都不高。这不意外，没有重大事件，通常人们不会关心这类话题。最近有几件事被引爆了，这个话题突然重新回到了人们视野中，所以可以再写一篇了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/facebook_privacy/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这几件事分别是：Facebook数据泄漏事件，互联网公司是否偷偷用麦克风监听用户，以及所谓大数据杀熟。说到根本上，这几件事是相关的，背后指向的是同一个问题，即，人们到底出让了多少隐私，以及用户为什么会在不知不觉中出让这么多隐私。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</title>
       <link>/post/bitcoin_2018/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/bitcoin_2018/</guid>
       <description>&lt;p&gt;写过上一篇&lt;a href=&#34;../the_darknet/&#34;&gt;暗网的文章&lt;/a&gt;之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如&lt;a href=&#34;../the_old_internet_is_end/&#34;&gt;互联网中心化偏离了最早的预期&lt;/a&gt;，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>凶险、罪恶还是自由？暗网到底是什么？</title>
       <link>/post/the_darknet/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_darknet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/the_darknet/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/the_darknet/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;提起暗网，中文的读者对它的印象一般不太好，觉得里面充满了罪恶和犯罪。这些印象基本来自几篇热文，追根溯源，这几篇文章又是一两篇英文文章的改头换面和重新拼接。但是大概因为内容过于猎奇黑暗，给人留下的印象根深蒂固，以至于我在之前的文章提到“暗网更接近于互联网创始者们创造的那个网络”的时候，很多人留言骂我给犯罪分子洗地…看起来暗网在中文里面已经被默认等于罪恶了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>李笑来，那个一顿饭点8条鲈鱼的人</title>
       <link>/post/lixiaolai/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
-      
       <guid>/post/lixiaolai/</guid>
       <description>&lt;p&gt;我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网完蛋了，已经。</title>
       <link>/post/the_old_internet_is_end/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/the_old_internet_is_end/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;
-
-&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/the_old_internet_is_end/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近一年左右，不止一个著名人物谈起过现在的互联网已经完全错了这个看法。比如www的发明者Tim Berners-Lee，或者Twitter创始人Evan Williams，考虑到www几乎是人们使用互联网最重要的部分之一，Tim Berners-Lee的看法是不应该忽视的。&lt;/p&gt;&#xA;&lt;p&gt;但对于大多数人来说，首先要问的一个问题应该不是如何解决互联网错了这个问题，而是问“到底哪错了？”。这不奇怪，大多数用户没留意过这个问题，毕竟，互联网这个词在过去这些年里面发生了太多变化，人们刚刚觉得有点不对劲，还没来得及真正感知到这种变化的意义，就来到了今天。而现在我们使用的互联网，和10多年前已经大不一样了。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>请伸出你的小圆手</title>
       <link>/post/sued_by_a_programmer_opensource/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_opensource/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;
-
-&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/sued_by_a_programmer_opensource/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近，曾经洗我稿的差评又洗到了著名的科技媒体品玩PingWest头上。经过这件事我才知道，科技记者圈里有个笑话：“没被差评君抄袭过的记者都不算是科技记者”。看来我早就是真正的科技记者了。&lt;/p&gt;&#xA;&lt;p&gt;在PingWest文章的留言下面，无数人讲自己被差评以及其相关公司洗稿的经历，颇为壮观。而这距离我&lt;a href=&#34;../suing_for_1/&#34;&gt;起诉差评&lt;/a&gt;已经一年多了，他们还变本加厉越玩越厉害了。这件事到底要怎么解决呢？实际上这件事没有什么可解决的。相反，有人常年抄袭洗稿死不认账，被人批评之后还勇于回骂，它就成了一个非常好的测试对象，可以玩各种在真实世界难得有机会玩的事情。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>是真的，我基本已经不再用苹果的产品了</title>
       <link>/post/no_more_apple/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/no_more_apple/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/no_more_apple/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/no_more_apple/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>像素大战的72小时结束了，但传奇还没结束</title>
       <link>/post/reddit_place_final/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/reddit_place_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/reddit_place_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/reddit_place_final/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>参与这场线上大战之后，我觉得人类未来还是有希望的</title>
       <link>/post/reddit_place/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/reddit_place/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/reddit_place/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/reddit_place/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>“假新闻”时代，我是如何阅读新闻和媒体的</title>
       <link>/post/my_news_receipts/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/my_news_receipts/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/my_news_receipts/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近关于付费阅读，内容创业，新闻和媒体我有不少想法，打算逐渐写出来。恰好上周《&lt;a href=&#34;http://newslab.info&#34;&gt;新闻实验室&lt;/a&gt;》创始人方可成邀请写写我的媒体食谱（新闻实验室的一个项目，邀请大家来分享如何阅读新闻和获取信息）。这篇文章首先发布在新闻实验室，但是版本略有区别，发在我自己帐号的这篇会更详细一点，也会加入一些个人感受。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/my_news_receipts/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近关于付费阅读，内容创业，新闻和媒体我有不少想法，打算逐渐写出来。恰好上周《&lt;a href=&#34;http://newslab.info&#34;&gt;新闻实验室&lt;/a&gt;》创始人方可成邀请写写我的媒体食谱（新闻实验室的一个项目，邀请大家来分享如何阅读新闻和获取信息）。这篇文章首先发布在新闻实验室，但是版本略有区别，发在我自己帐号的这篇会更详细一点，也会加入一些个人感受。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>和程序员打官司的第一季结束，第二季即将开始</title>
       <link>/post/sued_by_a_programmer_s1_final/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/sued_by_a_programmer_s1_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/sued_by_a_programmer_s1_final/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我之前写过一篇文章，“&lt;a href=&#34;../sued_by_a_programmer/&#34;&gt;和程序员打官司是一种怎样的体验&lt;/a&gt;”，讲了起诉杭州麻瓜网络科技有限公司（公众号“差评“运营方）疑似抄袭案的事情。经过漫长的审理（2006年1月7日立案），于近日收到了判决书。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

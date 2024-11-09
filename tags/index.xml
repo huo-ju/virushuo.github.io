@@ -1,194 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HuoJu&#39;s BLOG</title>
     <link>/tags/</link>
     <description>Recent content in Tags on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Free software</title>
-      <link>/tags/free-software/</link>
-      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
-      
-      <guid>/tags/free-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>US</title>
-      <link>/tags/us/</link>
-      <pubDate>Tue, 14 Jun 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ai</title>
-      <link>/tags/ai/</link>
-      <pubDate>Sun, 20 Sep 2015 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alibaba</title>
-      <link>/tags/alibaba/</link>
-      <pubDate>Thu, 15 Sep 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/alibaba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>apple</title>
-      <link>/tags/apple/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>baidu</title>
-      <link>/tags/baidu/</link>
-      <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/baidu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>betacat</title>
-      <link>/tags/betacat/</link>
-      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/betacat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blockchain</title>
-      <link>/tags/blockchain/</link>
-      <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
-      
-      <guid>/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>/tags/blog/</link>
       <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
-      
       <guid>/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>book</title>
-      <link>/tags/book/</link>
-      <pubDate>Sat, 08 Aug 2009 00:08:00 +0800</pubDate>
-      
-      <guid>/tags/book/</guid>
+      <title>Free Software</title>
+      <link>/tags/free-software/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      <guid>/tags/free-software/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>canada</title>
-      <link>/tags/canada/</link>
-      <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
-      
-      <guid>/tags/canada/</guid>
+      <title>History</title>
+      <link>/tags/history/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      <guid>/tags/history/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>code2048</title>
-      <link>/tags/code2048/</link>
-      <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/code2048/</guid>
+      <title>Internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      <guid>/tags/internet/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coderstory</title>
-      <link>/tags/coderstory/</link>
-      <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
-      
-      <guid>/tags/coderstory/</guid>
+      <title>Tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
+      <guid>/tags/tech/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>copyright</title>
+      <title>Https</title>
+      <link>/tags/https/</link>
+      <pubDate>Wed, 29 Apr 2020 17:25:42 -0400</pubDate>
+      <guid>/tags/https/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nginx</title>
+      <link>/tags/nginx/</link>
+      <pubDate>Wed, 29 Apr 2020 17:25:42 -0400</pubDate>
+      <guid>/tags/nginx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocsp</title>
+      <link>/tags/ocsp/</link>
+      <pubDate>Wed, 29 Apr 2020 17:25:42 -0400</pubDate>
+      <guid>/tags/ocsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>/tags/opensource/</link>
+      <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
+      <guid>/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>/tags/blockchain/</link>
+      <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
+      <guid>/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copyright</title>
       <link>/tags/copyright/</link>
       <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
-      
       <guid>/tags/copyright/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>crypto</title>
+      <title>Law</title>
+      <link>/tags/law/</link>
+      <pubDate>Mon, 15 Apr 2019 07:19:00 -0500</pubDate>
+      <guid>/tags/law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crypto</title>
       <link>/tags/crypto/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/tags/crypto/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>decentralization</title>
-      <link>/tags/decentralization/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/decentralization/</guid>
+      <title>Privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
+      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>facebook</title>
+      <title>Search</title>
+      <link>/tags/search/</link>
+      <pubDate>Mon, 31 Dec 2018 07:19:00 -0500</pubDate>
+      <guid>/tags/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canada</title>
+      <link>/tags/canada/</link>
+      <pubDate>Sat, 15 Dec 2018 22:45:00 +0800</pubDate>
+      <guid>/tags/canada/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weixin</title>
+      <link>/tags/weixin/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      <guid>/tags/weixin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple</title>
+      <link>/tags/apple/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
+      <guid>/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facebook</title>
       <link>/tags/facebook/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
-      
       <guid>/tags/facebook/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>friend</title>
-      <link>/tags/friend/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/friend/</guid>
+      <title>Decentralization</title>
+      <link>/tags/decentralization/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
+      <guid>/tags/decentralization/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>game</title>
-      <link>/tags/game/</link>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>google</title>
-      <link>/tags/google/</link>
-      <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/google/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

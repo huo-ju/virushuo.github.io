@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>coderstory on HuoJu&#39;s BLOG</title>
+    <title>Coderstory on HuoJu&#39;s BLOG</title>
     <link>/tags/coderstory/</link>
-    <description>Recent content in coderstory on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Coderstory on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 30 Jun 2013 11:06:00 +0800</lastBuildDate>
-    
-	<atom:link href="/tags/coderstory/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/coderstory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《神秘的程序员》漫画四周年</title>
       <link>/post/comic_4years/</link>
       <pubDate>Sun, 30 Jun 2013 11:06:00 +0800</pubDate>
-      
       <guid>/post/comic_4years/</guid>
-      <description>到这个月，《神秘的程序员》漫画已经诞生了四年。我和西乔互相谦让了一番之后，写一篇纪念文章的任务最终还是落在了我的身上。 2009年6月，我们还</description>
+      <description>&lt;p&gt;到这个月，&lt;a href=&#34;http://blog.xiqiao.info/category/programmers&#34;&gt;《神秘的程序员》&lt;/a&gt;漫画已经诞生了四年。我和西乔互相谦让了一番之后，写一篇纪念文章的任务最终还是落在了我的身上。&lt;/p&gt;&#xA;&lt;p&gt;2009年6月，我们还生活在北京，在那个月的月初，我们结了婚。婚礼之后，有一天我们发生了一段很好玩的对话，这段对话又囧又好玩，在我们哈哈大笑时，我突然想到是不是能改变成漫画，毕竟，程序员是一个有点特别的职业，这些人既傲慢又谦虚，既开放又封闭，对于和他们合作的其他行业，他们都显得神秘而难以理解，而他们自己的大量经验、教训和知识很难分享给别人，尽管这些往往是对的，但和他们合作的人以及管理层通常对此无动于衷。关于程序员、项目管理和工程的书汗牛充栋，但漫画几乎没有，甚至在英文世界这也几乎是空白。我们都意识到了这是一件值得尝试的事情，但在那个时候，西乔几乎没正式画过漫画，大概也从来没想到过竟然可以把一部漫画连载了四年之久。这部漫画和我们的两只猫咪（推特和翻墙）一样，是我们这四年生活中少有的一直陪伴我们的生命。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

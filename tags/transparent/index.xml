@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>transparent on HuoJu&#39;s BLOG</title>
+    <title>Transparent on HuoJu&#39;s BLOG</title>
     <link>/tags/transparent/</link>
-    <description>Recent content in transparent on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Transparent on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 06 Dec 2015 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/transparent/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/transparent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>微信、Uber、阴谋论和口袋罪</title>
       <link>/post/wexin_transparent/</link>
       <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/wexin_transparent/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/wexin_transparent/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;微信又一次封了Uber一堆帐号的事情应该大家都知道了。到底是微信因为腾讯投资的滴滴和Uber竞争而拉了偏手，还是因为Uber营销违反了微信公布的规则，每个人都有不同的看法。我没打算专门写一篇文章去给Uber鸣冤，而想讨论个更大的话题。&lt;/p&gt;
-
-&lt;p&gt;但首先要明确的是，认为此事和滴滴有关是合理的怀疑，这种看法绝不是反对者所说的“阴谋论”。腾讯大额投资了滴滴打车这是公开的消息，在任何事件或者案件的调查中，资本上的联系通常被认为是明确的证据，这种资本关系一定是突破口和率先被怀疑的因素，而且往往最终会是证据链上最坚定的一环。怎么能被认为是阴谋论呢？&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/wexin_transparent/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;微信又一次封了Uber一堆帐号的事情应该大家都知道了。到底是微信因为腾讯投资的滴滴和Uber竞争而拉了偏手，还是因为Uber营销违反了微信公布的规则，每个人都有不同的看法。我没打算专门写一篇文章去给Uber鸣冤，而想讨论个更大的话题。&lt;/p&gt;&#xA;&lt;p&gt;但首先要明确的是，认为此事和滴滴有关是合理的怀疑，这种看法绝不是反对者所说的“阴谋论”。腾讯大额投资了滴滴打车这是公开的消息，在任何事件或者案件的调查中，资本上的联系通常被认为是明确的证据，这种资本关系一定是突破口和率先被怀疑的因素，而且往往最终会是证据链上最坚定的一环。怎么能被认为是阴谋论呢？&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,36 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reddit on HuoJu&#39;s BLOG</title>
+    <title>Reddit on HuoJu&#39;s BLOG</title>
     <link>/tags/reddit/</link>
-    <description>Recent content in reddit on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Reddit on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 06 Apr 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>像素大战的72小时结束了，但传奇还没结束</title>
       <link>/post/reddit_place_final/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/reddit_place_final/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/reddit_place_final/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/reddit_place_final/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我在上一篇文章里面写了reddit place的像素大战，当时游戏还在进行中。游戏总共进行了72小时之后正式结束，于是我又写了这个续篇，说说游戏的后半场的经历和感受，以及游戏正式结束之后还发生了什么。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>参与这场线上大战之后，我觉得人类未来还是有希望的</title>
       <link>/post/reddit_place/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/reddit_place/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/reddit_place/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/reddit_place/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;4.1日愚人节，是每家互联网公司玩各种花样的时候。除了庸俗的愚人节玩笑，总有一些公司会在这一天做出来异乎寻常的举动，以前Google曾经在这天推出过Gmail。而今年最出风头的，是Reddit。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

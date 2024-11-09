@@ -1,93 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>baidu on HuoJu&#39;s BLOG</title>
+    <title>Baidu on HuoJu&#39;s BLOG</title>
     <link>/tags/baidu/</link>
-    <description>Recent content in baidu on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 May 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/baidu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <description>Recent content in Baidu on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Jan 2019 00:10:00 -0500</lastBuildDate>
+    <atom:link href="/tags/baidu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>狼性多了，人性就少了</title>
       <link>/post/bd_wolf_humility/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/bd_wolf_humility/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/bd_wolf_humility/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;为避免被投诉侵犯商誉，本文并没有出现这家公司的名称，请大家自行脑补。虽然我完全没认为他们有商誉存在。&lt;/p&gt;
-
-&lt;p&gt;这几天，那家著名的懂中文公司又出事了，史称“魏则西“事件，相信到现在已经没人不知道这件事的详情了，我也无需在这里重复一次了。很多人问我，你要不要写一篇？起初我是不想写的，因为关于这家公司的观点，我之前写过好几篇，道理和逻辑已经说的足够清楚了，例子也举的足够多了，无论再怎么说，也没什么新东西了。&lt;/p&gt;
-
-&lt;p&gt;但是这几天看了这家公司找来的各路有意无意的洗地党，我还得再补充一篇。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/bd_wolf_humility/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;为避免被投诉侵犯商誉，本文并没有出现这家公司的名称，请大家自行脑补。虽然我完全没认为他们有商誉存在。&lt;/p&gt;&#xA;&lt;p&gt;这几天，那家著名的懂中文公司又出事了，史称“魏则西“事件，相信到现在已经没人不知道这件事的详情了，我也无需在这里重复一次了。很多人问我，你要不要写一篇？起初我是不想写的，因为关于这家公司的观点，我之前写过好几篇，道理和逻辑已经说的足够清楚了，例子也举的足够多了，无论再怎么说，也没什么新东西了。&lt;/p&gt;&#xA;&lt;p&gt;但是这几天看了这家公司找来的各路有意无意的洗地党，我还得再补充一篇。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3.15，今天我被一家公司投诉了</title>
       <link>/post/315_baidu/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/315_baidu/</guid>
-      <description>&lt;p&gt;昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。&lt;/p&gt;
-
-&lt;p&gt;而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《&lt;a href=&#34;../baidu_kpi_and_a_example/&#34;&gt;再谈百度：KPI、无人机，以及一个必须给父母看的案例&lt;/a&gt;》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。&lt;/p&gt;
-
-&lt;p&gt;这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。&lt;/p&gt;</description>
+      <description>&lt;p&gt;昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。&lt;/p&gt;&#xA;&lt;p&gt;而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《&lt;a href=&#34;../baidu_kpi_and_a_example/&#34;&gt;再谈百度：KPI、无人机，以及一个必须给父母看的案例&lt;/a&gt;》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。&lt;/p&gt;&#xA;&lt;p&gt;这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>再谈百度：KPI、无人机，以及一个必须给父母看的案例</title>
       <link>/post/baidu_kpi_and_a_example/</link>
       <pubDate>Thu, 14 Jan 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/baidu_kpi_and_a_example/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/baidu_kpi_and_a_example/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;没想到我之前的一篇关于百度的文章引起了这么大的反馈。很多朋友称赞我写的好，实际上并非如此。我只是往一块顺着山坡向下滚的石头上踢了一脚而已。人们对于百度早就积累了太多年的怨气，我只是替大家说出来罢了。这篇文章总共收到了将近900条评论，而且还在继续增加中。可惜微信只能放出来50条精选评论，我真的很想把所有评论都放出来，里面有各种受骗的个人经历，有对我的鼓励，也有百度员工对我的各种指责。这篇文章除了讨论这些问题，还提供了一个具体案例，如果你懒得看这些理论，直接翻到后面有图的部分看吧。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/baidu_kpi_and_a_example/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;没想到我之前的一篇关于百度的文章引起了这么大的反馈。很多朋友称赞我写的好，实际上并非如此。我只是往一块顺着山坡向下滚的石头上踢了一脚而已。人们对于百度早就积累了太多年的怨气，我只是替大家说出来罢了。这篇文章总共收到了将近900条评论，而且还在继续增加中。可惜微信只能放出来50条精选评论，我真的很想把所有评论都放出来，里面有各种受骗的个人经历，有对我的鼓励，也有百度员工对我的各种指责。这篇文章除了讨论这些问题，还提供了一个具体案例，如果你懒得看这些理论，直接翻到后面有图的部分看吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>我是如何坚持10多年站在反百度第一线的</title>
       <link>/post/anti_baidu/</link>
       <pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/anti_baidu/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/anti_baidu/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是我的公众号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。&lt;/p&gt;
-
-&lt;p&gt;中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/anti_baidu/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;这是我的公众号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。&lt;/p&gt;&#xA;&lt;p&gt;中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>写给和百度作战的文艺工作者们</title>
       <link>/post/baidu_wenku_author/</link>
       <pubDate>Sat, 26 Mar 2011 12:03:00 +0800</pubDate>
-      
       <guid>/post/baidu_wenku_author/</guid>
-      <description>我是一个靠写代码生活的人，我觉得我们这个行业，和创造文艺产品的人——比如写书的作家——是非常一致的，盗版问题同样影响着我们，只不过我们用的是</description>
+      <description>&lt;p&gt;我是一个靠写代码生活的人，我觉得我们这个行业，和创造文艺产品的人——比如写书的作家——是非常一致的，盗版问题同样影响着我们，只不过我们用的是和作家不一样的语言来创造产品。比作家们幸运的是，我们可以完全脱离中国市场，去做英文的德文的日文的法文的软件，而且特别不要做中文的软件，这样才能让自己的作品在一个正常市场内销售并获得应有的收益。我们认为中国的问题无解，于是我们放弃了。我们不再愿意创造中国人普遍可用的工具，因为赚不到钱。作家们比我们悲哀一些，因为文化和语言是有民族性的，你们不能把中文的作品卖给其他国家的人，也很难快速学会用其他文字写作。于是，你们只能死磕。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>搜索世界的两端</title>
       <link>/post/two_search_engine/</link>
       <pubDate>Sun, 24 Jan 2010 12:01:00 +0800</pubDate>
-      
       <guid>/post/two_search_engine/</guid>
-      <description>这是给FTChinese写的稿子，发表于 http://www.ftchinese.com/story/001030941 所谓搜索世界的两端，一端是美国，一端是中国，一端是Google，一端是百度。如果眼下这些乱七八糟的</description>
+      <description>&lt;p&gt;这是给FTChinese写的稿子，发表于 &lt;a href=&#34;http://www.ftchinese.com/story/001030941&#34;&gt;http://www.ftchinese.com/story/001030941&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;所谓搜索世界的两端，一端是美国，一端是中国，一端是Google，一端是百度。如果眼下这些乱七八糟的事情继续坏下去，两端都会继续背离，越走越远。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google百度和谷歌的那些事</title>
       <link>/post/google_baidu/</link>
       <pubDate>Thu, 14 Jan 2010 22:01:00 +0800</pubDate>
-      
       <guid>/post/google_baidu/</guid>
-      <description>很久不在这个blog上写和技术无关的东西了，尤其不想写跟业界有关的东西，觉得太空，太忽悠，对别人没价值。但这次，我想写写这5，6年对goog</description>
+      <description>&lt;p&gt;很久不在这个blog上写和技术无关的东西了，尤其不想写跟业界有关的东西，觉得太空，太忽悠，对别人没价值。但这次，我想写写这5，6年对google和百度的一些观察心得。这里面，这里面存在大量的个人推论，我并不能担保完全正确，请只当作是一次思想的碰撞。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

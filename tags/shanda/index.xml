@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shanda on HuoJu&#39;s BLOG</title>
+    <title>Shanda on HuoJu&#39;s BLOG</title>
     <link>/tags/shanda/</link>
-    <description>Recent content in shanda on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Shanda on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 10 Apr 2015 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/shanda/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/shanda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>盛大创新院往事</title>
       <link>/post/shanda_innovations/</link>
       <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/shanda_innovations/</guid>
-      <description>看到新闻说“盛大游戏完成控股权出售”。有点感慨，去年前同事圈子就在风传，如果价钱合适，桥哥也可以把盛大游戏卖掉，到今天终于成真，盛大已经彻底</description>
+      <description>&lt;p&gt;看到新闻说“盛大游戏完成控股权出售”。有点感慨，去年前同事圈子就在风传，如果价钱合适，桥哥也可以把盛大游戏卖掉，到今天终于成真，盛大已经彻底改变了。过了这么多年，还总是有人问起当年往事，于是决定，趁这个时候，把这篇文章写下来。之前说要写的关于Uber的争论推迟一期好了。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

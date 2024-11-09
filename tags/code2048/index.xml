@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>code2048 on HuoJu&#39;s BLOG</title>
+    <title>Code2048 on HuoJu&#39;s BLOG</title>
     <link>/tags/code2048/</link>
-    <description>Recent content in code2048 on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Code2048 on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 22 Apr 2016 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/code2048/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/code2048/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BetaCat 的前生后世</title>
       <link>/post/betacat_introduction/</link>
       <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/betacat_introduction/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/betacat_introduction/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;可能有一部分读者知道，我除了写这个帐号，同时也是《神秘的程序员们》系列漫画的共同创始人。最近一段时间，我们一直在写一个科幻的连载故事。在《神秘的程序员们》上漫画已经连载了四期，告一段落。之后我为这个漫画写了一篇总结，说是总结，但其实主要是我关于人工智能和科幻小说的看法。&lt;/p&gt;
-
-&lt;p&gt;如果你是程序员漫画的读者，并且也在那边看过这篇文章了，非常感谢对我们的支持，抱歉打扰。如果还没看过，可以先用下面的二维码去这4期科幻漫画的列表页面，当然，看完文章再去看也没问题。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/betacat_introduction/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;可能有一部分读者知道，我除了写这个帐号，同时也是《神秘的程序员们》系列漫画的共同创始人。最近一段时间，我们一直在写一个科幻的连载故事。在《神秘的程序员们》上漫画已经连载了四期，告一段落。之后我为这个漫画写了一篇总结，说是总结，但其实主要是我关于人工智能和科幻小说的看法。&lt;/p&gt;&#xA;&lt;p&gt;如果你是程序员漫画的读者，并且也在那边看过这篇文章了，非常感谢对我们的支持，抱歉打扰。如果还没看过，可以先用下面的二维码去这4期科幻漫画的列表页面，当然，看完文章再去看也没问题。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

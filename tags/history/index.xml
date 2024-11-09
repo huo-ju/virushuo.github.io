@@ -1,47 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>history on HuoJu&#39;s BLOG</title>
+    <title>History on HuoJu&#39;s BLOG</title>
     <link>/tags/history/</link>
-    <description>Recent content in history on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in History on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 25 Apr 2021 18:03:05 -0400</lastBuildDate>
-    
-	<atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>围绕RMS、开源、自由软件的两场“战争”</title>
       <link>/post/rms_return_fsf/</link>
       <pubDate>Sun, 25 Apr 2021 18:03:05 -0400</pubDate>
-      
       <guid>/post/rms_return_fsf/</guid>
-      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;
-
-&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
+      <description>&lt;p&gt;我不是&lt;a href=&#34;https://en.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Stallman&lt;/a&gt;(RMS)的粉丝，不是自由软件基金会的会员，我用vim而不是emacs，除了最近两三年，我之前的日常应用BSD也多于Linux。但是围绕Stallman产生的争吵，逐渐变成了一个重要事件。&lt;/p&gt;&#xA;&lt;p&gt;它有太多的特殊性，这个事件不应该被看作针对一个人的评价，而是开源软件和自由软件社区历史冲突的一次爆发，长期以来美国政治和社会影响下产生的社会分裂波及技术社区，最终落在了这个人身上，而他又是以一人之力开创自由软件运动，建立这些社区的人，历史头尾相接，在这里相遇。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
       <link>/post/talk_with_jade_aaron/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
+      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>创新、历史和新泽西风格 - 贝尔实验室参观记</title>
       <link>/post/bell_labs_showcase_tour/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/bell_labs_showcase_tour/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/bell_labs_showcase_tour/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Google I/O马上就要开始了，很快你的朋友圈就会被关于IO的消息以及一堆在Google/Facebook/斯坦福拍的游客照刷满。但在此之前，我想聊聊前几天去Bell Labs的观后感，在今天这个互联网已经高度发达的时代，回头看看这段历史会有很多新感受。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/bell_labs_showcase_tour/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google I/O马上就要开始了，很快你的朋友圈就会被关于IO的消息以及一堆在Google/Facebook/斯坦福拍的游客照刷满。但在此之前，我想聊聊前几天去Bell Labs的观后感，在今天这个互联网已经高度发达的时代，回头看看这段历史会有很多新感受。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

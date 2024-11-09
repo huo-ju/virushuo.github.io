@@ -1,41 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>opensource on HuoJu&#39;s BLOG</title>
+    <title>Opensource on HuoJu&#39;s BLOG</title>
     <link>/tags/opensource/</link>
-    <description>Recent content in opensource on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Opensource on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 21 May 2019 21:22:19 -0400</lastBuildDate>
-    
-	<atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开源是自由的，永远</title>
       <link>/post/opensource_freedom_forever/</link>
       <pubDate>Tue, 21 May 2019 21:22:19 -0400</pubDate>
-      
       <guid>/post/opensource_freedom_forever/</guid>
       <description>&lt;p&gt;开源软件到底受不受美国政府管制？会不会应美国政府的要求禁运？最近这个话题成了热点。遗憾的是，到现在中文文章里我没看到能把这个事情说清楚的文章，这让我非常惊讶。中国科技和互联网行业从开源软件中受益极大，也有无数直接和间接参与者，但是这些基本事实还是糊涂的，比较遗憾。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>回应破破的桥《针对OpenSSL捐助的讨论》</title>
       <link>/post/openssl_and_opensource_reply/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/openssl_and_opensource_reply/</guid>
-      <description>前文： 到底谁才是真正的隐形战友 看到了朋友转来的破破的桥先生&amp;rdquo;针对OpenSSL捐助的讨论&amp;rdquo;一文，我也做个简单回应。因</description>
+      <description>&lt;p&gt;前文： &lt;a href=&#34;../openssl_and_opensource&#34;&gt;到底谁才是真正的隐形战友&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;看到了朋友转来的破破的桥先生&amp;quot;针对OpenSSL捐助的讨论&amp;quot;一文，我也做个简单回应。因为这种讨论意思不大，我虽然发在公共帐号，但并没有推送给我的订阅者，我又不喜欢去新浪微博，所以，还请大家帮忙转给破破的桥先生。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>到底谁才是真正的隐形战友—开源软件和OpenSSL的真实故事</title>
       <link>/post/openssl_and_opensource/</link>
       <pubDate>Fri, 06 Feb 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/openssl_and_opensource/</guid>
-      <description>前几天，在朋友圈看到转来的原发于“界面”关于OpenSSL和开源项目的“隐形战友”一文。开始觉得不过是炒冷饭，“心脏出血”这个OpenSSL</description>
+      <description>&lt;p&gt;前几天，在朋友圈看到转来的原发于“界面”关于OpenSSL和开源项目的&lt;a href=&#34;https://www.jiemian.com/article/231843.html&#34;&gt;“隐形战友”&lt;/a&gt;一文。开始觉得不过是炒冷饭，&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BF%83%E8%84%8F%E5%87%BA%E8%A1%80%E6%BC%8F%E6%B4%9E&#34;&gt;“心脏出血”&lt;/a&gt;这个OpenSSL严重漏洞，从去年（2014）4月初被公众知道，到现在已有将近一年了，这件事已经算告一段落。尽管这篇文章充满了误解、硬伤和企业宣传，我也没太在意。结果，今天看到界面的网站上竟然还在用支付宝给OpenSSL募捐，这就荒唐了。之前有一些朋友说，无论怎么样，多一些关注总是好的，从现在的结果看，界面的文章造成的坏影响更大，这篇文章扭曲了开源社区的本来状况，对其他组织和企业也不公平。开源软件、安全、隐私确实是大部分普通用户不了解的领域，但记者要写一篇文章，总应该对历史有个基本了解。&lt;/p&gt;&#xA;&lt;p&gt;界面网络的创始人何力先生，曾经创建了经济观察报和第一财经，都是不错的媒体，再次创业界面，也备受关注。可惜界面这篇文章，给我带来的失望比较大。更好笑的是，当年罗永浩对战王自如的时候，罗粉说王自如的公司是雷军投资的，所以王自如一定是倾向小米的。而今天，界面，这个小米参与投资的媒体，登了一篇锤子的软文。这两者之间对比，实在让人哭笑不得。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

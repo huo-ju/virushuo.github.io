@@ -1,51 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>weixin on HuoJu&#39;s BLOG</title>
+    <title>Weixin on HuoJu&#39;s BLOG</title>
     <link>/tags/weixin/</link>
-    <description>Recent content in weixin on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/weixin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <description>Recent content in Weixin on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Jan 2019 21:48:00 -0500</lastBuildDate>
+    <atom:link href="/tags/weixin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>内容电商毁掉了内容</title>
       <link>/post/content_with_eshopping/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/content_with_eshopping/</guid>
-      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;
-
-&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;
-
-&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
+      <description>&lt;p&gt;微信订阅号刚刚完成了一次重大产品变更，从订阅模式变成了类似信息流的把内容堆在一起的模式。对于这个变更本身我没什么评论的，任何产品上的改变，一定会对一些人有利，对另一些人不利，但长期看来，总有一些人会摸到新产品的窍门，重新占领有利地位。这些细节问题都不重要，我更关心的是本质问题，几年之前，微信公众号集中了中文内容中一批高质量的内容，仅仅几年的时间，这里为什么成了煽动情绪和各种“震惊”类文章的聚集地？为什么很多单就阅读体验来说相当高质量的公众号发文率和打开率双下降，订阅量也几乎不再有增长，但是另外一些营销大号反而流量屡创新高？&lt;/p&gt;&#xA;&lt;p&gt;我对这个问题的回答就是本文标题：内容电商毁掉了内容&lt;/p&gt;&#xA;&lt;p&gt;内容电商是指通过内容带动产品销售的模式，也是现在公众号上最流行的盈利方式。这里我不以正确或者错误来评价内容电商这个模式，但我们必须意识到一个问题，内容电商所创造的内容，本质是为了转化成某种物品的销售，内容在这里是一个媒介，不是最终产品。和直接写作给读者阅读的文章（比如本文），是截然不同的产品。更具体点说，我写的这篇文章，你读了，读完关窗口完事，整个流程就完成了，把这篇文章看作一个产品，它的生命周期在读者阅读完成，就结束了。但是对于内容电商，这不是终点，读者读完能完成一次购买，这才是终点。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>是真的，我基本已经不再用苹果的产品了</title>
       <link>/post/no_more_apple/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
-      
       <guid>/post/no_more_apple/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/no_more_apple/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/no_more_apple/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天，应苹果要求，微信停止了iOS平台用户对公众号作者的赞赏功能。我读很多公众号，经常给别人赞赏，我也写公众号，也收到别人赞赏，两方的体验都有。对于我来说，无论给出赞赏还是收到赞赏，它最大的价值始终是“好玩”，而不是“赚钱”。我相信大多数公众号作者并没指望靠赞赏发财，我始终认为这个功能是“发红包”的延伸，它代表的是情感交流，而不是钱本身的数量。我一直还希望微信能有一天提供“赞赏读者”的功能，这样我就可以通过这种方式给留了比较精彩评论的读者发个红包。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>微信、Uber、阴谋论和口袋罪</title>
       <link>/post/wexin_transparent/</link>
       <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
-      
       <guid>/post/wexin_transparent/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/wexin_transparent/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;微信又一次封了Uber一堆帐号的事情应该大家都知道了。到底是微信因为腾讯投资的滴滴和Uber竞争而拉了偏手，还是因为Uber营销违反了微信公布的规则，每个人都有不同的看法。我没打算专门写一篇文章去给Uber鸣冤，而想讨论个更大的话题。&lt;/p&gt;
-
-&lt;p&gt;但首先要明确的是，认为此事和滴滴有关是合理的怀疑，这种看法绝不是反对者所说的“阴谋论”。腾讯大额投资了滴滴打车这是公开的消息，在任何事件或者案件的调查中，资本上的联系通常被认为是明确的证据，这种资本关系一定是突破口和率先被怀疑的因素，而且往往最终会是证据链上最坚定的一环。怎么能被认为是阴谋论呢？&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/wexin_transparent/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;微信又一次封了Uber一堆帐号的事情应该大家都知道了。到底是微信因为腾讯投资的滴滴和Uber竞争而拉了偏手，还是因为Uber营销违反了微信公布的规则，每个人都有不同的看法。我没打算专门写一篇文章去给Uber鸣冤，而想讨论个更大的话题。&lt;/p&gt;&#xA;&lt;p&gt;但首先要明确的是，认为此事和滴滴有关是合理的怀疑，这种看法绝不是反对者所说的“阴谋论”。腾讯大额投资了滴滴打车这是公开的消息，在任何事件或者案件的调查中，资本上的联系通常被认为是明确的证据，这种资本关系一定是突破口和率先被怀疑的因素，而且往往最终会是证据链上最坚定的一环。怎么能被认为是阴谋论呢？&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

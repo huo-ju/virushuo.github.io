@@ -1,72 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>crypto on HuoJu&#39;s BLOG</title>
+    <title>Crypto on HuoJu&#39;s BLOG</title>
     <link>/tags/crypto/</link>
-    <description>Recent content in crypto on HuoJu&#39;s BLOG</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Crypto on HuoJu&#39;s BLOG</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 29 Jan 2019 19:47:35 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>互联网之子 Aaron Swarts 想要看到的世界</title>
       <link>/post/talk_with_jade_aaron/</link>
       <pubDate>Tue, 29 Jan 2019 19:47:35 -0500</pubDate>
-      
       <guid>/post/talk_with_jade_aaron/</guid>
-      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
+      <description>&lt;p&gt;首发于： &lt;a href=&#34;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&#34;&gt;https://mp.weixin.qq.com/s/z4J2KI8LjcfOIZLhGbi_QQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jade和我偶尔会聊起一些宏大的话题，最近聊到了Aaron和互联网创建者们的一些历史。她觉得应该正经的来一次对话，记录下来分享给其他人。我们约了个时间，原计划聊2个小时，实际上聊了5个小时。最后形成了一篇交谈形式的文字，她称之为文字版的Podcast。我很喜欢这种形式，我也更认同文字的价值，更好分享，更好检索，也更好修改或者摘录使用。以后我们应该还会继续这样的对话，这次聊天里面很多东西都可以继续讲下去。希望你也喜欢这个形式。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</title>
       <link>/post/bitcoin_2018/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 -0500</pubDate>
-      
       <guid>/post/bitcoin_2018/</guid>
       <description>&lt;p&gt;写过上一篇&lt;a href=&#34;../the_darknet/&#34;&gt;暗网的文章&lt;/a&gt;之后，按照大家的预期，我顺理成章应该写到区块链了。实际上也是如此，在去年这一年里面，我几次写到了相关话题，比如&lt;a href=&#34;../the_old_internet_is_end/&#34;&gt;互联网中心化偏离了最早的预期&lt;/a&gt;，比如分布式系统上建立的暗网代表了一种自由，但是一直没有专门写一篇关于区块链的文章。区块链的话题很有意思，值得多写几篇，就把本文算作第一篇吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>李笑来，那个一顿饭点8条鲈鱼的人</title>
       <link>/post/lixiaolai/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0800</pubDate>
-      
       <guid>/post/lixiaolai/</guid>
       <description>&lt;p&gt;我已经记不清到底哪年认识的李笑来，大概是2006年吧。到现在已经超过10年了。这10年间我看着他做过无数事情，聊过很多想法。今天笑来变成了众矢之的，似乎所有事情都怪他，很多文章干脆把他描述成一个处心积虑的骗子的文章。但李笑来究竟如何想，他的逻辑是什么，没有一篇文章写过。当然，他们没采访过李笑来，没读过他的文章，怎么能解释这些问题呢？我想，与其让别人来批判他，不如由我这个熟悉他的人来吧。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>苹果、FBI以及你的全部生活</title>
       <link>/post/apple_fbi/</link>
       <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
-      
       <guid>/post/apple_fbi/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../images/apple_fbi/title.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近大家应该都知道了苹果公司和FBI在手机加密上的冲突。前几天苹果提交了一份长达65页的文档，是给法庭关于这个案子的答辩状，除了公司相关负责人的证词，里面还列举了相关的案例，苹果对于法律、案例以及技术的看法。非常精彩，信息相当全面。在讨论苹果和FBI以及法庭具体的冲突和观点之前，我觉得更值得讨论的问题是：“为什么人们需要加密”。对于大部分人，恐怕是认为加密是可有可无的，这种观点不仅在中国相当有市场，在美国竟然也有不少人支持。忙着竞选总统的希拉里也曾经说过，应该限制科技企业对于加密技术的使用，因为这会给警方工作带来困难。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/apple_fbi/title.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;最近大家应该都知道了苹果公司和FBI在手机加密上的冲突。前几天苹果提交了一份长达65页的文档，是给法庭关于这个案子的答辩状，除了公司相关负责人的证词，里面还列举了相关的案例，苹果对于法律、案例以及技术的看法。非常精彩，信息相当全面。在讨论苹果和FBI以及法庭具体的冲突和观点之前，我觉得更值得讨论的问题是：“为什么人们需要加密”。对于大部分人，恐怕是认为加密是可有可无的，这种观点不仅在中国相当有市场，在美国竟然也有不少人支持。忙着竞选总统的希拉里也曾经说过，应该限制科技企业对于加密技术的使用，因为这会给警方工作带来困难。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>关于bitcoin若干问题我的看法</title>
       <link>/post/bitcoin/</link>
       <pubDate>Mon, 23 May 2011 15:05:00 +0800</pubDate>
-      
       <guid>/post/bitcoin/</guid>
-      <description>最近关于bitcoin突然在中文圈子火了起来，似乎是引爆点到了。半年前我也下载过，但是没弄明白怎么用，说回头看看wiki，放在一边就给忘了。</description>
+      <description>&lt;p&gt;最近关于bitcoin突然在中文圈子火了起来，似乎是引爆点到了。半年前我也下载过，但是没弄明白怎么用，说回头看看wiki，放在一边就给忘了。现在想来悔不当初，当时如果下手估计也能弄到几百个吧&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>使用php,js来对内容做rsa加密</title>
       <link>/post/phpjsrsa/</link>
       <pubDate>Sun, 27 Dec 2009 18:12:00 +0800</pubDate>
-      
       <guid>/post/phpjsrsa/</guid>
-      <description>http://code.google.com/p/phpjsrsa/ 这是一个用于文本加密的库，主要用于http协议下的防窃听。一般来说，如果应用https协议可以有效的避免窃听。但有几种情况必须考虑。 (1) 主机</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/phpjsrsa/&#34;&gt;http://code.google.com/p/phpjsrsa/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;这是一个用于文本加密的库，主要用于http协议下的防窃听。一般来说，如果应用https协议可以有效的避免窃听。但有几种情况必须考虑。&lt;/p&gt;&#xA;&lt;p&gt;(1) 主机同时有https和http协议，部分用户通过https协议访问，获得了保护。但也有用户通过http访问，这部分用户会遭到窃听。除非关闭http请求，全面转向https。&#xA;(2) 主机并没有https支持。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
