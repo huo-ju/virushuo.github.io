@@ -44,7 +44,7 @@ letsencrypt使用akamai cdn分发ocsp状态，实际上遭到DNS污染的似乎�
 
 我首先想按照ocsp协议写一个简单的responder，不过搜索之后发现有人很多年前写过一段非常简单的[转发代码](https://github.com/dlecorfec/ocsp-proxy)，直接把请求转发给指定的服务器。虽然必须要设置一个固定的转发服务器（因为原始的Authority Information Access信息被nginx覆盖了）。我想更好的解决方案是修改一下nginx的代码，在这个http请求中把原始的AIA放到header里面一起发给代理，不过考虑到大部分人都会把所有证书集中在一个供应商，设置一个转发地址完全能解决问题。而且避免每次升级给nginx重新打补丁的麻烦。所以就不改了。
 
-我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： https://github.com/virushuo/ocsp-proxy
+我稍微修改了一下这个代码，让程序可以从环境变量获得转发地址，以便于使用docker部署。新的代码在这里： https://github.com/huo-ju/ocsp-proxy
 
 部署好了之后在nginx.conf里面增加配置:
 
